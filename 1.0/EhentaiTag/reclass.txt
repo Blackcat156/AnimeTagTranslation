@@ -1,0 +1,11 @@
+﻿<item><jptag></jptag><cntag>游戏CG集</cntag><cntwtag></cntwtag><romatag>gamecg</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>画师图集</cntag><cntwtag></cntwtag><romatag>artistcg</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亚洲色情</cntag><cntwtag></cntwtag><romatag>asianporn</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Cosplay</cntag><cntwtag></cntwtag><romatag>cosplay</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>同人志</cntag><cntwtag></cntwtag><romatag>doujinshi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>图片集</cntag><cntwtag></cntwtag><romatag>imageset</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>漫画</cntag><cntwtag></cntwtag><romatag>manga</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>杂项</cntag><cntwtag></cntwtag><romatag>misc</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无H</cntag><cntwtag></cntwtag><romatag>non-h</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>西方的</cntag><cntwtag></cntwtag><romatag>western</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>私人的</cntag><cntwtag></cntwtag><romatag>private</romatag><krtag></krtag><entag></entag></item>

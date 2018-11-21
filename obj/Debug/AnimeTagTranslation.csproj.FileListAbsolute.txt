@@ -1,0 +1,2 @@
+F:\vs2017\AnimeTagTranslation\AnimeTagTranslation\obj\Debug\AnimeTagTranslation.csprojAssemblyReference.cache
+F:\vs2017\AnimeTagTranslation\AnimeTagTranslation\obj\Debug\AnimeTagTranslation.csproj.CoreCompileInputs.cache

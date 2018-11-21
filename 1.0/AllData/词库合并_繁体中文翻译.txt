@@ -1,0 +1,1327 @@
+﻿<tag><jptag>ゆめにっき</jptag><cntag>梦日记</cntag><cntwtag>夢日記</cntwtag><entag>yume nikki</entag><kotag>유메닛키</kotag></tag>
+<tag><jptag>ドット絵</jptag><cntag>点阵图</cntag><cntwtag>像素圖</cntwtag><entag>pixel art</entag><kotag></kotag></tag>
+<tag><jptag>メスケモ</jptag><cntag>女性兽人</cntag><cntwtag>女性獸人</cntwtag><entag>female furry</entag><kotag></kotag></tag>
+<tag><jptag>状態変化</jptag><cntag>状态变化</cntag><cntwtag>狀態變化</cntwtag><entag>change of status</entag><kotag>상태변화</kotag></tag>
+<tag><jptag>ケモノ</jptag><cntag>野兽</cntag><cntwtag>野獸</cntwtag><entag>furry</entag><kotag>수인</kotag></tag>
+<tag><jptag>黒</jptag><cntag>黑</cntag><cntwtag>黑</cntwtag><entag>black</entag><kotag>흑</kotag></tag>
+<tag><jptag>クロスオーバー</jptag><cntag>跨界作品</cntag><cntwtag>跨界作品</cntwtag><entag>crossover</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル1000users入り</jptag><cntag>原创1000users加入书籤</cntag><cntwtag>原創1000users加入書籤</cntwtag><entag>original 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>ラバースーツ</jptag><cntag>橡胶紧身衣</cntag><cntwtag>橡膠緊身衣</cntwtag><entag>rubber bodysuit</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル10000users入り</jptag><cntag>原创10000users加入书籤</cntag><cntwtag>原創10000users加入書籤</cntwtag><entag>original 10000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル5000users入り</jptag><cntag>原创5000users加入书籤</cntag><cntwtag>原創5000users加入書籤</cntwtag><entag>original 5000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>アナログ</jptag><cntag>手绘</cntag><cntwtag>手繪</cntwtag><entag>traditional</entag><kotag></kotag></tag>
+<tag><jptag>うごイラ</jptag><cntag>动图</cntag><cntwtag>動圖</cntwtag><entag>ugoira</entag><kotag></kotag></tag>
+<tag><jptag>恐竜</jptag><cntag>恐龙</cntag><cntwtag>恐龍</cntwtag><entag>dinosaur</entag><kotag>공룡</kotag></tag>
+<tag><jptag>むちむち</jptag><cntag>丰满</cntag><cntwtag>豐滿</cntwtag><entag>plump</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル</jptag><cntag>原创</cntag><cntwtag>原創</cntwtag><entag>original</entag><kotag>창작</kotag></tag>
+<tag><jptag>膨体</jptag><cntag></cntag><cntwtag>膨體</cntwtag><entag>swollen body</entag><kotag></kotag></tag>
+<tag><jptag>鉛筆</jptag><cntag>铅笔</cntag><cntwtag>铅笔</cntwtag><entag>pencil</entag><kotag>연필</kotag></tag>
+<tag><jptag>フリー素材</jptag><cntag>免费素材</cntag><cntwtag>免費素材</cntwtag><entag>freebies for drawing</entag><kotag>프리 소재</kotag></tag>
+<tag><jptag>ふたなり</jptag><cntag>扶他</cntag><cntwtag>扶他</cntwtag><entag>futanari</entag><kotag></kotag></tag>
+<tag><jptag>風船</jptag><cntag>气球</cntag><cntwtag>氣球</cntwtag><entag>balloon</entag><kotag></kotag></tag>
+<tag><jptag>極上の貧乳</jptag><cntag>极上贫乳</cntag><cntwtag>極上貧乳</cntwtag><entag>first-rate flat breasts</entag><kotag></kotag></tag>
+<tag><jptag>写真</jptag><cntag></cntag><cntwtag>寫真</cntwtag><entag>photo</entag><kotag>사진</kotag></tag>
+<tag><jptag>皮モノ</jptag><cntag>复皮</cntag><cntwtag>覆皮</cntwtag><entag>skinsuit</entag><kotag></kotag></tag>
+<tag><jptag>ブルマ</jptag><cntag>灯笼裤</cntag><cntwtag>燈籠褲</cntwtag><entag>bloomers</entag><kotag>부르마</kotag></tag>
+<tag><jptag>魅惑のふともも</jptag><cntag>魅惑的大腿</cntag><cntwtag>魅惑的大腿</cntwtag><entag>bewitching thighs</entag><kotag></kotag></tag>
+<tag><jptag>おしっこ我慢</jptag><cntag>憋尿</cntag><cntwtag>憋尿</cntwtag><entag>pee-holding</entag><kotag></kotag></tag>
+<tag><jptag>落書き</jptag><cntag>涂鸦</cntag><cntwtag>塗鴉</cntwtag><entag>doodle</entag><kotag>낙서</kotag></tag>
+<tag><jptag>表紙</jptag><cntag>封面</cntag><cntwtag>封面</cntwtag><entag>front cover</entag><kotag></kotag></tag>
+<tag><jptag>壁纸</jptag><cntag></cntag><cntwtag>壁紙</cntwtag><entag>wallpaper</entag><kotag></kotag></tag>
+<tag><jptag>音楽</jptag><cntag>音乐</cntag><cntwtag>音樂</cntwtag><entag>music</entag><kotag>음악</kotag></tag>
+<tag><jptag>ラブライブ!サンシャイン!!</jptag><cntag>LoveLive! Sunshine!!</cntag><cntwtag>LoveLive! Sunshine!!</cntwtag><entag>Love Live! Sunshine!!</entag><kotag></kotag></tag>
+<tag><jptag>刀使ノ巫女</jptag><cntag>刀使之巫女</cntag><cntwtag>刀使之巫女</cntwtag><entag>Katana Maidens</entag><kotag></kotag></tag>
+<tag><jptag>HUGっと!プリキュア</jptag><cntag>拥抱!光之美少女</cntag><cntwtag>擁抱！光之美少女</cntwtag><entag>Hugtto! PreCure</entag><kotag></kotag></tag>
+<tag><jptag>ゲゲゲの鬼太郎</jptag><cntag>鬼太郎</cntag><cntwtag>鬼太郎</cntwtag><entag>GeGeGe no Kitarō</entag><kotag></kotag></tag>
+<tag><jptag>青の祓魔師</jptag><cntag>青之除魔师</cntag><cntwtag>青之驅魔師</cntwtag><entag>blue exorcist</entag><kotag>청의 엑소시스트</kotag></tag>
+<tag><jptag>ご注文はうさぎですか?</jptag><cntag>请问您今天要来点兔子吗？</cntag><cntwtag>請問您今天要來點兔子嗎？</cntwtag><entag>Is the Order a Rabbit?</entag><kotag></kotag></tag>
+<tag><jptag>ハイスクールD×D</jptag><cntag>恶魔高校D×D</cntag><cntwtag>惡魔高校D×D</cntwtag><entag>High School DxD</entag><kotag></kotag></tag>
+<tag><jptag>遊戯王VRAINS</jptag><cntag>游戏王VRAINS</cntag><cntwtag>遊戲王VRAINS</cntwtag><entag>Yu-Gi-Oh! VRAINS</entag><kotag></kotag></tag>
+<tag><jptag>閃乱カグラ</jptag><cntag>闪乱神乐</cntag><cntwtag>閃亂神樂</cntwtag><entag>senran kagura</entag><kotag></kotag></tag>
+<tag><jptag>くノ一</jptag><cntag></cntag><cntwtag>女忍者</cntwtag><entag>kunoichi</entag><kotag></kotag></tag>
+<tag><jptag>バットマン</jptag><cntag>蝙蝠侠</cntag><cntwtag>蝙蝠俠</cntwtag><entag>batman</entag><kotag>배트맨</kotag></tag>
+<tag><jptag>アイドルマスターシンデレラガールズ</jptag><cntag>偶像大师 灰姑娘女孩</cntag><cntwtag>偶像大師 灰姑娘女孩</cntwtag><entag>The Idolmaster: Cinderella Girls</entag><kotag>아이돌 마스터 신데렐라 걸즈</kotag></tag>
+<tag><jptag>ロックマン</jptag><cntag>洛克人</cntag><cntwtag>洛克人</cntwtag><entag>Megaman</entag><kotag>록맨</kotag></tag>
+<tag><jptag>雛鶴あい</jptag><cntag>雏鹤爱</cntag><cntwtag>雛鶴愛</cntwtag><entag>Ai Hinatsuru</entag><kotag></kotag></tag>
+<tag><jptag>ポプテピピック</jptag><cntag>POP TEAM EPIC</cntag><cntwtag>POP TEAM EPIC</cntwtag><entag>Pop Team Epic</entag><kotag></kotag></tag>
+<tag><jptag>デート・ア・ライブ</jptag><cntag>约会大作战</cntag><cntwtag>約會大作戰</cntwtag><entag>date a live</entag><kotag>데이트 어 라이브</kotag></tag>
+<tag><jptag>ドラゴンボール</jptag><cntag>龙珠</cntag><cntwtag>七龍珠</cntwtag><entag>Dragon Ball</entag><kotag>드래곤볼</kotag></tag>
+<tag><jptag>高巻杏</jptag><cntag>高卷杏</cntag><cntwtag>高卷杏</cntwtag><entag>Ann Takamaki</entag><kotag></kotag></tag>
+<tag><jptag>マギアレコード</jptag><cntag>魔法纪录</cntag><cntwtag>魔法紀錄</cntwtag><entag>Magia Record</entag><kotag></kotag></tag>
+<tag><jptag>聖闘士星矢</jptag><cntag>圣斗士星矢</cntag><cntwtag>聖鬥士星矢</cntwtag><entag>saint seiya</entag><kotag></kotag></tag>
+<tag><jptag>カードキャプターさくら</jptag><cntag>魔卡少女樱</cntag><cntwtag>庫洛魔法使</cntwtag><entag>Cardcaptor Sakura</entag><kotag></kotag></tag>
+<tag><jptag>リーリエ(ポケモン)</jptag><cntag>莉莉艾(精灵宝可梦)</cntag><cntwtag>莉莉艾(精靈寶可夢)</cntwtag><entag>Lillie (Pokémon)</entag><kotag></kotag></tag>
+<tag><jptag>犬山まな</jptag><cntag>犬山真奈</cntag><cntwtag>犬山真奈</cntwtag><entag>Mana Inuyama</entag><kotag></kotag></tag>
+<tag><jptag>プリキュア</jptag><cntag>光之美少女</cntag><cntwtag>光之美少女</cntwtag><entag>precure</entag><kotag>프리큐어</kotag></tag>
+<tag><jptag>カービィ</jptag><cntag>卡比</cntag><cntwtag>卡比</cntwtag><entag>kirby</entag><kotag>커비</kotag></tag>
+<tag><jptag>ジョジョの奇妙な冒険</jptag><cntag>JoJo的奇妙冒险</cntag><cntwtag>JoJo的奇妙冒險</cntwtag><entag>JoJo's Bizarre Adventure</entag><kotag>죠죠의 기묘한 모험</kotag></tag>
+<tag><jptag>私がモテないのはどう考えてもお前らが悪い!</jptag><cntag>我不受欢迎，怎麽想都是你们的错！</cntag><cntwtag>我不受歡迎，怎麼想都是你們的錯！</cntwtag><entag>No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!</entag><kotag></kotag></tag>
+<tag><jptag>おそ松さん</jptag><cntag>阿松</cntag><cntwtag>小松先生</cntwtag><entag>Mr. Osomatsu</entag><kotag></kotag></tag>
+<tag><jptag>この素晴らしい世界に祝福を!</jptag><cntag>为美好的世界献上祝福！</cntag><cntwtag>為美好的世界獻上祝福！</cntwtag><entag>KonoSuba</entag><kotag></kotag></tag>
+<tag><jptag>ウマ娘プリティーダービー</jptag><cntag>赛马娘Pretty Derby</cntag><cntwtag>賽馬娘Pretty Derby</cntwtag><entag>Uma Musume Pretty Derby</entag><kotag></kotag></tag>
+<tag><jptag>とある魔術の禁書目録</jptag><cntag>魔法的禁书目录</cntag><cntwtag>魔法禁書目錄</cntwtag><entag>a certain magical index</entag><kotag>어떤 마술의 금서목록</kotag></tag>
+<tag><jptag>鬼灯の冷徹</jptag><cntag>鬼灯的冷彻</cntag><cntwtag>鬼燈的冷徹</cntwtag><entag></entag><kotag>호오즈키의 냉철</kotag></tag>
+<tag><jptag>戦国BASARA</jptag><cntag>战国basara</cntag><cntwtag>戰國basara</cntwtag><entag>sengoku basara</entag><kotag></kotag></tag>
+<tag><jptag>ウルトラマン</jptag><cntag>奥特曼</cntag><cntwtag>超人力霸王</cntwtag><entag>ultraman</entag><kotag>울트라맨</kotag></tag>
+<tag><jptag>ガンダムビルドダイバーズ</jptag><cntag>高达创形者</cntag><cntwtag>鋼彈創鬥者 潛網大戰</cntwtag><entag>Gundam Build Divers</entag><kotag></kotag></tag>
+<tag><jptag>ヤンデレ</jptag><cntag>病娇</cntag><cntwtag>病嬌</cntwtag><entag>yandere</entag><kotag>얀데레</kotag></tag>
+<tag><jptag>小狼×さくら</jptag><cntag>小狼×小樱</cntag><cntwtag>小狼×小櫻</cntwtag><entag>Syaoran/Sakura</entag><kotag></kotag></tag>
+<tag><jptag>エヴァンゲリオン</jptag><cntag>新世纪福音战士</cntag><cntwtag>新世紀福音戰士</cntwtag><entag>evangelion</entag><kotag>에반게리온</kotag></tag>
+<tag><jptag>戦姫絶唱シンフォギア</jptag><cntag>战姬绝唱Symphogear</cntag><cntwtag>戰姬絕唱SYMPHOGEAR</cntwtag><entag>senki zesshou symphogear</entag><kotag>전희절창 심포기어</kotag></tag>
+<tag><jptag>サムライスピリッツ</jptag><cntag>侍魂</cntag><cntwtag>侍魂</cntwtag><entag>Samurai Shodown</entag><kotag></kotag></tag>
+<tag><jptag>ソードアート・オンライン</jptag><cntag>刀剑神域</cntag><cntwtag>刀劍神域</cntwtag><entag>sword art online</entag><kotag>소드 아트 온라인</kotag></tag>
+<tag><jptag>女ザコ</jptag><cntag>女杂鱼</cntag><cntwtag>女雜魚</cntwtag><entag>female lesser enemies</entag><kotag></kotag></tag>
+<tag><jptag>黒子のバスケ</jptag><cntag>黑子的篮球</cntag><cntwtag>影子籃球員</cntwtag><entag>kuroko's basketball</entag><kotag>쿠로코의 농구</kotag></tag>
+<tag><jptag>キズナアイ</jptag><cntag>绊爱</cntag><cntwtag>絆愛</cntwtag><entag>Kizuna AI</entag><kotag></kotag></tag>
+<tag><jptag>プリンセス・プリンシパル</jptag><cntag>Princess Principa</cntag><cntwtag>Princess Principa</cntwtag><entag>Princess Principal</entag><kotag></kotag></tag>
+<tag><jptag>サーナイト</jptag><cntag>沙奈朵</cntag><cntwtag>沙奈朵</cntwtag><entag>gardevoir</entag><kotag>가디안</kotag></tag>
+<tag><jptag>めぐみん</jptag><cntag>惠惠</cntag><cntwtag>惠惠</cntwtag><entag>Megumin</entag><kotag></kotag></tag>
+<tag><jptag>イナズマイレブン</jptag><cntag>闪电十一人</cntag><cntwtag>閃電十一人</cntwtag><entag>inazuma eleven</entag><kotag>썬더 일레븐</kotag></tag>
+<tag><jptag>腐向け</jptag><cntag>腐向</cntag><cntwtag>腐向</cntwtag><entag>yaoi</entag><kotag>부녀자향</kotag></tag>
+<tag><jptag>ブラックマジシャンガール</jptag><cntag>黑魔导女孩</cntag><cntwtag>黑魔導女孩</cntwtag><entag>black magician girl</entag><kotag>블랙 매지션 걸</kotag></tag>
+<tag><jptag>ツンデレ</jptag><cntag>傲娇</cntag><cntwtag>傲嬌</cntwtag><entag>tsundere</entag><kotag>츤데레</kotag></tag>
+<tag><jptag>エロマンガ先生</jptag><cntag>埃罗芒阿老师</cntag><cntwtag>情色漫畫老師</cntwtag><entag>Eromanga-sensei</entag><kotag></kotag></tag>
+<tag><jptag>ガンダム</jptag><cntag>高达</cntag><cntwtag>鋼彈</cntwtag><entag>gundam</entag><kotag>건담</kotag></tag>
+<tag><jptag>ペルソナ5</jptag><cntag>女神异闻录5</cntag><cntwtag>女神異聞錄5</cntwtag><entag>Persona 5</entag><kotag></kotag></tag>
+<tag><jptag>リザードン</jptag><cntag>喷火龙</cntag><cntwtag>噴火龍</cntwtag><entag>Charizard</entag><kotag>리자몽</kotag></tag>
+<tag><jptag>カドック・ゼムルプス</jptag><cntag>卡多克·泽姆露普斯</cntag><cntwtag>卡多克・澤姆露普斯</cntwtag><entag>Kadoc Zemlupus</entag><kotag></kotag></tag>
+<tag><jptag>クレヨンしんちゃん</jptag><cntag>蜡笔小新</cntag><cntwtag>蠟筆小新</cntwtag><entag>crayon shinchan</entag><kotag>짱구는 못말려</kotag></tag>
+<tag><jptag>クロエ・フォン・アインツベルン</jptag><cntag>克洛伊・冯・爱因兹贝伦</cntag><cntwtag>克洛伊・馮・愛因茲貝倫</cntwtag><entag>Chloe Von Einzbern</entag><kotag></kotag></tag>
+<tag><jptag>イリヤスフィール・フォン・アインツベルン</jptag><cntag>伊莉雅丝菲尔・冯・爱因兹贝伦</cntag><cntwtag>伊莉雅絲菲爾・馮・愛因茲貝倫</cntwtag><entag>illyasviel von einzbern</entag><kotag></kotag></tag>
+<tag><jptag>マシュ・キリエライト</jptag><cntag>玛修·基列莱特</cntag><cntwtag>瑪修·基列萊特</cntwtag><entag>Mashu Kyrielight</entag><kotag></kotag></tag>
+<tag><jptag>ペルソナ4</jptag><cntag>女神异闻录4</cntag><cntwtag>女神異聞錄4</cntwtag><entag>persona 4</entag><kotag>페르소나4</kotag></tag>
+<tag><jptag>猫娘</jptag><cntag></cntag><cntwtag>貓娘</cntwtag><entag>neko musume</entag><kotag></kotag></tag>
+<tag><jptag>ドラえもん</jptag><cntag>哆啦A梦</cntag><cntwtag>哆拉A夢</cntwtag><entag>doraemon</entag><kotag>도라에몽</kotag></tag>
+<tag><jptag>セレナ(トレーナー)</jptag><cntag>莎莉娜(宝可梦训练师)</cntag><cntwtag>莎莉娜(寶可夢訓練師)</cntwtag><entag>Serena (Trainer)</entag><kotag></kotag></tag>
+<tag><jptag>鷺沢文香</jptag><cntag>鹭泽文香</cntag><cntwtag>鷺澤文香</cntwtag><entag>Fumika Sagisawa</entag><kotag></kotag></tag>
+<tag><jptag>ブレンド・S</jptag><cntag>调教咖啡厅</cntag><cntwtag>調教咖啡廳</cntwtag><entag>Blend S</entag><kotag></kotag></tag>
+<tag><jptag>進撃の巨人</jptag><cntag>进击的巨人</cntag><cntwtag>進擊的巨人</cntwtag><entag>Attack On Titan</entag><kotag>진격의 거인</kotag></tag>
+<tag><jptag>僕のヒーローアカデミア</jptag><cntag>我的英雄学院</cntag><cntwtag>我的英雄學院</cntwtag><entag>My Hero Academia</entag><kotag></kotag></tag>
+<tag><jptag>アンパンマン</jptag><cntag></cntag><cntwtag>麵包超人</cntwtag><entag>anpanman</entag><kotag>호빵맨</kotag></tag>
+<tag><jptag>ハイキュー!!</jptag><cntag>排球少年！！</cntag><cntwtag>排球少年！！</cntwtag><entag>Haikyu!!</entag><kotag>하이큐!!</kotag></tag>
+<tag><jptag>うちはサスケ</jptag><cntag>宇智波佐助</cntag><cntwtag>宇智波佐助</cntwtag><entag>sasuke uchiha</entag><kotag></kotag></tag>
+<tag><jptag>トランスフォーマー</jptag><cntag>变形金刚</cntag><cntwtag>變形金剛</cntwtag><entag>transformers</entag><kotag>트랜스포머</kotag></tag>
+<tag><jptag>妖怪ウォッチ</jptag><cntag>妖怪手錶</cntag><cntwtag>妖怪手錶</cntwtag><entag>Yo-kai Watch</entag><kotag>요괴워치</kotag></tag>
+<tag><jptag>ゆるキャン△</jptag><cntag>摇曳露营△</cntag><cntwtag>搖曳露營△</cntwtag><entag>Yuru Camp △</entag><kotag></kotag></tag>
+<tag><jptag>越前リョーマ</jptag><cntag>越前龙马</cntag><cntwtag>越前龍馬</cntwtag><entag>ryoma echizen</entag><kotag></kotag></tag>
+<tag><jptag>フィニアスとファーブ</jptag><cntag>飞哥与小佛</cntag><cntwtag>飛哥與小佛</cntwtag><entag>phineas and ferb</entag><kotag>피니와 퍼브</kotag></tag>
+<tag><jptag>ピカチュウ</jptag><cntag>皮卡丘</cntag><cntwtag>皮卡丘</cntwtag><entag>pikachu</entag><kotag>피카츄</kotag></tag>
+<tag><jptag>渋谷凛</jptag><cntag>涩谷凛</cntag><cntwtag>澀谷凜</cntwtag><entag>rin shibuya</entag><kotag>시부야 린</kotag></tag>
+<tag><jptag>遊戯王</jptag><cntag>游戏王</cntag><cntwtag>遊戲王</cntwtag><entag>Yu-Gi-Oh!</entag><kotag>유희왕</kotag></tag>
+<tag><jptag>D.Gray-man</jptag><cntag>驱魔少年</cntag><cntwtag>驅魔少年</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ヘタリア</jptag><cntag>义呆利</cntag><cntwtag>義呆利</cntwtag><entag>hetalia</entag><kotag>헤타리아</kotag></tag>
+<tag><jptag>名探偵コナン</jptag><cntag>名侦探柯南</cntag><cntwtag>名偵探柯南</cntwtag><entag>case closed</entag><kotag>명탐정 코난</kotag></tag>
+<tag><jptag>カゲロウプロジェクト</jptag><cntag>阳炎project</cntag><cntwtag>陽炎計劃</cntwtag><entag>kagerou project</entag><kotag>카게로우 프로젝트</kotag></tag>
+<tag><jptag>メイドインアビス</jptag><cntag>来自深渊</cntag><cntwtag>來自深淵</cntwtag><entag>Made in Abyss</entag><kotag></kotag></tag>
+<tag><jptag>鉄拳</jptag><cntag>铁拳</cntag><cntwtag>鐵拳</cntwtag><entag>tekken</entag><kotag>철권</kotag></tag>
+<tag><jptag>レム(リゼロ)</jptag><cntag>雷姆 (Re:Zero)</cntag><cntwtag>雷姆 (Re:Zero)</cntwtag><entag>Rem (Re:Zero)</entag><kotag></kotag></tag>
+<tag><jptag>アナと雪の女王</jptag><cntag>冰雪奇缘</cntag><cntwtag>冰雪奇緣</cntwtag><entag>Frozen</entag><kotag>겨울왕국</kotag></tag>
+<tag><jptag>日向ヒナタ</jptag><cntag>日向雏田</cntag><cntwtag>日向雛田</cntwtag><entag>Hinata Hyūga</entag><kotag></kotag></tag>
+<tag><jptag>アストルフォ(Fate)</jptag><cntag>阿斯托尔福(Fate)</cntag><cntwtag>阿斯托爾福(Fate)</cntwtag><entag>Astolfo (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>文豪ストレイドッグス</jptag><cntag>文豪Stray Dogs</cntag><cntwtag>文豪Stray Dogs</cntwtag><entag>Bungo Stray Dogs</entag><kotag></kotag></tag>
+<tag><jptag>八百万百</jptag><cntag></cntag><cntwtag>八百萬百</cntwtag><entag>Momo Yaoyorozu</entag><kotag></kotag></tag>
+<tag><jptag>麗日お茶子</jptag><cntag>丽日御茶子</cntag><cntwtag>麗日御茶子</cntwtag><entag>Ochaco Uraraka</entag><kotag></kotag></tag>
+<tag><jptag>18号</jptag><cntag></cntag><cntwtag>18號</cntwtag><entag>android18</entag><kotag>18호</kotag></tag>
+<tag><jptag>ルザミーネ</jptag><cntag>露莎米奈</cntag><cntwtag>露莎米奈</cntwtag><entag>Lusamine</entag><kotag></kotag></tag>
+<tag><jptag>ルパン三世</jptag><cntag>鲁邦三世</cntag><cntwtag>魯邦三世</cntwtag><entag>Lupin the Third</entag><kotag></kotag></tag>
+<tag><jptag>ウサビッチ</jptag><cntag>越狱兔</cntag><cntwtag>監獄兔</cntwtag><entag>usavich</entag><kotag></kotag></tag>
+<tag><jptag>けものフレンズ</jptag><cntag>动物朋友</cntag><cntwtag>動物朋友</cntwtag><entag>Kemono Friends</entag><kotag></kotag></tag>
+<tag><jptag>魔法少女まどか☆マギカ</jptag><cntag>魔法少女小圆</cntag><cntwtag>魔法少女小圓</cntwtag><entag>Puella Magi Madoka Magica</entag><kotag></kotag></tag>
+<tag><jptag>プリズマ☆イリヤ</jptag><cntag>魔法少女☆伊莉雅</cntag><cntwtag>魔法少女☆伊莉雅</cntwtag><entag>prisma illya</entag><kotag>프리즈마 이리야</kotag></tag>
+<tag><jptag>はじめの一歩</jptag><cntag>第一神拳</cntag><cntwtag>第一神拳</cntwtag><entag>hajime no ippo</entag><kotag></kotag></tag>
+<tag><jptag>宇宙よりも遠い場所</jptag><cntag>比宇宙更远的地方</cntag><cntwtag>比宇宙還遠的地方</cntwtag><entag>A Place Further than the Universe</entag><kotag></kotag></tag>
+<tag><jptag>ラブライブ!</jptag><cntag>Love Live!</cntag><cntwtag>Love Live!</cntwtag><entag>love live!</entag><kotag></kotag></tag>
+<tag><jptag>結城友奈は勇者である</jptag><cntag>結城友奈是勇者</cntag><cntwtag>結城友奈是勇者</cntwtag><entag>Yuki Yuna is a Hero</entag><kotag></kotag></tag>
+<tag><jptag>りゅうおうのおしごと!</jptag><cntag>龙王的工作！</cntag><cntwtag>龍王的工作！</cntwtag><entag>The Ryuo's Work is Never Done!</entag><kotag></kotag></tag>
+<tag><jptag>ガヴリールドロップアウト</jptag><cntag>废天使加百列</cntag><cntwtag>廢天使加百列</cntwtag><entag>Gabriel DropOut</entag><kotag></kotag></tag>
+<tag><jptag>白雪姫</jptag><cntag>白雪公主</cntag><cntwtag>白雪公主</cntwtag><entag>snow white</entag><kotag>백설공주</kotag></tag>
+<tag><jptag>魔法使いの嫁</jptag><cntag>魔法使的新娘</cntag><cntwtag>魔法使的新娘</cntwtag><entag>The Ancient Magus' Bride</entag><kotag></kotag></tag>
+<tag><jptag>渡辺曜</jptag><cntag>渡边曜</cntag><cntwtag>渡邊曜</cntwtag><entag>You Watanabe</entag><kotag></kotag></tag>
+<tag><jptag>腹パン</jptag><cntag>揍肚子</cntag><cntwtag>揍肚子</cntwtag><entag>belly punching</entag><kotag></kotag></tag>
+<tag><jptag>遊戯王ARC-V</jptag><cntag>游戏王ARC-V</cntag><cntwtag>遊戲王ARC-V</cntwtag><entag>Yu-Gi-Oh! Arc-V</entag><kotag></kotag></tag>
+<tag><jptag>イナズマイレブンGO</jptag><cntag>闪电十一人go</cntag><cntwtag>閃電十一人go</cntwtag><entag>inazuma eleven go</entag><kotag></kotag></tag>
+<tag><jptag>ナミ</jptag><cntag>娜美</cntag><cntwtag>娜美</cntwtag><entag>nami</entag><kotag>나미</kotag></tag>
+<tag><jptag>やはり俺の青春ラブコメはまちがっている。</jptag><cntag>果然我的青春恋爱喜剧搞错了。</cntag><cntwtag>果然我的青春戀愛喜劇搞錯了。</cntwtag><entag>My Youth Romantic Comedy Is Wrong, As I Expected</entag><kotag></kotag></tag>
+<tag><jptag>咲-Saki-</jptag><cntag>天才麻将少女</cntag><cntwtag>天才麻將少女</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>リョナ</jptag><cntag>Ryona</cntag><cntwtag>Ryona</cntwtag><entag>Ryona</entag><kotag>료나</kotag></tag>
+<tag><jptag>ヒロピン</jptag><cntag>女主角陷入危机</cntag><cntwtag>女主角陷入危機</cntwtag><entag>heroine in trouble</entag><kotag></kotag></tag>
+<tag><jptag>男子高校生の日常</jptag><cntag>男子高校生的日常</cntag><cntwtag>男子高校生的日常</cntwtag><entag></entag><kotag>남자 고교생의 일상</kotag></tag>
+<tag><jptag>サウスパーク</jptag><cntag>南方公园</cntag><cntwtag>南方公園</cntwtag><entag>south park</entag><kotag></kotag></tag>
+<tag><jptag>蔵馬</jptag><cntag>藏马</cntag><cntwtag>藏馬</cntwtag><entag>Kurama</entag><kotag>쿠라마</kotag></tag>
+<tag><jptag>ワンパンマン</jptag><cntag>一拳超人</cntag><cntwtag>一拳超人</cntwtag><entag>one-punch man</entag><kotag>원펀맨</kotag></tag>
+<tag><jptag>競泳水着</jptag><cntag>竞技泳装</cntag><cntwtag>競技泳裝</cntwtag><entag>competition swimsuits</entag><kotag></kotag></tag>
+<tag><jptag>間桐桜</jptag><cntag>间桐樱</cntag><cntwtag>間桐櫻</cntwtag><entag>matou sakura</entag><kotag></kotag></tag>
+<tag><jptag>碇シンジ</jptag><cntag>碇真嗣</cntag><cntwtag>碇真嗣</cntwtag><entag>shinji ikari</entag><kotag></kotag></tag>
+<tag><jptag>ロビン</jptag><cntag>罗宾</cntag><cntwtag>羅賓</cntwtag><entag>robin</entag><kotag>로빈</kotag></tag>
+<tag><jptag>ノーゲーム・ノーライフ</jptag><cntag>NO GAME NO LIFE 游戏人生</cntag><cntwtag>NO GAME NO LIFE 遊戲人生</cntwtag><entag>No Game No Life</entag><kotag></kotag></tag>
+<tag><jptag>HUNTER×HUNTER</jptag><cntag>全职猎人</cntag><cntwtag>全職獵人</cntwtag><entag>hunter x hunter</entag><kotag></kotag></tag>
+<tag><jptag>渚カヲル</jptag><cntag>渚薰</cntag><cntwtag>渚薰</cntwtag><entag>kaworu nagisa</entag><kotag>나기사 카오루</kotag></tag>
+<tag><jptag>ネコ娘</jptag><cntag>猫娘</cntag><cntwtag>貓娘</cntwtag><entag>Catgirl</entag><kotag></kotag></tag>
+<tag><jptag>ヴァイオレット・エヴァーガーデン</jptag><cntag>紫罗兰永恒花园</cntag><cntwtag>紫羅蘭永恆花園</cntwtag><entag>Violet Evergarden</entag><kotag></kotag></tag>
+<tag><jptag>みなみけ</jptag><cntag>南家三姐妹</cntag><cntwtag>南家三姊妹</cntwtag><entag>minami-ke</entag><kotag>미나미가</kotag></tag>
+<tag><jptag>武内P</jptag><cntag></cntag><cntwtag>武內P</cntwtag><entag>Producer Takeuchi</entag><kotag></kotag></tag>
+<tag><jptag>リトルウィッチアカデミア</jptag><cntag>小魔女学园</cntag><cntwtag>小魔女學園</cntwtag><entag>Little Witch Academia</entag><kotag></kotag></tag>
+<tag><jptag>6期猫娘</jptag><cntag></cntag><cntwtag>6期貓娘</cntwtag><entag>6th Neko Musume</entag><kotag></kotag></tag>
+<tag><jptag>星のカービィ</jptag><cntag>星之卡比</cntag><cntwtag>星之卡比</cntwtag><entag>Kirby</entag><kotag>별의 커비</kotag></tag>
+<tag><jptag>ゼロツー(ダリフラ)</jptag><cntag>02(Darling in the Franxx)</cntag><cntwtag>02(Darling in the Franxx)</cntwtag><entag>Zero Two (Darling in the Franxx)</entag><kotag></kotag></tag>
+<tag><jptag>イチゴ(ダリフラ)</jptag><cntag>莓(Darling in the Franxx)</cntag><cntwtag>莓(Darling in the Franxx)</cntwtag><entag>Ichigo (Darling in the Franxx)</entag><kotag></kotag></tag>
+<tag><jptag>宝石の国</jptag><cntag>宝石之国</cntag><cntwtag>寶石之國</cntwtag><entag>Land of the Lustrous</entag><kotag></kotag></tag>
+<tag><jptag>小林さんちのメイドラゴン</jptag><cntag>小林家的龙女仆</cntag><cntwtag>小林家的龍女僕</cntwtag><entag>Miss Kobayashi's Dragon Maid</entag><kotag></kotag></tag>
+<tag><jptag>ゆるゆり</jptag><cntag>摇曳百合</cntag><cntwtag>輕鬆百合</cntwtag><entag>Yuru Yuri</entag><kotag>유루유리</kotag></tag>
+<tag><jptag>ToLOVEる</jptag><cntag>出包王女</cntag><cntwtag>出包王女</cntwtag><entag>to-love-ru</entag><kotag></kotag></tag>
+<tag><jptag>超次元ゲイムネプテューヌ</jptag><cntag>超次元战记 战机少女</cntag><cntwtag>超次元戰記 戰機少女</cntwtag><entag>hyperdimension neptunia</entag><kotag></kotag></tag>
+<tag><jptag>ダーリン・イン・ザ・フランキス</jptag><cntag>Darling in the Franxx</cntag><cntwtag>Darling in the Franxx</cntwtag><entag>Darling in the Franxx</entag><kotag></kotag></tag>
+<tag><jptag>安コ</jptag><cntag>安柯</cntag><cntwtag>安柯</cntwtag><entag>Tooru/Conan</entag><kotag></kotag></tag>
+<tag><jptag>遠坂凛</jptag><cntag>远坂凛</cntag><cntwtag>遠坂凜</cntwtag><entag>Rin Tohsaka</entag><kotag>토오사카 린</kotag></tag>
+<tag><jptag>弱虫ペダル</jptag><cntag>飚速宅男</cntag><cntwtag>飙速宅男</cntwtag><entag>yowamushi pedal</entag><kotag>겁쟁이 페달</kotag></tag>
+<tag><jptag>じょしらく</jptag><cntag></cntag><cntwtag>女子落</cntwtag><entag>joshiraku</entag><kotag></kotag></tag>
+<tag><jptag>あんさんぶるスターズ!</jptag><cntag>偶像梦幻祭</cntag><cntwtag>偶像夢幻祭</cntwtag><entag>Ensemble Stars</entag><kotag></kotag></tag>
+<tag><jptag>ホロ</jptag><cntag>赫萝</cntag><cntwtag>赫蘿</cntwtag><entag>holo</entag><kotag>호로</kotag></tag>
+<tag><jptag>デビルメイクライ</jptag><cntag>鬼泣</cntag><cntwtag>惡魔獵人</cntwtag><entag>devil may cry</entag><kotag></kotag></tag>
+<tag><jptag>木之本桜</jptag><cntag>木之本樱</cntag><cntwtag>木之本櫻</cntwtag><entag>Sakura Kinomoto</entag><kotag></kotag></tag>
+<tag><jptag>カードファイト!!ヴァンガード</jptag><cntag>卡片斗争!!先导者</cntag><cntwtag>卡片鬥爭!! 先導者</cntwtag><entag>cardfight!! vanguard</entag><kotag></kotag></tag>
+<tag><jptag>食戟のソーマ</jptag><cntag>食戟之灵</cntag><cntwtag>食戟之靈</cntwtag><entag>Food Wars!: Shokugeki no Soma</entag><kotag></kotag></tag>
+<tag><jptag>ダンボール戦機</jptag><cntag>纸箱战机</cntag><cntwtag>紙箱戰機</cntwtag><entag></entag><kotag>골판지 전사</kotag></tag>
+<tag><jptag>キルミーベイベー</jptag><cntag>爱杀宝贝</cntag><cntwtag>愛殺寶貝</cntwtag><entag>kill me baby</entag><kotag></kotag></tag>
+<tag><jptag>おジャ魔女どれみ</jptag><cntag>小魔女doremi</cntag><cntwtag>小魔女doremi</cntwtag><entag>Ojamajo Doremi</entag><kotag></kotag></tag>
+<tag><jptag>ハヤテのごとく!</jptag><cntag>旋风管家</cntag><cntwtag>旋風管家</cntwtag><entag>hayate the combat butler</entag><kotag>하야테처럼</kotag></tag>
+<tag><jptag>海馬瀬人</jptag><cntag>海马濑人</cntag><cntwtag>海馬瀨人</cntwtag><entag>seto kaiba</entag><kotag></kotag></tag>
+<tag><jptag>ポケットモンスター</jptag><cntag>口袋妖怪</cntag><cntwtag>神奇寶貝</cntwtag><entag>pocket monsters</entag><kotag>포켓몬스터</kotag></tag>
+<tag><jptag>両儀式</jptag><cntag>两仪式</cntag><cntwtag>兩儀式</cntwtag><entag>ryougi shiki</entag><kotag></kotag></tag>
+<tag><jptag>セーラームーン</jptag><cntag>水手月亮</cntag><cntwtag>水手月亮</cntwtag><entag>sailormoon</entag><kotag>세일러 문</kotag></tag>
+<tag><jptag>神楽</jptag><cntag>神乐</cntag><cntwtag>神樂</cntwtag><entag>kagura</entag><kotag>카구라</kotag></tag>
+<tag><jptag>犬山あおい</jptag><cntag>犬山葵</cntag><cntwtag>犬山葵</cntwtag><entag>Aoi Inuyama</entag><kotag></kotag></tag>
+<tag><jptag>リヴァエレ</jptag><cntag>兵艾</cntag><cntwtag>兵艾</cntwtag><entag>riren</entag><kotag>리바에레</kotag></tag>
+<tag><jptag>ダンガンロンパ</jptag><cntag>枪弹辩驳</cntag><cntwtag>槍彈辯駁</cntwtag><entag>dangan ronpa</entag><kotag>단간론파</kotag></tag>
+<tag><jptag>美少女戦士セーラームーン</jptag><cntag>美少女战士</cntag><cntwtag>美少女戰士</cntwtag><entag>sailor moon</entag><kotag></kotag></tag>
+<tag><jptag>マギ</jptag><cntag>魔奇少年</cntag><cntwtag>魔奇少年</cntwtag><entag>magi</entag><kotag>마기</kotag></tag>
+<tag><jptag>サスサク</jptag><cntag>佐樱</cntag><cntwtag>佐櫻</cntwtag><entag>Sasuke/Sakura</entag><kotag>사스사쿠</kotag></tag>
+<tag><jptag>アルトリア・ペンドラゴン</jptag><cntag>阿尔托利亚·潘德拉贡</cntag><cntwtag>阿爾托莉雅·潘德拉貢</cntwtag><entag>Artoria Pendragon</entag><kotag></kotag></tag>
+<tag><jptag>斎藤一</jptag><cntag></cntag><cntwtag>齋藤一</cntwtag><entag>saitou hajime</entag><kotag></kotag></tag>
+<tag><jptag>Re:ゼロから始める異世界生活</jptag><cntag>Re:从零开始的异世界生活</cntag><cntwtag>Re:從零開始的異世界生活</cntwtag><entag>Re:Zero - Starting Life in Another World</entag><kotag></kotag></tag>
+<tag><jptag>アイマス1000users入り</jptag><cntag>偶像大师1000users加入书籤</cntag><cntwtag>偶像大師1000users加入書籤</cntwtag><entag>The Idolmaster 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>魔法少女リリカルなのは</jptag><cntag>魔法少女奈叶</cntag><cntwtag>魔法少女奈葉</cntwtag><entag>Mahou Shoujo Lyrical Nanoha</entag><kotag></kotag></tag>
+<tag><jptag>冴えない彼女の育てかた</jptag><cntag>不起眼女主角培育法</cntag><cntwtag>不起眼女主角培育法</cntwtag><entag>Saekano: How to Raise a Boring Girlfriend</entag><kotag></kotag></tag>
+<tag><jptag>メイプルストーリー</jptag><cntag>枫之谷</cntag><cntwtag>楓之谷</cntwtag><entag>maple story</entag><kotag>메이플스토리</kotag></tag>
+<tag><jptag>らんま1/2</jptag><cntag>乱马1/2</cntag><cntwtag>亂馬1/2</cntwtag><entag>Ranma 1/2</entag><kotag></kotag></tag>
+<tag><jptag>空の境界</jptag><cntag>空之境界</cntag><cntwtag>空之境界</cntwtag><entag>kara no kyoukai</entag><kotag>공의 경계</kotag></tag>
+<tag><jptag>沢田綱吉</jptag><cntag>沢田纲吉</cntag><cntwtag>澤田綱吉</cntwtag><entag></entag><kotag>사와다 츠나요시</kotag></tag>
+<tag><jptag>境界線上のホライゾン</jptag><cntag>境界线上的地平线</cntag><cntwtag>境界線上的地平線</cntwtag><entag>horizon in the middle of nowhere</entag><kotag>경계선상의 호라이즌</kotag></tag>
+<tag><jptag>春野サクラ</jptag><cntag>春野樱</cntag><cntwtag>春野櫻</cntwtag><entag>sakura haruno</entag><kotag>하루노 사쿠라</kotag></tag>
+<tag><jptag>遊戯王VRAINS女性向け</jptag><cntag>游戏王VRAINS女性向</cntag><cntwtag>遊戲王VRAINS女性向</cntwtag><entag>Yu-Gi-Oh! VRAINS for girls</entag><kotag></kotag></tag>
+<tag><jptag>裸足裏</jptag><cntag>裸足脚底</cntag><cntwtag>裸足腳底</cntwtag><entag>bare soles</entag><kotag></kotag></tag>
+<tag><jptag>花咲くいろは</jptag><cntag>花开伊吕波</cntag><cntwtag>花開物語</cntwtag><entag>hanasaku iroha</entag><kotag>꽃이 피는 첫걸음</kotag></tag>
+<tag><jptag>変身ヒロイン</jptag><cntag>变身女主角</cntag><cntwtag>變身女主角</cntwtag><entag>transformable heroines</entag><kotag></kotag></tag>
+<tag><jptag>エレリ</jptag><cntag>艾兵</cntag><cntwtag>艾兵</cntwtag><entag>Eren/Levi</entag><kotag>에레리</kotag></tag>
+<tag><jptag>ローゼンメイデン</jptag><cntag>蔷薇少女</cntag><cntwtag>薔薇少女</cntwtag><entag>rozen maiden</entag><kotag>로젠 메이든</kotag></tag>
+<tag><jptag>金色のコルダ</jptag><cntag>金色琴弦</cntag><cntwtag>金色琴弦</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>神のみぞ知るセカイ</jptag><cntag>只有神知道的世界</cntag><cntwtag>只有神知道的世界</cntwtag><entag>the world god only knows</entag><kotag>신만이 아는 세계</kotag></tag>
+<tag><jptag>デュラララ!!</jptag><cntag>无头骑士异闻录</cntag><cntwtag>無頭騎士異聞錄</cntwtag><entag>drrr!!</entag><kotag></kotag></tag>
+<tag><jptag>攻殻機動隊</jptag><cntag>攻壳机动队</cntag><cntwtag>攻殼機動隊</cntwtag><entag>ghost in the shell</entag><kotag>공각기동대</kotag></tag>
+<tag><jptag>ストライクウィッチーズ</jptag><cntag>强袭魔女</cntag><cntwtag>強襲魔女</cntwtag><entag>strike witches</entag><kotag>스트라이크 위치스</kotag></tag>
+<tag><jptag>ダリフラ</jptag><cntag>Darling in the Franxx</cntag><cntwtag>Darling in the Franxx</cntwtag><entag>Darling in the Franxx</entag><kotag></kotag></tag>
+<tag><jptag>アニメ</jptag><cntag>动画</cntag><cntwtag>動畫</cntwtag><entag>anime</entag><kotag>애니</kotag></tag>
+<tag><jptag>武装神姫</jptag><cntag>武装神姬</cntag><cntwtag>武裝神姬</cntwtag><entag>busou shinki</entag><kotag>무장신희</kotag></tag>
+<tag><jptag>ガンゲイル・オンライン</jptag><cntag>Gun Gale Online</cntag><cntwtag>Gun Gale Online</cntwtag><entag>Gun Gale Online</entag><kotag></kotag></tag>
+<tag><jptag>ぬらりひょんの孫</jptag><cntag>滑头鬼之孙</cntag><cntwtag>妖怪少爺</cntwtag><entag>Nura: Rise of the Yokai Clan</entag><kotag>누라리횬의 손자</kotag></tag>
+<tag><jptag>ヴィク勇</jptag><cntag>维勇</cntag><cntwtag>維勇</cntwtag><entag>Victor/Yuri</entag><kotag></kotag></tag>
+<tag><jptag>鋼の錬金術師</jptag><cntag>钢之炼金术师</cntag><cntwtag>鋼之鍊金術師</cntwtag><entag>Fullmetal Alchemist</entag><kotag>강철의 연금술사</kotag></tag>
+<tag><jptag>黒崎一護</jptag><cntag>黑崎一护</cntag><cntwtag>黑崎一護</cntwtag><entag>ichigo kurosaki</entag><kotag></kotag></tag>
+<tag><jptag>エンジェウーモン</jptag><cntag>天女兽</cntag><cntwtag>天女獸</cntwtag><entag>Angewomon</entag><kotag></kotag></tag>
+<tag><jptag>ようこそ実力至上主義の教室へ</jptag><cntag>欢迎来到实力至上主义的教室</cntag><cntwtag>歡迎來到實力至上主義的教室</cntwtag><entag>Classroom of the Elite</entag><kotag></kotag></tag>
+<tag><jptag>革命機ヴァルヴレイヴ</jptag><cntag>革命机valvrave</cntag><cntwtag>革命機valvrave</cntwtag><entag>valvrave the liberator</entag><kotag></kotag></tag>
+<tag><jptag>サマーウォーズ</jptag><cntag>夏日大作战</cntag><cntwtag>夏日大作戰</cntwtag><entag>summer wars</entag><kotag></kotag></tag>
+<tag><jptag>マイリトルポニー</jptag><cntag>彩虹小马</cntag><cntwtag>彩虹小馬</cntwtag><entag>my little pony</entag><kotag></kotag></tag>
+<tag><jptag>バンドリ</jptag><cntag>BanG Dream!</cntag><cntwtag>BanG Dream！少女樂團派對！</cntwtag><entag>BanG Dream! Girls Band Party!</entag><kotag></kotag></tag>
+<tag><jptag>月野うさぎ</jptag><cntag>月野兔</cntag><cntwtag>月野兔</cntwtag><entag>usagi tsukino</entag><kotag>세라</kotag></tag>
+<tag><jptag>咎狗の血</jptag><cntag>咎狗之血</cntag><cntwtag>咎狗之血</cntwtag><entag>togainu no chi</entag><kotag>토가이누의 피</kotag></tag>
+<tag><jptag>べるぜバブ</jptag><cntag>魔王的父亲</cntag><cntwtag>惡魔奶爸</cntwtag><entag>Beelzebub</entag><kotag>벨제바브</kotag></tag>
+<tag><jptag>PandoraHearts</jptag><cntag>潘朵拉之心</cntag><cntwtag>潘朵拉之心</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>西木野真姫</jptag><cntag>西木野真姬</cntag><cntwtag>西木野真姬</cntwtag><entag>nishikino maki</entag><kotag>니시키노 마키</kotag></tag>
+<tag><jptag>ナルヒナ</jptag><cntag>鸣雏</cntag><cntwtag>鳴雛</cntwtag><entag>Naruhina</entag><kotag>나루히나</kotag></tag>
+<tag><jptag>アスナ</jptag><cntag>亚丝娜</cntag><cntwtag>亞絲娜</cntwtag><entag>asuna</entag><kotag>아스나</kotag></tag>
+<tag><jptag>絶望先生</jptag><cntag></cntag><cntwtag>絕望先生</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>朽木ルキア</jptag><cntag>朽木露琪亚</cntag><cntwtag>朽木露琪亞</cntwtag><entag>rukia kuchiki</entag><kotag></kotag></tag>
+<tag><jptag>ポケモン人間絵</jptag><cntag>宝可梦人类角色</cntag><cntwtag>寶可夢人類角色</cntwtag><entag>human characters in Pokémon</entag><kotag></kotag></tag>
+<tag><jptag>テニスの王子様</jptag><cntag>网球王子</cntag><cntwtag>網球王子</cntwtag><entag>prince of tennis</entag><kotag>테니스의 왕자님</kotag></tag>
+<tag><jptag>HELLSING</jptag><cntag>皇家国教骑士团</cntag><cntwtag>厄夜怪客</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>勇ヴィク</jptag><cntag>勇维</cntag><cntwtag>勇维</cntwtag><entag>Yuri/Victor</entag><kotag></kotag></tag>
+<tag><jptag>雪ノ下雪乃</jptag><cntag>雪之下雪乃</cntag><cntwtag>雪之下雪乃</cntwtag><entag>Yukino Yukinoshita</entag><kotag></kotag></tag>
+<tag><jptag>狼と香辛料</jptag><cntag></cntag><cntwtag>狼與辛香料</cntwtag><entag>spice and wolf</entag><kotag>늑대와 향신료</kotag></tag>
+<tag><jptag>瀬戸内</jptag><cntag>濑户内</cntag><cntwtag>瀨戶內</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>スティレオ</jptag><cntag>史雷</cntag><cntwtag>史雷</cntwtag><entag>Steven/Leonardo</entag><kotag></kotag></tag>
+<tag><jptag>足指</jptag><cntag>脚指</cntag><cntwtag>腳指</cntwtag><entag>toes</entag><kotag></kotag></tag>
+<tag><jptag>灼眼のシャナ</jptag><cntag>灼眼的夏娜</cntag><cntwtag>灼眼的夏娜</cntwtag><entag>shakugan no shana</entag><kotag>작안의 샤나</kotag></tag>
+<tag><jptag>君と僕。</jptag><cntag>少年同盟</cntag><cntwtag>少年同盟</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ユキモモ</jptag><cntag>千×百 (IDOLiSH7)</cntag><cntwtag>千×百 (IDOLiSH7)</cntwtag><entag>Yuki/Momo</entag><kotag></kotag></tag>
+<tag><jptag>僕は友達が少ない</jptag><cntag>我的朋友很少</cntag><cntwtag>我的朋友很少</cntwtag><entag>boku wa tomodachi ga sukunai</entag><kotag>나는 친구가 적다</kotag></tag>
+<tag><jptag>クラステ</jptag><cntag>克劳斯史帝夫</cntag><cntwtag>克勞斯史帝夫</cntwtag><entag>Klaus/Steven</entag><kotag></kotag></tag>
+<tag><jptag>魔人探偵脳噛ネウロ</jptag><cntag></cntag><cntwtag>魔人偵探腦嚙涅羅</cntwtag><entag>majin tantei nougami neuro</entag><kotag></kotag></tag>
+<tag><jptag>反逆のルルーシュ</jptag><cntag></cntag><cntwtag>反叛的魯路修</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ハロウィン</jptag><cntag>万圣节</cntag><cntwtag>萬聖節</cntwtag><entag>halloween</entag><kotag></kotag></tag>
+<tag><jptag>魔物娘図鑑</jptag><cntag>魔物娘图鑑</cntag><cntwtag>魔物娘圖鑑</cntwtag><entag>Monster Girl Encyclopedia</entag><kotag></kotag></tag>
+<tag><jptag>カニバリズム</jptag><cntag>食人</cntag><cntwtag>食人</cntwtag><entag>cannibalism</entag><kotag></kotag></tag>
+<tag><jptag>悪堕ち</jptag><cntag>黑化</cntag><cntwtag>黑化</cntwtag><entag>corrupted</entag><kotag></kotag></tag>
+<tag><jptag>バーチャルYouTuber</jptag><cntag>虚拟YouTuber</cntag><cntwtag>虛擬Youtuber</cntwtag><entag>Virtual YouTuber</entag><kotag></kotag></tag>
+<tag><jptag>ゲゲゲの鬼太郎</jptag><cntag>鬼太郎</cntag><cntwtag>鬼太郎</cntwtag><entag>GeGeGe no Kitarō</entag><kotag></kotag></tag>
+<tag><jptag>パッションリップ</jptag><cntag>热情迷唇</cntag><cntwtag>熱情迷唇</cntwtag><entag>Passionlip</entag><kotag></kotag></tag>
+<tag><jptag>ゴブリンスレイヤー</jptag><cntag>哥布林杀手</cntag><cntwtag>哥布林殺手</cntwtag><entag>Goblin Slayer</entag><kotag></kotag></tag>
+<tag><jptag>ご注文はうさぎですか?</jptag><cntag>请问您今天要来点兔子吗？</cntag><cntwtag>請問您今天要來點兔子嗎？</cntwtag><entag>Is the Order a Rabbit?</entag><kotag></kotag></tag>
+<tag><jptag>仮面ライダービルド</jptag><cntag>假面骑士Build</cntag><cntwtag>假面騎士Build</cntwtag><entag>Kamen Rider Build</entag><kotag></kotag></tag>
+<tag><jptag>初音ミク</jptag><cntag>初音未来</cntag><cntwtag>初音未來</cntwtag><entag>hatsune miku</entag><kotag>하츠네 미쿠</kotag></tag>
+<tag><jptag>赤城(アズールレーン)</jptag><cntag>赤城(碧蓝航线)</cntag><cntwtag>赤城(碧藍航線)</cntwtag><entag>Akagi (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>入れ替わり</jptag><cntag>互换</cntag><cntwtag>互換</cntwtag><entag>body swap</entag><kotag></kotag></tag>
+<tag><jptag>くノ一</jptag><cntag></cntag><cntwtag>女忍者</cntwtag><entag>kunoichi</entag><kotag></kotag></tag>
+<tag><jptag>バットマン</jptag><cntag>蝙蝠侠</cntag><cntwtag>蝙蝠俠</cntwtag><entag>batman</entag><kotag>배트맨</kotag></tag>
+<tag><jptag>博麗霊夢</jptag><cntag>博丽灵梦</cntag><cntwtag>博麗靈夢</cntwtag><entag>reimu hakurei</entag><kotag>하쿠레이 레이무</kotag></tag>
+<tag><jptag>アーチャー・インフェルノ</jptag><cntag>巴御前</cntag><cntwtag>巴御前</cntwtag><entag>Archer Inferno</entag><kotag></kotag></tag>
+<tag><jptag>雛鶴あい</jptag><cntag>雏鹤爱</cntag><cntwtag>雛鶴愛</cntwtag><entag>Ai Hinatsuru</entag><kotag></kotag></tag>
+<tag><jptag>源頼光(Fate)</jptag><cntag>原赖光(Fate)</cntag><cntwtag>原賴光(Fate)</cntwtag><entag>Minamoto no Yorimitsu (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>白瀬咲耶</jptag><cntag>白濑咲耶</cntag><cntwtag>白瀨咲耶</cntwtag><entag>Sakuya Shirase</entag><kotag></kotag></tag>
+<tag><jptag>エドワード</jptag><cntag>爱德华</cntag><cntwtag>愛德華</cntwtag><entag>edward</entag><kotag></kotag></tag>
+<tag><jptag>高巻杏</jptag><cntag>高卷杏</cntag><cntwtag>高卷杏</cntwtag><entag>Ann Takamaki</entag><kotag></kotag></tag>
+<tag><jptag>オカルトマニア</jptag><cntag>灵异迷</cntag><cntwtag>靈異狂</cntwtag><entag>Hex Maniac</entag><kotag></kotag></tag>
+<tag><jptag>リーリエ(ポケモン)</jptag><cntag>莉莉艾(精灵宝可梦)</cntag><cntwtag>莉莉艾(精靈寶可夢)</cntwtag><entag>Lillie (Pokémon)</entag><kotag></kotag></tag>
+<tag><jptag>犬山まな</jptag><cntag>犬山真奈</cntag><cntwtag>犬山真奈</cntwtag><entag>Mana Inuyama</entag><kotag></kotag></tag>
+<tag><jptag>刀剣乱腐</jptag><cntag>刀剑乱腐</cntag><cntwtag>刀劍亂腐</cntwtag><entag>Touken Ranbu (yaoi)</entag><kotag></kotag></tag>
+<tag><jptag>カービィ</jptag><cntag>卡比</cntag><cntwtag>卡比</cntwtag><entag>kirby</entag><kotag>커비</kotag></tag>
+<tag><jptag>おそ松さん</jptag><cntag>阿松</cntag><cntwtag>小松先生</cntwtag><entag>Mr. Osomatsu</entag><kotag></kotag></tag>
+<tag><jptag>轟百</jptag><cntag>轰百</cntag><cntwtag>蟲百</cntwtag><entag>Todoroki/Yaoyorozu</entag><kotag></kotag></tag>
+<tag><jptag>ウマ娘プリティーダービー</jptag><cntag>赛马娘Pretty Derby</cntag><cntwtag>賽馬娘Pretty Derby</cntwtag><entag>Uma Musume Pretty Derby</entag><kotag></kotag></tag>
+<tag><jptag>あんさん腐るスターズ!</jptag><cntag>偶像梦幻祭(腐)</cntag><cntwtag>偶像夢幻祭(腐)</cntwtag><entag>Ensemble Stars (yaoi)</entag><kotag></kotag></tag>
+<tag><jptag>男の娘</jptag><cntag>伪娘</cntag><cntwtag>偽娘</cntwtag><entag>trap</entag><kotag>낭자애</kotag></tag>
+<tag><jptag>鈴仙・優曇華院・イナバ</jptag><cntag>铃仙・优昙华院・因幡</cntag><cntwtag>鈴仙・優曇華院・因幡</cntwtag><entag>reisen udongein inaba</entag><kotag>레이센 우돈게인 이나바</kotag></tag>
+<tag><jptag>ヤンデレ</jptag><cntag>病娇</cntag><cntwtag>病嬌</cntwtag><entag>yandere</entag><kotag>얀데레</kotag></tag>
+<tag><jptag>小狼×さくら</jptag><cntag>小狼×小樱</cntag><cntwtag>小狼×小櫻</cntwtag><entag>Syaoran/Sakura</entag><kotag></kotag></tag>
+<tag><jptag>エレン</jptag><cntag></cntag><cntwtag>艾連</cntwtag><entag></entag><kotag>에렌</kotag></tag>
+<tag><jptag>女ザコ</jptag><cntag>女杂鱼</cntag><cntwtag>女雜魚</cntwtag><entag>female lesser enemies</entag><kotag></kotag></tag>
+<tag><jptag>筋肉娘</jptag><cntag>肌肉娘</cntag><cntwtag>肌肉娘</cntwtag><entag>muscle girl</entag><kotag></kotag></tag>
+<tag><jptag>キズナアイ</jptag><cntag>绊爱</cntag><cntwtag>絆愛</cntwtag><entag>Kizuna AI</entag><kotag></kotag></tag>
+<tag><jptag>アナスタシア・ニコラエヴナ・ロマノヴァ(Fate)</jptag><cntag>阿纳斯塔西娅・尼古拉耶芙娜・罗曼诺娃(Fate)</cntag><cntwtag>安娜塔西亞・尼古拉耶芙娜・羅曼諾娃(Fate)</cntwtag><entag>Anastasia Nikolaevna Romanova (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>サーナイト</jptag><cntag>沙奈朵</cntag><cntwtag>沙奈朵</cntwtag><entag>gardevoir</entag><kotag>가디안</kotag></tag>
+<tag><jptag>めぐみん</jptag><cntag>惠惠</cntag><cntwtag>惠惠</cntwtag><entag>Megumin</entag><kotag></kotag></tag>
+<tag><jptag>ショタ</jptag><cntag>正太</cntag><cntwtag>正太</cntwtag><entag>shota</entag><kotag>쇼타</kotag></tag>
+<tag><jptag>ベリアル(グラブル)</jptag><cntag>彼列(碧蓝幻想)</cntag><cntwtag>彼列(碧藍幻想)</cntwtag><entag>Belial (Granblue Fantasy)</entag><kotag></kotag></tag>
+<tag><jptag>ガンビア・ベイ(艦隊これくしょん)</jptag><cntag>甘比尔湾(舰队收藏)</cntag><cntwtag>甘比爾灣(艦隊收藏)</cntwtag><entag>Gambier Bay (Kantai Collection)</entag><kotag></kotag></tag>
+<tag><jptag>ユニコーン(アズールレーン)</jptag><cntag>独角兽(碧蓝航线)</cntag><cntwtag>獨角獸(碧藍航線)</cntwtag><entag>Unicorn (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>ブラックマジシャンガール</jptag><cntag>黑魔导女孩</cntag><cntwtag>黑魔導女孩</cntwtag><entag>black magician girl</entag><kotag>블랙 매지션 걸</kotag></tag>
+<tag><jptag>ツンデレ</jptag><cntag>傲娇</cntag><cntwtag>傲嬌</cntwtag><entag>tsundere</entag><kotag>츤데레</kotag></tag>
+<tag><jptag>ツインテール</jptag><cntag>双马尾</cntag><cntwtag>雙馬尾</cntwtag><entag>twin ponytails</entag><kotag>트윈테일</kotag></tag>
+<tag><jptag>眼帯</jptag><cntag>眼罩</cntag><cntwtag>眼罩</cntwtag><entag>eyepatch</entag><kotag>안대</kotag></tag>
+<tag><jptag>アナスタシア</jptag><cntag>安娜塔西亚</cntag><cntwtag>安娜塔西亞</cntwtag><entag>Anastasia</entag><kotag></kotag></tag>
+<tag><jptag>アリス</jptag><cntag>爱丽丝</cntag><cntwtag>愛莉絲</cntwtag><entag>alice</entag><kotag>앨리스</kotag></tag>
+<tag><jptag>綾波(アズールレーン)</jptag><cntag>绫波(碧蓝航线)</cntag><cntwtag>綾波(碧藍航線)</cntwtag><entag>Ayanami (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>カドアナ</jptag><cntag>卡多安娜</cntag><cntwtag>卡多安娜</cntwtag><entag>Kadoc/Anastasia</entag><kotag></kotag></tag>
+<tag><jptag>リザードン</jptag><cntag>喷火龙</cntag><cntwtag>噴火龍</cntwtag><entag>Charizard</entag><kotag>리자몽</kotag></tag>
+<tag><jptag>カドック・ゼムルプス</jptag><cntag>卡多克·泽姆露普斯</cntag><cntwtag>卡多克・澤姆露普斯</cntwtag><entag>Kadoc Zemlupus</entag><kotag></kotag></tag>
+<tag><jptag>徳川家康</jptag><cntag>德川家康</cntag><cntwtag>德川家康</cntwtag><entag>tokugawa ieyasu</entag><kotag></kotag></tag>
+<tag><jptag>イギリス</jptag><cntag>英国</cntag><cntwtag>英國</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>クロエ・フォン・アインツベルン</jptag><cntag>克洛伊・冯・爱因兹贝伦</cntag><cntwtag>克洛伊・馮・愛因茲貝倫</cntwtag><entag>Chloe Von Einzbern</entag><kotag></kotag></tag>
+<tag><jptag>イリヤスフィール・フォン・アインツベルン</jptag><cntag>伊莉雅丝菲尔・冯・爱因兹贝伦</cntag><cntwtag>伊莉雅絲菲爾・馮・愛因茲貝倫</cntwtag><entag>illyasviel von einzbern</entag><kotag></kotag></tag>
+<tag><jptag>マシュ・キリエライト</jptag><cntag>玛修·基列莱特</cntag><cntwtag>瑪修·基列萊特</cntwtag><entag>Mashu Kyrielight</entag><kotag></kotag></tag>
+<tag><jptag>アレン</jptag><cntag>艾伦</cntag><cntwtag>艾倫</cntwtag><entag>allen</entag><kotag>알렌</kotag></tag>
+<tag><jptag>黒タイツ</jptag><cntag>黑裤袜</cntag><cntwtag>黑褲襪</cntwtag><entag>black tights</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスター</jptag><cntag>偶像大师</cntag><cntwtag>偶像大師</cntwtag><entag>The Idolmaster</entag><kotag>아이돌 마스터</kotag></tag>
+<tag><jptag>メスケモ</jptag><cntag>女性兽人</cntag><cntwtag>女性獸人</cntwtag><entag>female furry</entag><kotag></kotag></tag>
+<tag><jptag>ドラえもん</jptag><cntag>哆啦A梦</cntag><cntwtag>哆拉A夢</cntwtag><entag>doraemon</entag><kotag>도라에몽</kotag></tag>
+<tag><jptag>セレナ(トレーナー)</jptag><cntag>莎莉娜(宝可梦训练师)</cntag><cntwtag>莎莉娜(寶可夢訓練師)</cntwtag><entag>Serena (Trainer)</entag><kotag></kotag></tag>
+<tag><jptag>酒呑童子(Fate)</jptag><cntag>酒吞童子(Fate)</cntag><cntwtag>酒吞童子(Fate)</cntwtag><entag>Shuten-Doji (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>鷺沢文香</jptag><cntag>鹭泽文香</cntag><cntwtag>鷺澤文香</cntwtag><entag>Fumika Sagisawa</entag><kotag></kotag></tag>
+<tag><jptag>仮面ライダー</jptag><cntag>假面骑士</cntag><cntwtag>假面騎士</cntwtag><entag>kamen rider</entag><kotag>가면라이더</kotag></tag>
+<tag><jptag>ブレンド・S</jptag><cntag>调教咖啡厅</cntag><cntwtag>調教咖啡廳</cntwtag><entag>Blend S</entag><kotag></kotag></tag>
+<tag><jptag>フランドール・スカーレット</jptag><cntag>芙兰朵露・斯卡蕾特</cntag><cntwtag>芙蘭朵露・斯卡蕾特</cntwtag><entag>Flandre Scarlet</entag><kotag></kotag></tag>
+<tag><jptag>ロボ娘</jptag><cntag>机械娘</cntag><cntwtag>機械娘</cntwtag><entag>robogirl</entag><kotag></kotag></tag>
+<tag><jptag>アンパンマン</jptag><cntag></cntag><cntwtag>麵包超人</cntwtag><entag>anpanman</entag><kotag>호빵맨</kotag></tag>
+<tag><jptag>ぐだ男受け</jptag><cntag>男主受</cntag><cntwtag>男主受</cntwtag><entag>Gudao uke</entag><kotag></kotag></tag>
+<tag><jptag>艦隊これくしょん</jptag><cntag>舰队collection</cntag><cntwtag>艦隊Collection</cntwtag><entag>Kantai Collection</entag><kotag>함대 콜렉션</kotag></tag>
+<tag><jptag>アンドロイド</jptag><cntag>人造人</cntag><cntwtag>人造人</cntwtag><entag>android</entag><kotag>안드로이드</kotag></tag>
+<tag><jptag>うちはサスケ</jptag><cntag>宇智波佐助</cntag><cntwtag>宇智波佐助</cntwtag><entag>sasuke uchiha</entag><kotag></kotag></tag>
+<tag><jptag>ロリ巨乳</jptag><cntag>巨乳萝莉</cntag><cntwtag>巨乳蘿莉</cntwtag><entag>loli with huge breasts</entag><kotag>로리거유</kotag></tag>
+<tag><jptag>ジャック・ザ・リッパー(Fate)</jptag><cntag>开膛手杰克(Fate)</cntag><cntwtag>開膛手傑克(Fate)</cntwtag><entag>Jack the Ripper (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>アーサー</jptag><cntag>亚瑟</cntag><cntwtag>亞瑟王</cntwtag><entag>arthur</entag><kotag></kotag></tag>
+<tag><jptag>プリンツ・オイゲン(アズールレーン)</jptag><cntag>欧根亲王(碧蓝航线)</cntag><cntwtag>歐根親王(碧藍航線)</cntwtag><entag>Prinz Eugen (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>アーサー・ペンドラゴン</jptag><cntag>亚瑟・潘德拉贡</cntag><cntwtag>亞瑟・潘德拉貢</cntwtag><entag>Arthur Pendragon</entag><kotag></kotag></tag>
+<tag><jptag>生首</jptag><cntag>人头</cntag><cntwtag>人頭</cntwtag><entag>freshly decapitated head</entag><kotag></kotag></tag>
+<tag><jptag>アリス・マーガトロイド</jptag><cntag>爱丽丝・玛格特罗依德</cntag><cntwtag>愛麗絲・瑪格特羅伊德</cntwtag><entag>alice margatroid</entag><kotag>앨리스 마가트로이드</kotag></tag>
+<tag><jptag>越前リョーマ</jptag><cntag>越前龙马</cntag><cntwtag>越前龍馬</cntwtag><entag>ryoma echizen</entag><kotag></kotag></tag>
+<tag><jptag>ピカチュウ</jptag><cntag>皮卡丘</cntag><cntwtag>皮卡丘</cntwtag><entag>pikachu</entag><kotag>피카츄</kotag></tag>
+<tag><jptag>イシュタル</jptag><cntag>伊丝塔</cntag><cntwtag>伊絲塔</cntwtag><entag>Ishtar</entag><kotag></kotag></tag>
+<tag><jptag>渋谷凛</jptag><cntag>涩谷凛</cntag><cntwtag>澀谷凜</cntwtag><entag>rin shibuya</entag><kotag>시부야 린</kotag></tag>
+<tag><jptag>筋肉</jptag><cntag>肌肉</cntag><cntwtag>肌肉</cntwtag><entag>muscle</entag><kotag>근육</kotag></tag>
+<tag><jptag>高垣楓</jptag><cntag>高桓枫</cntag><cntwtag>高桓楓</cntwtag><entag>Kaede Takagaki</entag><kotag></kotag></tag>
+<tag><jptag>猫宮ひなた</jptag><cntag>猫宮Hinata</cntag><cntwtag>猫宮Hinata</cntwtag><entag>Nekomiya Hinata</entag><kotag></kotag></tag>
+<tag><jptag>ケモノ</jptag><cntag>野兽</cntag><cntwtag>野獸</cntwtag><entag>furry</entag><kotag>수인</kotag></tag>
+<tag><jptag>ゲイ</jptag><cntag>Gay</cntag><cntwtag>Gay</cntwtag><entag>gay</entag><kotag>게이</kotag></tag>
+<tag><jptag>人造人間21号</jptag><cntag>人造人21号</cntag><cntwtag>人造人21號</cntwtag><entag>Android 21</entag><kotag></kotag></tag>
+<tag><jptag>パズドラ</jptag><cntag>龙族拼图</cntag><cntwtag>龍族拼圖</cntwtag><entag>pazudora</entag><kotag>파즈도라</kotag></tag>
+<tag><jptag>ナルメア</jptag><cntag>娜露梅亚</cntag><cntwtag>娜魯梅雅</cntwtag><entag>Narmaya</entag><kotag></kotag></tag>
+<tag><jptag>宮本武蔵(Fate)</jptag><cntag>宫本武藏 (Fate)</cntag><cntwtag>宮本武藏 (Fate)</cntwtag><entag>Miyamoto Musashi (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>レム</jptag><cntag>雷姆</cntag><cntwtag>雷姆</cntwtag><entag>Rem</entag><kotag></kotag></tag>
+<tag><jptag>ガウェぐだ♂</jptag><cntag>高文男主</cntag><cntwtag>高文男主</cntwtag><entag>Gawain/Gudao</entag><kotag></kotag></tag>
+<tag><jptag>宮本武蔵</jptag><cntag>宫本武藏</cntag><cntwtag>宮本武藏</cntwtag><entag>Miyamoto Musashi</entag><kotag></kotag></tag>
+<tag><jptag>マリー・ローズ</jptag><cntag>玛莉・萝丝</cntag><cntwtag>瑪莉・蘿絲</cntwtag><entag>Marie Rose</entag><kotag></kotag></tag>
+<tag><jptag>レム(リゼロ)</jptag><cntag>雷姆 (Re:Zero)</cntag><cntwtag>雷姆 (Re:Zero)</cntwtag><entag>Rem (Re:Zero)</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスターシャイニーカラーズ</jptag><cntag>偶像大师 闪耀色彩</cntag><cntwtag>偶像大師 閃耀色彩</cntwtag><entag>The Idolmaster: Shiny Colors</entag><kotag></kotag></tag>
+<tag><jptag>エリーゼ</jptag><cntag></cntag><cntwtag>伊莉絲</cntwtag><entag>elise</entag><kotag></kotag></tag>
+<tag><jptag>メカ娘</jptag><cntag>机娘</cntag><cntwtag>機娘</cntwtag><entag>mecha girl</entag><kotag></kotag></tag>
+<tag><jptag>日向ヒナタ</jptag><cntag>日向雏田</cntag><cntwtag>日向雛田</cntwtag><entag>Hinata Hyūga</entag><kotag></kotag></tag>
+<tag><jptag>アストルフォ</jptag><cntag>阿斯托尔福</cntag><cntwtag>阿斯托爾福</cntwtag><entag>Astolfo</entag><kotag></kotag></tag>
+<tag><jptag>アタランテ</jptag><cntag>阿塔兰塔</cntag><cntwtag>阿塔蘭塔</cntwtag><entag>Atalanta</entag><kotag></kotag></tag>
+<tag><jptag>アストルフォ(Fate)</jptag><cntag>阿斯托尔福(Fate)</cntag><cntwtag>阿斯托爾福(Fate)</cntwtag><entag>Astolfo (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>八百万百</jptag><cntag></cntag><cntwtag>八百萬百</cntwtag><entag>Momo Yaoyorozu</entag><kotag></kotag></tag>
+<tag><jptag>麗日お茶子</jptag><cntag>丽日御茶子</cntag><cntwtag>麗日御茶子</cntwtag><entag>Ochaco Uraraka</entag><kotag></kotag></tag>
+<tag><jptag>古明地こいし</jptag><cntag>古明地恋</cntag><cntwtag>古明地戀</cntwtag><entag>Koishi Komeiji</entag><kotag></kotag></tag>
+<tag><jptag>18号</jptag><cntag></cntag><cntwtag>18號</cntwtag><entag>android18</entag><kotag>18호</kotag></tag>
+<tag><jptag>メルトリリス</jptag><cntag>溶解莉莉丝</cntag><cntwtag>溶解莉莉絲</cntwtag><entag>Meltlilith</entag><kotag></kotag></tag>
+<tag><jptag>レナ</jptag><cntag>蕾娜</cntag><cntwtag>蕾娜</cntwtag><entag>rena</entag><kotag>레나</kotag></tag>
+<tag><jptag>七つの大罪</jptag><cntag>七大罪</cntag><cntwtag>七大罪</cntwtag><entag>The Seven Deadly Sins</entag><kotag></kotag></tag>
+<tag><jptag>ルザミーネ</jptag><cntag>露莎米奈</cntag><cntwtag>露莎米奈</cntwtag><entag>Lusamine</entag><kotag></kotag></tag>
+<tag><jptag>ティナ</jptag><cntag>帝娜</cntag><cntwtag>帝娜</cntwtag><entag>tina</entag><kotag>티나</kotag></tag>
+<tag><jptag>ナース</jptag><cntag>护士</cntag><cntwtag>護士</cntwtag><entag>nurse</entag><kotag></kotag></tag>
+<tag><jptag>女体化</jptag><cntag></cntag><cntwtag>女體化</cntwtag><entag>transforming into a woman</entag><kotag>여체화</kotag></tag>
+<tag><jptag>ルパン三世</jptag><cntag>鲁邦三世</cntag><cntwtag>魯邦三世</cntwtag><entag>Lupin the Third</entag><kotag></kotag></tag>
+<tag><jptag>葛飾北斎(Fate)</jptag><cntag>葛饰北斋(Fate)</cntag><cntwtag>葛飾北齋(Fate)</cntwtag><entag>Katsushika Hokusai (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>対魔忍</jptag><cntag>对魔忍</cntag><cntwtag>對魔忍</cntwtag><entag>Taimanin</entag><kotag></kotag></tag>
+<tag><jptag>スライム</jptag><cntag>史莱姆</cntag><cntwtag>史萊姆</cntwtag><entag>slime</entag><kotag>슬라임</kotag></tag>
+<tag><jptag>ぐだ子</jptag><cntag>女主</cntag><cntwtag>女主</cntwtag><entag>Gudako</entag><kotag></kotag></tag>
+<tag><jptag>ウサビッチ</jptag><cntag>越狱兔</cntag><cntwtag>監獄兔</cntwtag><entag>usavich</entag><kotag></kotag></tag>
+<tag><jptag>怪獣</jptag><cntag>怪兽</cntag><cntwtag>怪獸</cntwtag><entag>kaiju</entag><kotag>괴수</kotag></tag>
+<tag><jptag>ねこ娘</jptag><cntag>猫娘</cntag><cntwtag>貓娘</cntwtag><entag>Neko Musume</entag><kotag></kotag></tag>
+<tag><jptag>アントニオ・サリエリ(Fate)</jptag><cntag>安东尼奥·萨列里(Fate)</cntag><cntwtag>安東尼奧·薩列里(Fate)</cntwtag><entag>Antonio Salieri (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>アビゲイル・ウィリアムズ(Fate)</jptag><cntag>阿比盖尔·威廉姆斯(Fate)</cntag><cntwtag>阿比蓋爾·威廉姆斯(Fate)</cntwtag><entag>Abigail Williams (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>イタリア</jptag><cntag>意大利</cntag><cntwtag>意大利</cntwtag><entag>italy</entag><kotag></kotag></tag>
+<tag><jptag>巨大ヒロイン</jptag><cntag>巨大女主角</cntag><cntwtag>巨大女主角</cntwtag><entag>giant heroines</entag><kotag></kotag></tag>
+<tag><jptag>ロボット</jptag><cntag>机器人</cntag><cntwtag>機器人</cntwtag><entag>robot</entag><kotag>로봇</kotag></tag>
+<tag><jptag>ジャンヌ・オルタ</jptag><cntag>黑贞德</cntag><cntwtag>黑貞德</cntwtag><entag>Jeanne Alter</entag><kotag></kotag></tag>
+<tag><jptag>イラストリアス(アズールレーン)</jptag><cntag>光辉(碧蓝航线)</cntag><cntwtag>光輝(碧藍航線)</cntwtag><entag>Illustrious (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>ぐだ男</jptag><cntag>男主</cntag><cntwtag>男主</cntwtag><entag>Gudao</entag><kotag></kotag></tag>
+<tag><jptag>ロックマンX</jptag><cntag>洛克人x</cntag><cntwtag>洛克人x</cntwtag><entag>megaman x</entag><kotag></kotag></tag>
+<tag><jptag>同一CP</jptag><cntag>同CP</cntag><cntwtag>同CP</cntwtag><entag>pairing a character with their own self</entag><kotag></kotag></tag>
+<tag><jptag>勝デク</jptag><cntag>爆豪胜己×绿谷出久</cntag><cntwtag>爆豪勝己×綠谷出久</cntwtag><entag>Bakugo/Deku</entag><kotag></kotag></tag>
+<tag><jptag>ラビ</jptag><cntag>拉比</cntag><cntwtag>拉比</cntwtag><entag>lavi</entag><kotag>라비</kotag></tag>
+<tag><jptag>ベルファスト(アズールレーン)</jptag><cntag>贝尔法斯特(碧蓝航线)</cntag><cntwtag>貝爾法斯特(碧藍航線)</cntwtag><entag>Belfast (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>スライム娘</jptag><cntag>史莱姆娘</cntag><cntwtag>史萊姆娘</cntwtag><entag>slime girl</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ・ダルク(Fate)</jptag><cntag>贞德(Fate)</cntag><cntwtag>貞德(Fate)</cntwtag><entag>Jeanne d'Arc (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>渡辺曜</jptag><cntag>渡边曜</cntag><cntwtag>渡邊曜</cntwtag><entag>You Watanabe</entag><kotag></kotag></tag>
+<tag><jptag>腹パン</jptag><cntag>揍肚子</cntag><cntwtag>揍肚子</cntwtag><entag>belly punching</entag><kotag></kotag></tag>
+<tag><jptag>リン</jptag><cntag>镜音铃</cntag><cntwtag>鏡音鈴</cntwtag><entag>Lynn</entag><kotag>린</kotag></tag>
+<tag><jptag>古明地さとり</jptag><cntag>古明地觉</cntag><cntwtag>古明地覺</cntwtag><entag>satori komeiji</entag><kotag>코메이지 사토리</kotag></tag>
+<tag><jptag>魔物娘図鑑</jptag><cntag>魔物娘图鑑</cntag><cntwtag>魔物娘圖鑑</cntwtag><entag>Monster Girl Encyclopedia</entag><kotag></kotag></tag>
+<tag><jptag>ナミ</jptag><cntag>娜美</cntag><cntwtag>娜美</cntwtag><entag>nami</entag><kotag>나미</kotag></tag>
+<tag><jptag>霞ヶ丘詩羽</jptag><cntag>霞之丘诗羽</cntag><cntwtag>霞之丘詩羽</cntwtag><entag>Utaha Kasumigaoka</entag><kotag></kotag></tag>
+<tag><jptag>ネプテューヌ</jptag><cntag>战机少女</cntag><cntwtag>戰機少女</cntwtag><entag>neptune</entag><kotag>넵튠</kotag></tag>
+<tag><jptag>ナイチンゲール(Fate)</jptag><cntag>南丁格尔</cntag><cntwtag>南丁格爾</cntwtag><entag>Nightingale (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>ユニコーン</jptag><cntag>独角兽</cntag><cntwtag>獨角獸</cntwtag><entag>unicorn</entag><kotag></kotag></tag>
+<tag><jptag>メイド</jptag><cntag>女仆</cntag><cntwtag>女僕</cntwtag><entag>maid</entag><kotag>메이드</kotag></tag>
+<tag><jptag>エミリア</jptag><cntag>爱蜜莉雅</cntag><cntwtag>愛蜜莉雅</cntwtag><entag>Emilia</entag><kotag></kotag></tag>
+<tag><jptag>蔵馬</jptag><cntag>藏马</cntag><cntwtag>藏馬</cntwtag><entag>Kurama</entag><kotag>쿠라마</kotag></tag>
+<tag><jptag>獣人</jptag><cntag>兽人</cntag><cntwtag>獸人</cntwtag><entag>theriantrope</entag><kotag>수인</kotag></tag>
+<tag><jptag>ワンパンマン</jptag><cntag>一拳超人</cntag><cntwtag>一拳超人</cntwtag><entag>one-punch man</entag><kotag>원펀맨</kotag></tag>
+<tag><jptag>エンタープライズ(アズールレーン)</jptag><cntag>企业(碧蓝航线)</cntag><cntwtag>企業(碧藍航線)</cntwtag><entag>Enterprise (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>間桐桜</jptag><cntag>间桐樱</cntag><cntwtag>間桐櫻</cntwtag><entag>matou sakura</entag><kotag></kotag></tag>
+<tag><jptag>戦艦少女</jptag><cntag>战舰少女</cntag><cntwtag>戰艦少女</cntwtag><entag>Warship Girls</entag><kotag></kotag></tag>
+<tag><jptag>鏡音レン</jptag><cntag>镜音连</cntag><cntwtag>鏡音連</cntwtag><entag>Kagamine Len</entag><kotag>카가미네 렌</kotag></tag>
+<tag><jptag>碇シンジ</jptag><cntag>碇真嗣</cntag><cntwtag>碇真嗣</cntwtag><entag>shinji ikari</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ・ダルク</jptag><cntag>贞德</cntag><cntwtag>黑貞德</cntwtag><entag>Jeanne d'Arc</entag><kotag></kotag></tag>
+<tag><jptag>ゼラオラ</jptag><cntag>捷拉奥拉</cntag><cntwtag>捷拉奥拉</cntwtag><entag>Zeraora</entag><kotag></kotag></tag>
+<tag><jptag>サスケ</jptag><cntag></cntag><cntwtag>宇智波佐助</cntwtag><entag>sasuke</entag><kotag>사스케</kotag></tag>
+<tag><jptag>ジュナカル</jptag><cntag>周迦</cntag><cntwtag>周迦</cntwtag><entag>Arjuna/Karna</entag><kotag></kotag></tag>
+<tag><jptag>スカサハ(Fate)</jptag><cntag>斯卡哈(Fate)</cntag><cntwtag>斯卡哈(Fate)</cntwtag><entag>Scathach</entag><kotag></kotag></tag>
+<tag><jptag>渚カヲル</jptag><cntag>渚薰</cntag><cntwtag>渚薰</cntwtag><entag>kaworu nagisa</entag><kotag>나기사 카오루</kotag></tag>
+<tag><jptag>ネコ娘</jptag><cntag>猫娘</cntag><cntwtag>貓娘</cntwtag><entag>Catgirl</entag><kotag></kotag></tag>
+<tag><jptag>武内P</jptag><cntag></cntag><cntwtag>武內P</cntwtag><entag>Producer Takeuchi</entag><kotag></kotag></tag>
+<tag><jptag>玄奘三蔵(Fate)</jptag><cntag>玄奘三藏(Fate)</cntag><cntwtag>玄奘三藏(Fate)</cntwtag><entag>Xuanzang (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>鏡音リン</jptag><cntag>鏡音鈴</cntag><cntwtag>鏡音鈴</cntwtag><entag>kagamine rin</entag><kotag>카가미네 린</kotag></tag>
+<tag><jptag>6期猫娘</jptag><cntag></cntag><cntwtag>6期貓娘</cntwtag><entag>6th Neko Musume</entag><kotag></kotag></tag>
+<tag><jptag>アタランテ(Fate)</jptag><cntag>阿塔兰塔(Fate)</cntag><cntwtag>阿塔蘭塔(Fate)</cntwtag><entag>Atalanta (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>ウマ娘</jptag><cntag>马娘</cntag><cntwtag>馬娘</cntwtag><entag>horse girl</entag><kotag></kotag></tag>
+<tag><jptag>安コ</jptag><cntag>安柯</cntag><cntwtag>安柯</cntwtag><entag>Tooru/Conan</entag><kotag></kotag></tag>
+<tag><jptag>遠坂凛</jptag><cntag>远坂凛</cntag><cntwtag>遠坂凜</cntwtag><entag>Rin Tohsaka</entag><kotag>토오사카 린</kotag></tag>
+<tag><jptag>赤ずきん</jptag><cntag>小红帽</cntag><cntwtag>小紅帽</cntwtag><entag>akazukin</entag><kotag></kotag></tag>
+<tag><jptag>アイアンマン</jptag><cntag>钢铁侠</cntag><cntwtag>鋼鐵人</cntwtag><entag>iron man</entag><kotag>아이언맨</kotag></tag>
+<tag><jptag>ルカ</jptag><cntag>露卡</cntag><cntwtag>流歌</cntwtag><entag>luka</entag><kotag>루카</kotag></tag>
+<tag><jptag>デジモン</jptag><cntag>数码怪兽</cntag><cntwtag>數碼寶貝</cntwtag><entag>digimon</entag><kotag>디지몬</kotag></tag>
+<tag><jptag>ホロ</jptag><cntag>赫萝</cntag><cntwtag>赫蘿</cntwtag><entag>holo</entag><kotag>호로</kotag></tag>
+<tag><jptag>アマサリ</jptag><cntag>阿玛迪斯×萨里耶利</cntag><cntwtag>阿瑪迪斯×薩里耶利</cntwtag><entag>Amadeus/Salieri</entag><kotag></kotag></tag>
+<tag><jptag>木之本桜</jptag><cntag>木之本樱</cntag><cntwtag>木之本櫻</cntwtag><entag>Sakura Kinomoto</entag><kotag></kotag></tag>
+<tag><jptag>SDガンダム</jptag><cntag>sd敢达</cntag><cntwtag>sd鋼彈</cntwtag><entag>sd gundam</entag><kotag>sd건담</kotag></tag>
+<tag><jptag>愛宕(アズールレーン)</jptag><cntag>爱宕(碧蓝航线)</cntag><cntwtag>愛宕(碧藍航線)</cntwtag><entag>Atago (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>まったく、駆逐艦は最高だぜ!!</jptag><cntag>驱逐舰真是太棒了！</cntag><cntwtag>驅逐艦真的太棒了！</cntwtag><entag>Geez, destroyers are the best!!</entag><kotag></kotag></tag>
+<tag><jptag>高雄(アズールレーン)</jptag><cntag>高雄(碧蓝航线)</cntag><cntwtag>高雄(碧藍航線)</cntwtag><entag>Takao (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>モンスター娘</jptag><cntag>魔物娘</cntag><cntwtag>魔物娘</cntwtag><entag>monster girl</entag><kotag></kotag></tag>
+<tag><jptag>ハヤテのごとく!</jptag><cntag>旋风管家</cntag><cntwtag>旋風管家</cntwtag><entag>hayate the combat butler</entag><kotag>하야테처럼</kotag></tag>
+<tag><jptag>海馬瀬人</jptag><cntag>海马濑人</cntag><cntwtag>海馬瀨人</cntwtag><entag>seto kaiba</entag><kotag></kotag></tag>
+<tag><jptag>ウルトラヒロイン</jptag><cntag>奥特曼女主</cntag><cntwtag>超人力霸女主角</cntwtag><entag>ultra heroine</entag><kotag></kotag></tag>
+<tag><jptag>両儀式</jptag><cntag>两仪式</cntag><cntwtag>兩儀式</cntwtag><entag>ryougi shiki</entag><kotag></kotag></tag>
+<tag><jptag>極上の女体</jptag><cntag>极上女体</cntag><cntwtag>極上女體</cntwtag><entag>first-rate female bodies</entag><kotag></kotag></tag>
+<tag><jptag>セーラームーン</jptag><cntag>水手月亮</cntag><cntwtag>水手月亮</cntwtag><entag>sailormoon</entag><kotag>세일러 문</kotag></tag>
+<tag><jptag>神楽</jptag><cntag>神乐</cntag><cntwtag>神樂</cntwtag><entag>kagura</entag><kotag>카구라</kotag></tag>
+<tag><jptag>犬山あおい</jptag><cntag>犬山葵</cntag><cntwtag>犬山葵</cntwtag><entag>Aoi Inuyama</entag><kotag></kotag></tag>
+<tag><jptag>清姫</jptag><cntag>清姬</cntag><cntwtag>清姬</cntwtag><entag>Kiyohime</entag><kotag></kotag></tag>
+<tag><jptag>玉藻の前</jptag><cntag>玉藻前</cntag><cntwtag>玉藻前</cntwtag><entag>Tamamo-no-Mae</entag><kotag></kotag></tag>
+<tag><jptag>サスサク</jptag><cntag>佐樱</cntag><cntwtag>佐櫻</cntwtag><entag>Sasuke/Sakura</entag><kotag>사스사쿠</kotag></tag>
+<tag><jptag>アルトリア・ペンドラゴン</jptag><cntag>阿尔托利亚·潘德拉贡</cntag><cntwtag>阿爾托莉雅·潘德拉貢</cntwtag><entag>Artoria Pendragon</entag><kotag></kotag></tag>
+<tag><jptag>沖田総司</jptag><cntag>冲田总司</cntag><cntwtag>沖田總司</cntwtag><entag>souji okita</entag><kotag></kotag></tag>
+<tag><jptag>マスコット</jptag><cntag>吉祥物</cntag><cntwtag>吉祥物</cntwtag><entag>mascot</entag><kotag></kotag></tag>
+<tag><jptag>レン</jptag><cntag>连</cntag><cntwtag>連</cntwtag><entag>len</entag><kotag>렌</kotag></tag>
+<tag><jptag>モリガン</jptag><cntag>莫莉卡</cntag><cntwtag>茉麗安</cntwtag><entag>morrigan</entag><kotag>모리건</kotag></tag>
+<tag><jptag>結月ゆかり</jptag><cntag>结月缘</cntag><cntwtag>結月緣</cntwtag><entag>Yuzuki Yukari</entag><kotag></kotag></tag>
+<tag><jptag>沢田綱吉</jptag><cntag>沢田纲吉</cntag><cntwtag>澤田綱吉</cntwtag><entag></entag><kotag>사와다 츠나요시</kotag></tag>
+<tag><jptag>源頼光</jptag><cntag>原赖光</cntag><cntwtag>原賴光</cntwtag><entag>Minamoto no Yorimitsu</entag><kotag></kotag></tag>
+<tag><jptag>ビッチ</jptag><cntag>婊子</cntag><cntwtag>婊子</cntwtag><entag>bitch</entag><kotag></kotag></tag>
+<tag><jptag>イラストリアス</jptag><cntag>光辉</cntag><cntwtag>光輝</cntwtag><entag>Illustrious</entag><kotag></kotag></tag>
+<tag><jptag>セバスチャン</jptag><cntag></cntag><cntwtag>賽巴斯欽</cntwtag><entag>sebastian</entag><kotag></kotag></tag>
+<tag><jptag>高木さん</jptag><cntag>高木桑</cntag><cntwtag>高木桑</cntwtag><entag>Takagi-san</entag><kotag></kotag></tag>
+<tag><jptag>殺生院キアラ</jptag><cntag>杀生院祈荒</cntag><cntwtag>殺生院祈荒</cntwtag><entag>Kiara Sessyoin</entag><kotag></kotag></tag>
+<tag><jptag>スカサハ</jptag><cntag>斯卡塔赫</cntag><cntwtag>斯卡塔赫</cntwtag><entag>Scáthach</entag><kotag></kotag></tag>
+<tag><jptag>春野サクラ</jptag><cntag>春野樱</cntag><cntwtag>春野櫻</cntwtag><entag>sakura haruno</entag><kotag>하루노 사쿠라</kotag></tag>
+<tag><jptag>遊戯王VRAINS女性向け</jptag><cntag>游戏王VRAINS女性向</cntag><cntwtag>遊戲王VRAINS女性向</cntwtag><entag>Yu-Gi-Oh! VRAINS for girls</entag><kotag></kotag></tag>
+<tag><jptag>静帝</jptag><cntag></cntag><cntwtag>靜帝</cntwtag><entag>shizumika</entag><kotag>시즈미카</kotag></tag>
+<tag><jptag>ロック</jptag><cntag></cntag><cntwtag>搖滾</cntwtag><entag>rock</entag><kotag></kotag></tag>
+<tag><jptag>裸足裏</jptag><cntag>裸足脚底</cntag><cntwtag>裸足腳底</cntwtag><entag>bare soles</entag><kotag></kotag></tag>
+<tag><jptag>ふたなり</jptag><cntag>扶他</cntag><cntwtag>扶他</cntwtag><entag>futanari</entag><kotag></kotag></tag>
+<tag><jptag>ケモショタ</jptag><cntag>兽耳正太</cntag><cntwtag>獸耳正太</cntwtag><entag>furry shota</entag><kotag></kotag></tag>
+<tag><jptag>エレリ</jptag><cntag>艾兵</cntag><cntwtag>艾兵</cntwtag><entag>Eren/Levi</entag><kotag>에레리</kotag></tag>
+<tag><jptag>ローゼンメイデン</jptag><cntag>蔷薇少女</cntag><cntwtag>薔薇少女</cntwtag><entag>rozen maiden</entag><kotag>로젠 메이든</kotag></tag>
+<tag><jptag>アルトリア・ペンドラゴン(ランサー)</jptag><cntag>阿尔托利亚·潘德拉贡(lancer)</cntag><cntwtag>阿爾托莉雅·潘德拉貢(lancer)</cntwtag><entag>Artoria Pendragon (lancer)</entag><kotag></kotag></tag>
+<tag><jptag>ランサーアルトリア</jptag><cntag>阿尔托莉亚 枪</cntag><cntwtag>阿爾托莉亞 槍</cntwtag><entag>Lancer Alter</entag><kotag></kotag></tag>
+<tag><jptag>猫耳</jptag><cntag></cntag><cntwtag>貓耳</cntwtag><entag>cat ears</entag><kotag>고양이귀</kotag></tag>
+<tag><jptag>響(艦隊これくしょん)</jptag><cntag>响(舰队收藏)</cntag><cntwtag>響(艦隊收藏)</cntwtag><entag>Hibiki (Kantai Collection)</entag><kotag></kotag></tag>
+<tag><jptag>サキュバス</jptag><cntag>魅魔</cntag><cntwtag>魅魔</cntwtag><entag>succubus</entag><kotag>서큐버스</kotag></tag>
+<tag><jptag>ぬらりひょんの孫</jptag><cntag>滑头鬼之孙</cntag><cntwtag>妖怪少爺</cntwtag><entag>Nura: Rise of the Yokai Clan</entag><kotag>누라리횬의 손자</kotag></tag>
+<tag><jptag>レズ</jptag><cntag>蕾丝边</cntag><cntwtag>蕾絲邊</cntwtag><entag>lesbians</entag><kotag>레즈</kotag></tag>
+<tag><jptag>ヴィク勇</jptag><cntag>维勇</cntag><cntwtag>維勇</cntwtag><entag>Victor/Yuri</entag><kotag></kotag></tag>
+<tag><jptag>レティ</jptag><cntag>蕾迪</cntag><cntwtag>蕾迪</cntwtag><entag>Letty</entag><kotag></kotag></tag>
+<tag><jptag>黒崎一護</jptag><cntag>黑崎一护</cntag><cntwtag>黑崎一護</cntwtag><entag>ichigo kurosaki</entag><kotag></kotag></tag>
+<tag><jptag>キャス狐</jptag><cntag>玉藻喵</cntag><cntwtag>玉藻喵</cntwtag><entag>Casko</entag><kotag></kotag></tag>
+<tag><jptag>マーロマ</jptag><cntag>梅林×罗马尼</cntag><cntwtag>梅林×羅馬尼</cntwtag><entag>Merlin/Romani</entag><kotag></kotag></tag>
+<tag><jptag>エンジェウーモン</jptag><cntag>天女兽</cntag><cntwtag>天女獸</cntwtag><entag>Angewomon</entag><kotag></kotag></tag>
+<tag><jptag>マイリトルポニー</jptag><cntag>彩虹小马</cntag><cntwtag>彩虹小馬</cntwtag><entag>my little pony</entag><kotag></kotag></tag>
+<tag><jptag>ネロ・クラウディウス</jptag><cntag>尼禄·克劳狄乌斯</cntag><cntwtag>尼祿·克勞狄烏斯</cntwtag><entag>Nero Claudius</entag><kotag></kotag></tag>
+<tag><jptag>レッド</jptag><cntag></cntag><cntwtag>小智</cntwtag><entag></entag><kotag>레드</kotag></tag>
+<tag><jptag>月野うさぎ</jptag><cntag>月野兔</cntag><cntwtag>月野兔</cntwtag><entag>usagi tsukino</entag><kotag>세라</kotag></tag>
+<tag><jptag>西木野真姫</jptag><cntag>西木野真姬</cntag><cntwtag>西木野真姬</cntwtag><entag>nishikino maki</entag><kotag>니시키노 마키</kotag></tag>
+<tag><jptag>ナルヒナ</jptag><cntag>鸣雏</cntag><cntwtag>鳴雛</cntwtag><entag>Naruhina</entag><kotag>나루히나</kotag></tag>
+<tag><jptag>暁</jptag><cntag>晓</cntag><cntwtag>曉</cntwtag><entag>dawn</entag><kotag>새벽</kotag></tag>
+<tag><jptag>アスナ</jptag><cntag>亚丝娜</cntag><cntwtag>亞絲娜</cntwtag><entag>asuna</entag><kotag>아스나</kotag></tag>
+<tag><jptag>極上の乳</jptag><cntag>极上乳房</cntag><cntwtag>極上乳房</cntwtag><entag>first-rate breasts</entag><kotag></kotag></tag>
+<tag><jptag>麻宮アテナ</jptag><cntag>麻宫雅典娜</cntag><cntwtag>麻宮雅典娜</cntwtag><entag>asamiya athena</entag><kotag></kotag></tag>
+<tag><jptag>朽木ルキア</jptag><cntag>朽木露琪亚</cntag><cntwtag>朽木露琪亞</cntwtag><entag>rukia kuchiki</entag><kotag></kotag></tag>
+<tag><jptag>環壮</jptag><cntag>环壮</cntag><cntwtag>環壯</cntwtag><entag>Tamaki/Sogo</entag><kotag></kotag></tag>
+<tag><jptag>リーリエ</jptag><cntag>莉莉艾</cntag><cntwtag>莉莉艾</cntwtag><entag>Lillie</entag><kotag></kotag></tag>
+<tag><jptag>モードレッド</jptag><cntag>莫德雷德</cntag><cntwtag>莫德雷德</cntwtag><entag>Mordred</entag><kotag></kotag></tag>
+<tag><jptag>抱き枕</jptag><cntag>抱枕</cntag><cntwtag>抱枕</cntwtag><entag>dakimakura</entag><kotag></kotag></tag>
+<tag><jptag>雪ノ下雪乃</jptag><cntag>雪之下雪乃</cntag><cntwtag>雪之下雪乃</cntwtag><entag>Yukino Yukinoshita</entag><kotag></kotag></tag>
+<tag><jptag>ジータ</jptag><cntag>姬妲</cntag><cntwtag>姬妲</cntwtag><entag>Djeeta</entag><kotag></kotag></tag>
+<tag><jptag>瀬戸内</jptag><cntag>濑户内</cntag><cntwtag>瀨戶內</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>足指</jptag><cntag>脚指</cntag><cntwtag>腳指</cntwtag><entag>toes</entag><kotag></kotag></tag>
+<tag><jptag>エリザベート・バートリー</jptag><cntag>伊莉莎白·巴托里</cntag><cntwtag>伊莉莎白·巴托里</cntwtag><entag>Elizabeth Bathory</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ</jptag><cntag>贞德</cntag><cntwtag>貞德</cntwtag><entag>jeanne</entag><kotag>잔느</kotag></tag>
+<tag><jptag>スウツ</jptag><cntag>亮面紧身衣</cntag><cntwtag>亮面緊身衣</cntwtag><entag>beast body suit</entag><kotag></kotag></tag>
+<tag><jptag>ケモホモ</jptag><cntag>兽人同性向</cntag><cntwtag>獸人同性向</cntwtag><entag>furry slash</entag><kotag></kotag></tag>
+<tag><jptag>スプラトゥーン</jptag><cntag>漆弹大作战</cntag><cntwtag>漆彈大作戰</cntwtag><entag>Splatoon</entag><kotag></kotag></tag>
+<tag><jptag>アリババ</jptag><cntag>阿里巴巴</cntag><cntwtag>阿里巴巴</cntwtag><entag>Alibaba</entag><kotag>알리바바</kotag></tag>
+<tag><jptag>クラステ</jptag><cntag>克劳斯史帝夫</cntag><cntwtag>克勞斯史帝夫</cntwtag><entag>Klaus/Steven</entag><kotag></kotag></tag>
+<tag><jptag>まどか</jptag><cntag>小圆</cntag><cntwtag>小圓</cntwtag><entag>madoka</entag><kotag>마도카</kotag></tag>
+<tag><jptag>東京放課後サモナーズ</jptag><cntag>东京放课后Summoners</cntag><cntwtag>東京放課後Summoners</cntwtag><entag>Tokyo Afterschool Summoners</entag><kotag></kotag></tag>
+<tag><jptag>HUGっと!プリキュア</jptag><cntag>拥抱!光之美少女</cntag><cntwtag>擁抱！光之美少女</cntwtag><entag>Hugtto! PreCure</entag><kotag></kotag></tag>
+<tag><jptag>パッションリップ</jptag><cntag>热情迷唇</cntag><cntwtag>熱情迷唇</cntwtag><entag>Passionlip</entag><kotag></kotag></tag>
+<tag><jptag>白猫プロジェクト</jptag><cntag>白猫Project</cntag><cntwtag>白貓Project</cntwtag><entag>White Cat Project</entag><kotag></kotag></tag>
+<tag><jptag>遊戯王VRAINS</jptag><cntag>游戏王VRAINS</cntag><cntwtag>遊戲王VRAINS</cntwtag><entag>Yu-Gi-Oh! VRAINS</entag><kotag></kotag></tag>
+<tag><jptag>初音ミク</jptag><cntag>初音未来</cntag><cntwtag>初音未來</cntwtag><entag>hatsune miku</entag><kotag>하츠네 미쿠</kotag></tag>
+<tag><jptag>グランブルーファンタジー</jptag><cntag>碧蓝幻想</cntag><cntwtag>碧藍幻想</cntwtag><entag>Granblue Fantasy</entag><kotag></kotag></tag>
+<tag><jptag>赤城(アズールレーン)</jptag><cntag>赤城(碧蓝航线)</cntag><cntwtag>赤城(碧藍航線)</cntwtag><entag>Akagi (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>閃乱カグラ</jptag><cntag>闪乱神乐</cntag><cntwtag>閃亂神樂</cntwtag><entag>senran kagura</entag><kotag></kotag></tag>
+<tag><jptag>刀剣乱舞</jptag><cntag>刀剑乱舞</cntag><cntwtag>刀劍亂舞</cntwtag><entag>Touken Ranbu</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスターシンデレラガールズ</jptag><cntag>偶像大师 灰姑娘女孩</cntag><cntwtag>偶像大師 灰姑娘女孩</cntwtag><entag>The Idolmaster: Cinderella Girls</entag><kotag>아이돌 마스터 신데렐라 걸즈</kotag></tag>
+<tag><jptag>博麗霊夢</jptag><cntag>博丽灵梦</cntag><cntwtag>博麗靈夢</cntwtag><entag>reimu hakurei</entag><kotag>하쿠레이 레이무</kotag></tag>
+<tag><jptag>ロックマン</jptag><cntag>洛克人</cntag><cntwtag>洛克人</cntwtag><entag>Megaman</entag><kotag>록맨</kotag></tag>
+<tag><jptag>アーチャー・インフェルノ</jptag><cntag>巴御前</cntag><cntwtag>巴御前</cntwtag><entag>Archer Inferno</entag><kotag></kotag></tag>
+<tag><jptag>逆転裁判</jptag><cntag>逆转裁判</cntag><cntwtag>逆轉裁判</cntwtag><entag>ace attorney</entag><kotag>역전재판</kotag></tag>
+<tag><jptag>源頼光(Fate)</jptag><cntag>原赖光(Fate)</cntag><cntwtag>原賴光(Fate)</cntwtag><entag>Minamoto no Yorimitsu (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>デート・ア・ライブ</jptag><cntag>约会大作战</cntag><cntwtag>約會大作戰</cntwtag><entag>date a live</entag><kotag>데이트 어 라이브</kotag></tag>
+<tag><jptag>ドラゴンボール</jptag><cntag>龙珠</cntag><cntwtag>七龍珠</cntwtag><entag>Dragon Ball</entag><kotag>드래곤볼</kotag></tag>
+<tag><jptag>白瀬咲耶</jptag><cntag>白濑咲耶</cntag><cntwtag>白瀨咲耶</cntwtag><entag>Sakuya Shirase</entag><kotag></kotag></tag>
+<tag><jptag>高巻杏</jptag><cntag>高卷杏</cntag><cntwtag>高卷杏</cntwtag><entag>Ann Takamaki</entag><kotag></kotag></tag>
+<tag><jptag>マギアレコード</jptag><cntag>魔法纪录</cntag><cntwtag>魔法紀錄</cntwtag><entag>Magia Record</entag><kotag></kotag></tag>
+<tag><jptag>聖闘士星矢</jptag><cntag>圣斗士星矢</cntag><cntwtag>聖鬥士星矢</cntwtag><entag>saint seiya</entag><kotag></kotag></tag>
+<tag><jptag>オカルトマニア</jptag><cntag>灵异迷</cntag><cntwtag>靈異狂</cntwtag><entag>Hex Maniac</entag><kotag></kotag></tag>
+<tag><jptag>リーリエ(ポケモン)</jptag><cntag>莉莉艾(精灵宝可梦)</cntag><cntwtag>莉莉艾(精靈寶可夢)</cntwtag><entag>Lillie (Pokémon)</entag><kotag></kotag></tag>
+<tag><jptag>ファイアーエムブレムヒーローズ</jptag><cntag>圣火降魔录 英雄云集</cntag><cntwtag>聖火降魔錄 英雄雲集</cntwtag><entag>Fire Emblem Heroes</entag><kotag></kotag></tag>
+<tag><jptag>刀剣乱腐</jptag><cntag>刀剑乱腐</cntag><cntwtag>刀劍亂腐</cntwtag><entag>Touken Ranbu (yaoi)</entag><kotag></kotag></tag>
+<tag><jptag>カービィ</jptag><cntag>卡比</cntag><cntwtag>卡比</cntwtag><entag>kirby</entag><kotag>커비</kotag></tag>
+<tag><jptag>ジョジョの奇妙な冒険</jptag><cntag>JoJo的奇妙冒险</cntag><cntwtag>JoJo的奇妙冒險</cntwtag><entag>JoJo's Bizarre Adventure</entag><kotag>죠죠의 기묘한 모험</kotag></tag>
+<tag><jptag>モンスト</jptag><cntag>怪物弹珠</cntag><cntwtag>怪物彈珠</cntwtag><entag>Monster Strike</entag><kotag></kotag></tag>
+<tag><jptag>ウマ娘プリティーダービー</jptag><cntag>赛马娘Pretty Derby</cntag><cntwtag>賽馬娘Pretty Derby</cntwtag><entag>Uma Musume Pretty Derby</entag><kotag></kotag></tag>
+<tag><jptag>あんさん腐るスターズ!</jptag><cntag>偶像梦幻祭(腐)</cntag><cntwtag>偶像夢幻祭(腐)</cntwtag><entag>Ensemble Stars (yaoi)</entag><kotag></kotag></tag>
+<tag><jptag>ゆめにっき</jptag><cntag>梦日记</cntag><cntwtag>夢日記</cntwtag><entag>yume nikki</entag><kotag>유메닛키</kotag></tag>
+<tag><jptag>戦国BASARA</jptag><cntag>战国basara</cntag><cntwtag>戰國basara</cntwtag><entag>sengoku basara</entag><kotag></kotag></tag>
+<tag><jptag>ウルトラマン</jptag><cntag>奥特曼</cntag><cntwtag>超人力霸王</cntwtag><entag>ultraman</entag><kotag>울트라맨</kotag></tag>
+<tag><jptag>ファイアーエムブレム</jptag><cntag>圣火降魔录</cntag><cntwtag>聖火降魔錄</cntwtag><entag>fire emblem</entag><kotag>파이어 엠블렘</kotag></tag>
+<tag><jptag>鈴仙・優曇華院・イナバ</jptag><cntag>铃仙・优昙华院・因幡</cntag><cntwtag>鈴仙・優曇華院・因幡</cntwtag><entag>reisen udongein inaba</entag><kotag>레이센 우돈게인 이나바</kotag></tag>
+<tag><jptag>ヤンデレ</jptag><cntag>病娇</cntag><cntwtag>病嬌</cntwtag><entag>yandere</entag><kotag>얀데레</kotag></tag>
+<tag><jptag>サムライスピリッツ</jptag><cntag>侍魂</cntag><cntwtag>侍魂</cntwtag><entag>Samurai Shodown</entag><kotag></kotag></tag>
+<tag><jptag>ソードアート・オンライン</jptag><cntag>刀剑神域</cntag><cntwtag>刀劍神域</cntwtag><entag>sword art online</entag><kotag>소드 아트 온라인</kotag></tag>
+<tag><jptag>女ザコ</jptag><cntag>女杂鱼</cntag><cntwtag>女雜魚</cntwtag><entag>female lesser enemies</entag><kotag></kotag></tag>
+<tag><jptag>アナスタシア・ニコラエヴナ・ロマノヴァ(Fate)</jptag><cntag>阿纳斯塔西娅・尼古拉耶芙娜・罗曼诺娃(Fate)</cntag><cntwtag>安娜塔西亞・尼古拉耶芙娜・羅曼諾娃(Fate)</cntwtag><entag>Anastasia Nikolaevna Romanova (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>サーナイト</jptag><cntag>沙奈朵</cntag><cntwtag>沙奈朵</cntwtag><entag>gardevoir</entag><kotag>가디안</kotag></tag>
+<tag><jptag>アズールレーン</jptag><cntag>碧蓝航线</cntag><cntwtag>碧藍航線</cntwtag><entag>Azur Lane</entag><kotag></kotag></tag>
+<tag><jptag>ドット絵</jptag><cntag>点阵图</cntag><cntwtag>像素圖</cntwtag><entag>pixel art</entag><kotag></kotag></tag>
+<tag><jptag>イナズマイレブン</jptag><cntag>闪电十一人</cntag><cntwtag>閃電十一人</cntwtag><entag>inazuma eleven</entag><kotag>썬더 일레븐</kotag></tag>
+<tag><jptag>Fate/GO100users入り</jptag><cntag>Fate/GO100users加入书籤</cntag><cntwtag>Fate/GO100users加入書籤</cntwtag><entag>Fate/GO 100+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>Fate/GO1000users入り</jptag><cntag>Fate/GO1000users加入书籤</cntag><cntwtag>Fate/GO1000users加入書籤</cntwtag><entag>Fate/GO 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>Fate/GO5000users入り</jptag><cntag>Fate/GO500users加入书籤</cntag><cntwtag>Fate/GO500users加入書籤</cntwtag><entag>Fate/GO 5000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>Fate/GO10000users入り</jptag><cntag>Fate/GO10000users加入书籤</cntag><cntwtag>Fate/GO10000users加入書籤</cntwtag><entag>Fate/GO 10000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>腐向け</jptag><cntag>腐向</cntag><cntwtag>腐向</cntwtag><entag>yaoi</entag><kotag>부녀자향</kotag></tag>
+<tag><jptag>ガンビア・ベイ(艦隊これくしょん)</jptag><cntag>甘比尔湾(舰队收藏)</cntag><cntwtag>甘比爾灣(艦隊收藏)</cntwtag><entag>Gambier Bay (Kantai Collection)</entag><kotag></kotag></tag>
+<tag><jptag>ユニコーン(アズールレーン)</jptag><cntag>独角兽(碧蓝航线)</cntag><cntwtag>獨角獸(碧藍航線)</cntwtag><entag>Unicorn (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>ブラックマジシャンガール</jptag><cntag>黑魔导女孩</cntag><cntwtag>黑魔導女孩</cntwtag><entag>black magician girl</entag><kotag>블랙 매지션 걸</kotag></tag>
+<tag><jptag>もんむす・くえすと!</jptag><cntag>勇者大战魔物娘</cntag><cntwtag>勇者大戰魔物娘</cntwtag><entag>Monster Girl Quest</entag><kotag></kotag></tag>
+<tag><jptag>ガンダム</jptag><cntag>高达</cntag><cntwtag>鋼彈</cntwtag><entag>gundam</entag><kotag>건담</kotag></tag>
+<tag><jptag>綾波(アズールレーン)</jptag><cntag>绫波(碧蓝航线)</cntag><cntwtag>綾波(碧藍航線)</cntwtag><entag>Ayanami (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>カドアナ</jptag><cntag>卡多安娜</cntag><cntwtag>卡多安娜</cntwtag><entag>Kadoc/Anastasia</entag><kotag></kotag></tag>
+<tag><jptag>ペルソナ5</jptag><cntag>女神异闻录5</cntag><cntwtag>女神異聞錄5</cntwtag><entag>Persona 5</entag><kotag></kotag></tag>
+<tag><jptag>千年戦争アイギス</jptag><cntag>千年战争Aigis</cntag><cntwtag>千年戰爭Aigis</cntwtag><entag>Millennium War Aigis</entag><kotag></kotag></tag>
+<tag><jptag>リザードン</jptag><cntag>喷火龙</cntag><cntwtag>噴火龍</cntwtag><entag>Charizard</entag><kotag>리자몽</kotag></tag>
+<tag><jptag>カドック・ゼムルプス</jptag><cntag>卡多克·泽姆露普斯</cntag><cntwtag>卡多克・澤姆露普斯</cntwtag><entag>Kadoc Zemlupus</entag><kotag></kotag></tag>
+<tag><jptag>クレヨンしんちゃん</jptag><cntag>蜡笔小新</cntag><cntwtag>蠟筆小新</cntwtag><entag>crayon shinchan</entag><kotag>짱구는 못말려</kotag></tag>
+<tag><jptag>アイドルマスターミリオンライブ!</jptag><cntag>偶像大师 百万人演唱会!</cntag><cntwtag>偶像大師 百萬人演唱會！</cntwtag><entag>The Idolmaster: Million Live!</entag><kotag></kotag></tag>
+<tag><jptag>イリヤスフィール・フォン・アインツベルン</jptag><cntag>伊莉雅丝菲尔・冯・爱因兹贝伦</cntag><cntwtag>伊莉雅絲菲爾・馮・愛因茲貝倫</cntwtag><entag>illyasviel von einzbern</entag><kotag></kotag></tag>
+<tag><jptag>マシュ・キリエライト</jptag><cntag>玛修·基列莱特</cntag><cntwtag>瑪修·基列萊特</cntwtag><entag>Mashu Kyrielight</entag><kotag></kotag></tag>
+<tag><jptag>アレン</jptag><cntag>艾伦</cntag><cntwtag>艾倫</cntwtag><entag>allen</entag><kotag>알렌</kotag></tag>
+<tag><jptag>ペルソナ4</jptag><cntag>女神异闻录4</cntag><cntwtag>女神異聞錄4</cntwtag><entag>persona 4</entag><kotag>페르소나4</kotag></tag>
+<tag><jptag>アイドルマスター</jptag><cntag>偶像大师</cntag><cntwtag>偶像大師</cntwtag><entag>The Idolmaster</entag><kotag>아이돌 마스터</kotag></tag>
+<tag><jptag>セレナ(トレーナー)</jptag><cntag>莎莉娜(宝可梦训练师)</cntag><cntwtag>莎莉娜(寶可夢訓練師)</cntwtag><entag>Serena (Trainer)</entag><kotag></kotag></tag>
+<tag><jptag>酒呑童子(Fate)</jptag><cntag>酒吞童子(Fate)</cntag><cntwtag>酒吞童子(Fate)</cntwtag><entag>Shuten-Doji (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>鷺沢文香</jptag><cntag>鹭泽文香</cntag><cntwtag>鷺澤文香</cntwtag><entag>Fumika Sagisawa</entag><kotag></kotag></tag>
+<tag><jptag>フランドール・スカーレット</jptag><cntag>芙兰朵露・斯卡蕾特</cntag><cntwtag>芙蘭朵露・斯卡蕾特</cntwtag><entag>Flandre Scarlet</entag><kotag></kotag></tag>
+<tag><jptag>進撃の巨人</jptag><cntag>进击的巨人</cntag><cntwtag>進擊的巨人</cntwtag><entag>Attack On Titan</entag><kotag>진격의 거인</kotag></tag>
+<tag><jptag>ぐだ男受け</jptag><cntag>男主受</cntag><cntwtag>男主受</cntwtag><entag>Gudao uke</entag><kotag></kotag></tag>
+<tag><jptag>艦隊これくしょん</jptag><cntag>舰队collection</cntag><cntwtag>艦隊Collection</cntwtag><entag>Kantai Collection</entag><kotag>함대 콜렉션</kotag></tag>
+<tag><jptag>ジャック・ザ・リッパー(Fate)</jptag><cntag>开膛手杰克(Fate)</cntag><cntwtag>開膛手傑克(Fate)</cntwtag><entag>Jack the Ripper (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>妖怪ウォッチ</jptag><cntag>妖怪手錶</cntag><cntwtag>妖怪手錶</cntwtag><entag>Yo-kai Watch</entag><kotag>요괴워치</kotag></tag>
+<tag><jptag>プリンツ・オイゲン(アズールレーン)</jptag><cntag>欧根亲王(碧蓝航线)</cntag><cntwtag>歐根親王(碧藍航線)</cntwtag><entag>Prinz Eugen (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>ゼノブレイド2</jptag><cntag>异度神剑2</cntag><cntwtag>異度神劍2</cntwtag><entag>Xenoblade 2</entag><kotag></kotag></tag>
+<tag><jptag>アリス・マーガトロイド</jptag><cntag>爱丽丝・玛格特罗依德</cntag><cntwtag>愛麗絲・瑪格特羅伊德</cntwtag><entag>alice margatroid</entag><kotag>앨리스 마가트로이드</kotag></tag>
+<tag><jptag>ピカチュウ</jptag><cntag>皮卡丘</cntag><cntwtag>皮卡丘</cntwtag><entag>pikachu</entag><kotag>피카츄</kotag></tag>
+<tag><jptag>渋谷凛</jptag><cntag>涩谷凛</cntag><cntwtag>澀谷凜</cntwtag><entag>rin shibuya</entag><kotag>시부야 린</kotag></tag>
+<tag><jptag>高垣楓</jptag><cntag>高桓枫</cntag><cntwtag>高桓楓</cntwtag><entag>Kaede Takagaki</entag><kotag></kotag></tag>
+<tag><jptag>状態変化</jptag><cntag>状态变化</cntag><cntwtag>狀態變化</cntwtag><entag>change of status</entag><kotag>상태변화</kotag></tag>
+<tag><jptag>遊戯王</jptag><cntag>游戏王</cntag><cntwtag>遊戲王</cntwtag><entag>Yu-Gi-Oh!</entag><kotag>유희왕</kotag></tag>
+<tag><jptag>閃の軌跡</jptag><cntag>闪之轨迹</cntag><cntwtag>閃之軌跡</cntwtag><entag>Trails of Cold Steel</entag><kotag>섬의 궤적</kotag></tag>
+<tag><jptag>マビノギ英雄伝</jptag><cntag>玛奇英雄传</cntag><cntwtag>瑪奇英雄傳</cntwtag><entag>vindictus</entag><kotag></kotag></tag>
+<tag><jptag>神撃のバハムート</jptag><cntag>巴哈姆特之怒</cntag><cntwtag>巴哈姆特之怒</cntwtag><entag>rage of bahamut</entag><kotag></kotag></tag>
+<tag><jptag>人造人間21号</jptag><cntag>人造人21号</cntag><cntwtag>人造人21號</cntwtag><entag>Android 21</entag><kotag></kotag></tag>
+<tag><jptag>名探偵コナン</jptag><cntag>名侦探柯南</cntag><cntwtag>名偵探柯南</cntwtag><entag>case closed</entag><kotag>명탐정 코난</kotag></tag>
+<tag><jptag>パズドラ</jptag><cntag>龙族拼图</cntag><cntwtag>龍族拼圖</cntwtag><entag>pazudora</entag><kotag>파즈도라</kotag></tag>
+<tag><jptag>ドラゴンクエスト</jptag><cntag></cntag><cntwtag>勇者鬥惡龍</cntwtag><entag>dragon quest</entag><kotag>드래곤 퀘스트</kotag></tag>
+<tag><jptag>サイレントヒル</jptag><cntag>寂静岭</cntag><cntwtag>沉默之丘</cntwtag><entag>silent hill</entag><kotag>사일런트 힐</kotag></tag>
+<tag><jptag>宮本武蔵(Fate)</jptag><cntag>宫本武藏 (Fate)</cntag><cntwtag>宮本武藏 (Fate)</cntwtag><entag>Miyamoto Musashi (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>ガウェぐだ♂</jptag><cntag>高文男主</cntag><cntwtag>高文男主</cntwtag><entag>Gawain/Gudao</entag><kotag></kotag></tag>
+<tag><jptag>鉄拳</jptag><cntag>铁拳</cntag><cntwtag>鐵拳</cntwtag><entag>tekken</entag><kotag>철권</kotag></tag>
+<tag><jptag>マリー・ローズ</jptag><cntag>玛莉・萝丝</cntag><cntwtag>瑪莉・蘿絲</cntwtag><entag>Marie Rose</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスターシャイニーカラーズ</jptag><cntag>偶像大师 闪耀色彩</cntag><cntwtag>偶像大師 閃耀色彩</cntwtag><entag>The Idolmaster: Shiny Colors</entag><kotag></kotag></tag>
+<tag><jptag>ルシサン</jptag><cntag>路西菲尔×圣德芬</cntag><cntwtag>路西菲爾×聖德芬</cntwtag><entag>Lucifer/Sandalphon</entag><kotag></kotag></tag>
+<tag><jptag>古明地こいし</jptag><cntag>古明地恋</cntag><cntwtag>古明地戀</cntwtag><entag>Koishi Komeiji</entag><kotag></kotag></tag>
+<tag><jptag>メルトリリス</jptag><cntag>溶解莉莉丝</cntag><cntwtag>溶解莉莉絲</cntwtag><entag>Meltlilith</entag><kotag></kotag></tag>
+<tag><jptag>ルザミーネ</jptag><cntag>露莎米奈</cntag><cntwtag>露莎米奈</cntwtag><entag>Lusamine</entag><kotag></kotag></tag>
+<tag><jptag>ゲーム</jptag><cntag>游戏</cntag><cntwtag>遊戲</cntwtag><entag>game</entag><kotag>게임</kotag></tag>
+<tag><jptag>葛飾北斎(Fate)</jptag><cntag>葛饰北斋(Fate)</cntag><cntwtag>葛飾北齋(Fate)</cntwtag><entag>Katsushika Hokusai (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>対魔忍</jptag><cntag>对魔忍</cntag><cntwtag>對魔忍</cntwtag><entag>Taimanin</entag><kotag></kotag></tag>
+<tag><jptag>スライム</jptag><cntag>史莱姆</cntag><cntwtag>史萊姆</cntwtag><entag>slime</entag><kotag>슬라임</kotag></tag>
+<tag><jptag>ぐだ子</jptag><cntag>女主</cntag><cntwtag>女主</cntwtag><entag>Gudako</entag><kotag></kotag></tag>
+<tag><jptag>けものフレンズ</jptag><cntag>动物朋友</cntag><cntwtag>動物朋友</cntwtag><entag>Kemono Friends</entag><kotag></kotag></tag>
+<tag><jptag>碧蓝航线</jptag><cntag></cntag><cntwtag>碧藍航線</cntwtag><entag>Azur Lane</entag><kotag></kotag></tag>
+<tag><jptag>アントニオ・サリエリ(Fate)</jptag><cntag>安东尼奥·萨列里(Fate)</cntag><cntwtag>安東尼奧·薩列里(Fate)</cntwtag><entag>Antonio Salieri (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>アビゲイル・ウィリアムズ(Fate)</jptag><cntag>阿比盖尔·威廉姆斯(Fate)</cntag><cntwtag>阿比蓋爾·威廉姆斯(Fate)</cntwtag><entag>Abigail Williams (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>プリズマ☆イリヤ</jptag><cntag>魔法少女☆伊莉雅</cntag><cntwtag>魔法少女☆伊莉雅</cntwtag><entag>prisma illya</entag><kotag>프리즈마 이리야</kotag></tag>
+<tag><jptag>トリックスター</jptag><cntag></cntag><cntwtag>卡巴拉島</cntwtag><entag>trickster</entag><kotag>트릭스터</kotag></tag>
+<tag><jptag>ジャンヌ・オルタ</jptag><cntag>黑贞德</cntag><cntwtag>黑貞德</cntwtag><entag>Jeanne Alter</entag><kotag></kotag></tag>
+<tag><jptag>イラストリアス(アズールレーン)</jptag><cntag>光辉(碧蓝航线)</cntag><cntwtag>光輝(碧藍航線)</cntwtag><entag>Illustrious (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>ぐだ男</jptag><cntag>男主</cntag><cntwtag>男主</cntwtag><entag>Gudao</entag><kotag></kotag></tag>
+<tag><jptag>ロックマンX</jptag><cntag>洛克人x</cntag><cntwtag>洛克人x</cntwtag><entag>megaman x</entag><kotag></kotag></tag>
+<tag><jptag>結城友奈は勇者である</jptag><cntag>結城友奈是勇者</cntag><cntwtag>結城友奈是勇者</cntwtag><entag>Yuki Yuna is a Hero</entag><kotag></kotag></tag>
+<tag><jptag>ベルファスト(アズールレーン)</jptag><cntag>贝尔法斯特(碧蓝航线)</cntag><cntwtag>貝爾法斯特(碧藍航線)</cntwtag><entag>Belfast (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>バトルガールハイスクール</jptag><cntag>战斗女子学园</cntag><cntwtag>戰鬥女子學園</cntwtag><entag>Battle Girl High School</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ・ダルク(Fate)</jptag><cntag>贞德(Fate)</cntag><cntwtag>貞德(Fate)</cntwtag><entag>Jeanne d'Arc (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>モンスターハンター</jptag><cntag>魔物猎人</cntag><cntwtag>魔物獵人</cntwtag><entag>monster hunter</entag><kotag>몬스터헌터</kotag></tag>
+<tag><jptag>ポケモンSM</jptag><cntag>宝可梦太阳月亮</cntag><cntwtag>寶可夢太陽月亮</cntwtag><entag>Pokémon Sun and Moon</entag><kotag></kotag></tag>
+<tag><jptag>イナズマイレブンGO</jptag><cntag>闪电十一人go</cntag><cntwtag>閃電十一人go</cntwtag><entag>inazuma eleven go</entag><kotag></kotag></tag>
+<tag><jptag>古明地さとり</jptag><cntag>古明地觉</cntag><cntwtag>古明地覺</cntwtag><entag>satori komeiji</entag><kotag>코메이지 사토리</kotag></tag>
+<tag><jptag>ポケモン</jptag><cntag>精灵宝可梦</cntag><cntwtag>精靈寶可夢</cntwtag><entag>Pokémon</entag><kotag>포켓몬</kotag></tag>
+<tag><jptag>リョナ</jptag><cntag>Ryona</cntag><cntwtag>Ryona</cntwtag><entag>Ryona</entag><kotag>료나</kotag></tag>
+<tag><jptag>ネプテューヌ</jptag><cntag>战机少女</cntag><cntwtag>戰機少女</cntwtag><entag>neptune</entag><kotag>넵튠</kotag></tag>
+<tag><jptag>ヒロピン</jptag><cntag>女主角陷入危机</cntag><cntwtag>女主角陷入危機</cntwtag><entag>heroine in trouble</entag><kotag></kotag></tag>
+<tag><jptag>ナイチンゲール(Fate)</jptag><cntag>南丁格尔</cntag><cntwtag>南丁格爾</cntwtag><entag>Nightingale (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>エンタープライズ(アズールレーン)</jptag><cntag>企业(碧蓝航线)</cntag><cntwtag>企業(碧藍航線)</cntwtag><entag>Enterprise (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>間桐桜</jptag><cntag>间桐樱</cntag><cntwtag>間桐櫻</cntwtag><entag>matou sakura</entag><kotag></kotag></tag>
+<tag><jptag>戦艦少女</jptag><cntag>战舰少女</cntag><cntwtag>戰艦少女</cntwtag><entag>Warship Girls</entag><kotag></kotag></tag>
+<tag><jptag>ゼラオラ</jptag><cntag>捷拉奥拉</cntag><cntwtag>捷拉奥拉</cntwtag><entag>Zeraora</entag><kotag></kotag></tag>
+<tag><jptag>ジュナカル</jptag><cntag>周迦</cntag><cntwtag>周迦</cntwtag><entag>Arjuna/Karna</entag><kotag></kotag></tag>
+<tag><jptag>スカサハ(Fate)</jptag><cntag>斯卡哈(Fate)</cntag><cntwtag>斯卡哈(Fate)</cntwtag><entag>Scathach</entag><kotag></kotag></tag>
+<tag><jptag>ペルソナ</jptag><cntag>女神异闻录</cntag><cntwtag>女神異聞錄</cntwtag><entag>persona</entag><kotag></kotag></tag>
+<tag><jptag>少女前线</jptag><cntag></cntag><cntwtag>少女前線</cntwtag><entag>Girls' Frontline</entag><kotag></kotag></tag>
+<tag><jptag>玄奘三蔵(Fate)</jptag><cntag>玄奘三藏(Fate)</cntag><cntwtag>玄奘三藏(Fate)</cntwtag><entag>Xuanzang (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>アタランテ(Fate)</jptag><cntag>阿塔兰塔(Fate)</cntag><cntwtag>阿塔蘭塔(Fate)</cntwtag><entag>Atalanta (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>星のカービィ</jptag><cntag>星之卡比</cntag><cntwtag>星之卡比</cntwtag><entag>Kirby</entag><kotag>별의 커비</kotag></tag>
+<tag><jptag>アラド戦記</jptag><cntag>地下城与勇士</cntag><cntwtag>地下城與勇士</cntwtag><entag>dungeon fighter online</entag><kotag>아라드 전기</kotag></tag>
+<tag><jptag>超次元ゲイムネプテューヌ</jptag><cntag>超次元战记 战机少女</cntag><cntwtag>超次元戰記 戰機少女</cntwtag><entag>hyperdimension neptunia</entag><kotag></kotag></tag>
+<tag><jptag>ウマ娘</jptag><cntag>马娘</cntag><cntwtag>馬娘</cntwtag><entag>horse girl</entag><kotag></kotag></tag>
+<tag><jptag>3Dカスタム少女</jptag><cntag>3D定製少女</cntag><cntwtag>3D定製少女</cntwtag><entag>3D Custom Girl</entag><kotag></kotag></tag>
+<tag><jptag>遠坂凛</jptag><cntag>远坂凛</cntag><cntwtag>遠坂凜</cntwtag><entag>Rin Tohsaka</entag><kotag>토오사카 린</kotag></tag>
+<tag><jptag>燭へし</jptag><cntag>光忠×长谷部</cntag><cntwtag>光忠×長谷部</cntwtag><entag>Shokudaikiri/Hasebe</entag><kotag></kotag></tag>
+<tag><jptag>デジモン</jptag><cntag>数码怪兽</cntag><cntwtag>數碼寶貝</cntwtag><entag>digimon</entag><kotag>디지몬</kotag></tag>
+<tag><jptag>あんさんぶるスターズ!</jptag><cntag>偶像梦幻祭</cntag><cntwtag>偶像夢幻祭</cntwtag><entag>Ensemble Stars</entag><kotag></kotag></tag>
+<tag><jptag>あんスタNL</jptag><cntag>偶像梦幻祭NL</cntag><cntwtag>偶像夢幻祭NL</cntwtag><entag>Ensemble Stars NL</entag><kotag></kotag></tag>
+<tag><jptag>デビルメイクライ</jptag><cntag>鬼泣</cntag><cntwtag>惡魔獵人</cntwtag><entag>devil may cry</entag><kotag></kotag></tag>
+<tag><jptag>アマサリ</jptag><cntag>阿玛迪斯×萨里耶利</cntag><cntwtag>阿瑪迪斯×薩里耶利</cntwtag><entag>Amadeus/Salieri</entag><kotag></kotag></tag>
+<tag><jptag>カードファイト!!ヴァンガード</jptag><cntag>卡片斗争!!先导者</cntag><cntwtag>卡片鬥爭!! 先導者</cntwtag><entag>cardfight!! vanguard</entag><kotag></kotag></tag>
+<tag><jptag>愛宕(アズールレーン)</jptag><cntag>爱宕(碧蓝航线)</cntag><cntwtag>愛宕(碧藍航線)</cntwtag><entag>Atago (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>食戟のソーマ</jptag><cntag>食戟之灵</cntag><cntwtag>食戟之靈</cntwtag><entag>Food Wars!: Shokugeki no Soma</entag><kotag></kotag></tag>
+<tag><jptag>まったく、駆逐艦は最高だぜ!!</jptag><cntag>驱逐舰真是太棒了！</cntag><cntwtag>驅逐艦真的太棒了！</cntwtag><entag>Geez, destroyers are the best!!</entag><kotag></kotag></tag>
+<tag><jptag>ダンボール戦機</jptag><cntag>纸箱战机</cntag><cntwtag>紙箱戰機</cntwtag><entag></entag><kotag>골판지 전사</kotag></tag>
+<tag><jptag>高雄(アズールレーン)</jptag><cntag>高雄(碧蓝航线)</cntag><cntwtag>高雄(碧藍航線)</cntwtag><entag>Takao (Azur Lane)</entag><kotag></kotag></tag>
+<tag><jptag>海馬瀬人</jptag><cntag>海马濑人</cntag><cntwtag>海馬瀨人</cntwtag><entag>seto kaiba</entag><kotag></kotag></tag>
+<tag><jptag>ポケットモンスター</jptag><cntag>口袋妖怪</cntag><cntwtag>神奇寶貝</cntwtag><entag>pocket monsters</entag><kotag>포켓몬스터</kotag></tag>
+<tag><jptag>ダンガンロンパ</jptag><cntag>枪弹辩驳</cntag><cntwtag>槍彈辯駁</cntwtag><entag>dangan ronpa</entag><kotag>단간론파</kotag></tag>
+<tag><jptag>美少女戦士セーラームーン</jptag><cntag>美少女战士</cntag><cntwtag>美少女戰士</cntwtag><entag>sailor moon</entag><kotag></kotag></tag>
+<tag><jptag>ファイアーエムブレムif</jptag><cntag>圣火降魔录if</cntag><cntwtag>聖火降魔錄if</cntwtag><entag>Fire Emblem Fates</entag><kotag></kotag></tag>
+<tag><jptag>ブレイブルー</jptag><cntag>苍翼默示录</cntag><cntwtag>蒼翼默示錄</cntwtag><entag>blazblue</entag><kotag>블레이 블루</kotag></tag>
+<tag><jptag>アルトリア・ペンドラゴン</jptag><cntag>阿尔托利亚·潘德拉贡</cntag><cntwtag>阿爾托莉雅·潘德拉貢</cntwtag><entag>Artoria Pendragon</entag><kotag></kotag></tag>
+<tag><jptag>アイマス1000users入り</jptag><cntag>偶像大师1000users加入书籤</cntag><cntwtag>偶像大師1000users加入書籤</cntwtag><entag>The Idolmaster 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>ニューダンガンロンパV3</jptag><cntag>新枪弹辩驳V3</cntag><cntwtag>新槍彈辯駁V3</cntwtag><entag>Danganronpa V3: Killing Harmony</entag><kotag></kotag></tag>
+<tag><jptag>零薫</jptag><cntag>零薰</cntag><cntwtag>零薰</cntwtag><entag>Rei/Kaoru</entag><kotag></kotag></tag>
+<tag><jptag>メイプルストーリー</jptag><cntag>枫之谷</cntag><cntwtag>楓之谷</cntwtag><entag>maple story</entag><kotag>메이플스토리</kotag></tag>
+<tag><jptag>アナスタシア(Fate)</jptag><cntag>安娜塔西亚(Fate)</cntag><cntwtag>安娜塔西亞(Fate)</cntwtag><entag>Anastasia (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>エルソード</jptag><cntag>艾尔之光</cntag><cntwtag>艾爾之光</cntwtag><entag>elsword</entag><kotag>엘소드</kotag></tag>
+<tag><jptag>コイカツ</jptag><cntag>恋活</cntag><cntwtag>戀活</cntwtag><entag>Koikatsu!</entag><kotag></kotag></tag>
+<tag><jptag>殺生院キアラ</jptag><cntag>杀生院祈荒</cntag><cntwtag>殺生院祈荒</cntwtag><entag>Kiara Sessyoin</entag><kotag></kotag></tag>
+<tag><jptag>裸足裏</jptag><cntag>裸足脚底</cntag><cntwtag>裸足腳底</cntwtag><entag>bare soles</entag><kotag></kotag></tag>
+<tag><jptag>カスタムメイド3D2</jptag><cntag>3D定制女仆2</cntag><cntwtag>3D定製女僕2</cntwtag><entag>Custom Maid 3D 2</entag><kotag></kotag></tag>
+<tag><jptag>セブンスドラゴン</jptag><cntag>第七龙神</cntag><cntwtag>第七龍神</cntwtag><entag>7th dragon</entag><kotag></kotag></tag>
+<tag><jptag>金色のコルダ</jptag><cntag>金色琴弦</cntag><cntwtag>金色琴弦</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>アルトリア・ペンドラゴン(ランサー)</jptag><cntag>阿尔托利亚·潘德拉贡(lancer)</cntag><cntwtag>阿爾托莉雅·潘德拉貢(lancer)</cntwtag><entag>Artoria Pendragon (lancer)</entag><kotag></kotag></tag>
+<tag><jptag>ランサーアルトリア</jptag><cntag>阿尔托莉亚 枪</cntag><cntwtag>阿爾托莉亞 槍</cntwtag><entag>Lancer Alter</entag><kotag></kotag></tag>
+<tag><jptag>グラ腐ル</jptag><cntag>碧蓝幻想(腐)</cntag><cntwtag>碧藍幻想(腐)</cntwtag><entag>Granblue Fantasy (yaoi)</entag><kotag></kotag></tag>
+<tag><jptag>BASARA</jptag><cntag>战国basara</cntag><cntwtag>戰國basara</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>響(艦隊これくしょん)</jptag><cntag>响(舰队收藏)</cntag><cntwtag>響(艦隊收藏)</cntwtag><entag>Hibiki (Kantai Collection)</entag><kotag></kotag></tag>
+<tag><jptag>武装神姫</jptag><cntag>武装神姬</cntag><cntwtag>武裝神姬</cntwtag><entag>busou shinki</entag><kotag>무장신희</kotag></tag>
+<tag><jptag>みかつる</jptag><cntag>三日月x鹤丸</cntag><cntwtag>三日月x鶴丸</cntwtag><entag>Mikazuki/Tsurumaru</entag><kotag></kotag></tag>
+<tag><jptag>みつくり</jptag><cntag>烛台切光忠×大倶利伽罗</cntag><cntwtag>燭台切光忠×大倶利伽羅</cntwtag><entag>Shokudaikiri/Ookurikara</entag><kotag></kotag></tag>
+<tag><jptag>ガンゲイル・オンライン</jptag><cntag>Gun Gale Online</cntag><cntwtag>Gun Gale Online</cntwtag><entag>Gun Gale Online</entag><kotag></kotag></tag>
+<tag><jptag>戦国無双</jptag><cntag>战国无双</cntag><cntwtag>戰國無雙</cntwtag><entag>samurai warriors</entag><kotag></kotag></tag>
+<tag><jptag>アズールレーン1000users入り</jptag><cntag>碧蓝航线1000users加入书籤</cntag><cntwtag>碧藍航線1000users加入書籤</cntwtag><entag>Azur Lane 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>キャス狐</jptag><cntag>玉藻喵</cntag><cntwtag>玉藻喵</cntwtag><entag>Casko</entag><kotag></kotag></tag>
+<tag><jptag>クローザーズ</jptag><cntag>CLOSERS</cntag><cntwtag>CLOSERS</cntwtag><entag>CLOSERS</entag><kotag></kotag></tag>
+<tag><jptag>マーロマ</jptag><cntag>梅林×罗马尼</cntag><cntwtag>梅林×羅馬尼</cntwtag><entag>Merlin/Romani</entag><kotag></kotag></tag>
+<tag><jptag>ゼルダの伝説</jptag><cntag>塞尔达传说</cntag><cntwtag>薩爾達傳說</cntwtag><entag>the legend of zelda</entag><kotag>젤다의 전설</kotag></tag>
+<tag><jptag>エンジェウーモン</jptag><cntag>天女兽</cntag><cntwtag>天女獸</cntwtag><entag>Angewomon</entag><kotag></kotag></tag>
+<tag><jptag>崩壊3rd</jptag><cntag>崩坏3rd</cntag><cntwtag>崩壞3rd</cntwtag><entag>Honkai Impact 3</entag><kotag></kotag></tag>
+<tag><jptag>みかんば</jptag><cntag>三日月×山姥切</cntag><cntwtag>三日月×山姥切</cntwtag><entag>Mikazuki/Yamanbagiri</entag><kotag></kotag></tag>
+<tag><jptag>東方Project1000users入り</jptag><cntag>东方Project1000users加入书籤</cntag><cntwtag>東方Project1000users加入書籤</cntwtag><entag>Touhou Project 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>ネロ・クラウディウス</jptag><cntag>尼禄·克劳狄乌斯</cntag><cntwtag>尼祿·克勞狄烏斯</cntwtag><entag>Nero Claudius</entag><kotag></kotag></tag>
+<tag><jptag>英雄联盟</jptag><cntag></cntag><cntwtag>英雄聯盟</cntwtag><entag>League of Legends</entag><kotag></kotag></tag>
+<tag><jptag>咎狗の血</jptag><cntag>咎狗之血</cntag><cntwtag>咎狗之血</cntwtag><entag>togainu no chi</entag><kotag>토가이누의 피</kotag></tag>
+<tag><jptag>遊戯王OCG</jptag><cntag>游戏王OCG</cntag><cntwtag>遊戲王OCG</cntwtag><entag>yu-gi-oh ocg</entag><kotag></kotag></tag>
+<tag><jptag>幻想水滸伝</jptag><cntag></cntag><cntwtag>幻想水滸傳</cntwtag><entag>Suikoden</entag><kotag>환상수호전</kotag></tag>
+<tag><jptag>アスナ</jptag><cntag>亚丝娜</cntag><cntwtag>亞絲娜</cntwtag><entag>asuna</entag><kotag>아스나</kotag></tag>
+<tag><jptag>つるいち</jptag><cntag>鹤丸×一期</cntag><cntwtag>鶴丸×一期</cntwtag><entag>Tsurumaru/Ichigo</entag><kotag></kotag></tag>
+<tag><jptag>麻宮アテナ</jptag><cntag>麻宫雅典娜</cntag><cntwtag>麻宮雅典娜</cntwtag><entag>asamiya athena</entag><kotag></kotag></tag>
+<tag><jptag>シャドウバース</jptag><cntag>影之诗</cntag><cntwtag>闇影詩章</cntwtag><entag>Shadowverse</entag><kotag></kotag></tag>
+<tag><jptag>ポケモン人間絵</jptag><cntag>宝可梦人类角色</cntag><cntwtag>寶可夢人類角色</cntwtag><entag>human characters in Pokémon</entag><kotag></kotag></tag>
+<tag><jptag>環壮</jptag><cntag>环壮</cntag><cntwtag>環壯</cntwtag><entag>Tamaki/Sogo</entag><kotag></kotag></tag>
+<tag><jptag>テイルズウィーバー</jptag><cntag></cntag><cntwtag>天翼之鍊</cntwtag><entag>tales weaver</entag><kotag>테일즈위버</kotag></tag>
+<tag><jptag>ハニーセレクト</jptag><cntag>Honey Select</cntag><cntwtag>Honey Select</cntwtag><entag>Honey Select</entag><kotag></kotag></tag>
+<tag><jptag>ストリートファイター</jptag><cntag>快打旋风</cntag><cntwtag>快打旋風</cntwtag><entag>street fighter</entag><kotag></kotag></tag>
+<tag><jptag>ジータ</jptag><cntag>姬妲</cntag><cntwtag>姬妲</cntwtag><entag>Djeeta</entag><kotag></kotag></tag>
+<tag><jptag>ニーアオートマタ</jptag><cntag>尼尔:自动人形</cntag><cntwtag>尼爾：自動人形</cntwtag><entag>Nier: Automata</entag><kotag></kotag></tag>
+<tag><jptag>瀬戸内</jptag><cntag>濑户内</cntag><cntwtag>瀨戶內</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>オーバーウォッチ</jptag><cntag>斗阵特攻</cntag><cntwtag>鬥陣特攻</cntwtag><entag>Overwatch</entag><kotag></kotag></tag>
+<tag><jptag>足指</jptag><cntag>脚指</cntag><cntwtag>腳指</cntwtag><entag>toes</entag><kotag></kotag></tag>
+<tag><jptag>MGS</jptag><cntag>合金装备</cntag><cntwtag>潛龍諜影</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>戦国無双3</jptag><cntag></cntag><cntwtag>戰國無雙</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>スプラトゥーン</jptag><cntag>漆弹大作战</cntag><cntwtag>漆彈大作戰</cntwtag><entag>Splatoon</entag><kotag></kotag></tag>
+<tag><jptag>逆転検事</jptag><cntag>逆转检事</cntag><cntwtag>逆轉檢事</cntwtag><entag>Ace Attorney Investigations: Miles Edgeworth</entag><kotag></kotag></tag>
+<tag><jptag>メタルギアソリッド</jptag><cntag>合金装备</cntag><cntwtag>潛龍諜影</cntwtag><entag>metal gear solid</entag><kotag></kotag></tag>
+<tag><jptag>グラブル</jptag><cntag>碧蓝幻想</cntag><cntwtag>碧藍幻想</cntwtag><entag>Granblue Fantasy</entag><kotag></kotag></tag>
+<tag><jptag>艦これ</jptag><cntag>舰队收藏</cntag><cntwtag>艦隊收藏</cntwtag><entag>Kancolle</entag><kotag>칸코레</kotag></tag>
+<tag><jptag>艦これ1000users入り</jptag><cntag>舰娘1000users加入书籤</cntag><cntwtag>艦娘1000users加入書籤</cntwtag><entag>Kantai Collection 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>ポプテピピック</jptag><cntag>POP TEAM EPIC</cntag><cntwtag>POP TEAM EPIC</cntwtag><entag>Pop Team Epic</entag><kotag></kotag></tag>
+<tag><jptag>くぱぁ</jptag><cntag>掰穴</cntag><cntwtag>掰穴</cntwtag><entag>spread pussy</entag><kotag></kotag></tag>
+<tag><jptag>仮面ライダービルド</jptag><cntag>假面骑士Build</cntag><cntwtag>假面騎士Build</cntwtag><entag>Kamen Rider Build</entag><kotag></kotag></tag>
+<tag><jptag>エロ衣装</jptag><cntag>H服装</cntag><cntwtag>H服裝</cntwtag><entag>sexy clothes</entag><kotag></kotag></tag>
+<tag><jptag>ビキニ</jptag><cntag>比基尼</cntag><cntwtag>比基尼</cntwtag><entag>bikini</entag><kotag>비키니</kotag></tag>
+<tag><jptag>男の娘</jptag><cntag>伪娘</cntag><cntwtag>偽娘</cntwtag><entag>trap</entag><kotag>낭자애</kotag></tag>
+<tag><jptag>ドット絵</jptag><cntag>点阵图</cntag><cntwtag>像素圖</cntwtag><entag>pixel art</entag><kotag></kotag></tag>
+<tag><jptag>メスケモ</jptag><cntag>女性兽人</cntag><cntwtag>女性獸人</cntwtag><entag>female furry</entag><kotag></kotag></tag>
+<tag><jptag>仮面ライダー</jptag><cntag>假面骑士</cntag><cntwtag>假面騎士</cntwtag><entag>kamen rider</entag><kotag>가면라이더</kotag></tag>
+<tag><jptag>ロボ娘</jptag><cntag>机械娘</cntag><cntwtag>機械娘</cntwtag><entag>robogirl</entag><kotag></kotag></tag>
+<tag><jptag>アンドロイド</jptag><cntag>人造人</cntag><cntwtag>人造人</cntwtag><entag>android</entag><kotag>안드로이드</kotag></tag>
+<tag><jptag>レオタード</jptag><cntag>体操服</cntag><cntwtag>體操服</cntwtag><entag>leotard</entag><kotag></kotag></tag>
+<tag><jptag>ロリ巨乳</jptag><cntag>巨乳萝莉</cntag><cntwtag>巨乳蘿莉</cntwtag><entag>loli with huge breasts</entag><kotag>로리거유</kotag></tag>
+<tag><jptag>ボディスーツ</jptag><cntag>连身紧身衣</cntag><cntwtag>連身緊身衣</cntwtag><entag>bodysuit</entag><kotag></kotag></tag>
+<tag><jptag>ケモノ</jptag><cntag>野兽</cntag><cntwtag>野獸</cntwtag><entag>furry</entag><kotag>수인</kotag></tag>
+<tag><jptag>金髪</jptag><cntag>金发</cntag><cntwtag>金髮</cntwtag><entag>blonde</entag><kotag>금발</kotag></tag>
+<tag><jptag>メカ娘</jptag><cntag>机娘</cntag><cntwtag>機娘</cntwtag><entag>mecha girl</entag><kotag></kotag></tag>
+<tag><jptag>ナース</jptag><cntag>护士</cntag><cntwtag>護士</cntwtag><entag>nurse</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル1000users入り</jptag><cntag>原创1000users加入书籤</cntag><cntwtag>原創1000users加入書籤</cntwtag><entag>original 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>絶対領域</jptag><cntag>绝对领域</cntag><cntwtag>絕對領域</cntwtag><entag>absolute territory</entag><kotag></kotag></tag>
+<tag><jptag>ねこ娘</jptag><cntag>猫娘</cntag><cntwtag>貓娘</cntwtag><entag>Neko Musume</entag><kotag></kotag></tag>
+<tag><jptag>ラバースーツ</jptag><cntag>橡胶紧身衣</cntag><cntwtag>橡膠緊身衣</cntwtag><entag>rubber bodysuit</entag><kotag></kotag></tag>
+<tag><jptag>巨大ヒロイン</jptag><cntag>巨大女主角</cntag><cntwtag>巨大女主角</cntwtag><entag>giant heroines</entag><kotag></kotag></tag>
+<tag><jptag>ロボット</jptag><cntag>机器人</cntag><cntwtag>機器人</cntwtag><entag>robot</entag><kotag>로봇</kotag></tag>
+<tag><jptag>オリジナル10000users入り</jptag><cntag>原创10000users加入书籤</cntag><cntwtag>原創10000users加入書籤</cntwtag><entag>original 10000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル5000users入り</jptag><cntag>原创5000users加入书籤</cntag><cntwtag>原創5000users加入書籤</cntwtag><entag>original 5000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>アナログ</jptag><cntag>手绘</cntag><cntwtag>手繪</cntwtag><entag>traditional</entag><kotag></kotag></tag>
+<tag><jptag>仕事絵</jptag><cntag>商业绘图</cntag><cntwtag>商業繪圖</cntwtag><entag>work illustration</entag><kotag></kotag></tag>
+<tag><jptag>獣人</jptag><cntag>兽人</cntag><cntwtag>獸人</cntwtag><entag>theriantrope</entag><kotag>수인</kotag></tag>
+<tag><jptag>バニーガール</jptag><cntag>兔女郎</cntag><cntwtag>兔女郎</cntwtag><entag>bunny girl</entag><kotag>바니걸</kotag></tag>
+<tag><jptag>競泳水着</jptag><cntag>竞技泳装</cntag><cntwtag>競技泳裝</cntwtag><entag>competition swimsuits</entag><kotag></kotag></tag>
+<tag><jptag>貧乳</jptag><cntag>平胸</cntag><cntwtag>平胸</cntwtag><entag>flat chest</entag><kotag>빈유</kotag></tag>
+<tag><jptag>水着</jptag><cntag>泳装</cntag><cntwtag>泳裝</cntwtag><entag>swimsuit</entag><kotag>수영복</kotag></tag>
+<tag><jptag>恐竜</jptag><cntag>恐龙</cntag><cntwtag>恐龍</cntwtag><entag>dinosaur</entag><kotag>공룡</kotag></tag>
+<tag><jptag>むちむち</jptag><cntag>丰满</cntag><cntwtag>豐滿</cntwtag><entag>plump</entag><kotag></kotag></tag>
+<tag><jptag>全身タイツ</jptag><cntag>全身紧身衣</cntag><cntwtag>全身緊身衣</cntwtag><entag>full body stocking</entag><kotag></kotag></tag>
+<tag><jptag>ウルトラヒロイン</jptag><cntag>奥特曼女主</cntag><cntwtag>超人力霸女主角</cntwtag><entag>ultra heroine</entag><kotag></kotag></tag>
+<tag><jptag>極上の女体</jptag><cntag>极上女体</cntag><cntwtag>極上女體</cntwtag><entag>first-rate female bodies</entag><kotag></kotag></tag>
+<tag><jptag>セーラー服</jptag><cntag>水手服</cntag><cntwtag>水手服</cntwtag><entag>sailor uniform</entag><kotag>세일러복</kotag></tag>
+<tag><jptag>ドレス</jptag><cntag>裙子</cntag><cntwtag>裙子</cntwtag><entag>dress</entag><kotag></kotag></tag>
+<tag><jptag>フリー素材</jptag><cntag>免费素材</cntag><cntwtag>免費素材</cntwtag><entag>freebies for drawing</entag><kotag>프리 소재</kotag></tag>
+<tag><jptag>ふたなり</jptag><cntag>扶他</cntag><cntwtag>扶他</cntwtag><entag>futanari</entag><kotag></kotag></tag>
+<tag><jptag>ケモショタ</jptag><cntag>兽耳正太</cntag><cntwtag>獸耳正太</cntwtag><entag>furry shota</entag><kotag></kotag></tag>
+<tag><jptag>猫耳</jptag><cntag></cntag><cntwtag>貓耳</cntwtag><entag>cat ears</entag><kotag>고양이귀</kotag></tag>
+<tag><jptag>チャイナドレス</jptag><cntag>旗袍</cntag><cntwtag>旗袍</cntwtag><entag>China dress</entag><kotag>차이나드레스</kotag></tag>
+<tag><jptag>ボンデージ</jptag><cntag>绑缚</cntag><cntwtag>綁縛</cntwtag><entag>bondage</entag><kotag>본디지</kotag></tag>
+<tag><jptag>獣耳</jptag><cntag>兽耳</cntag><cntwtag>獸耳</cntwtag><entag>beast ears</entag><kotag>동물귀</kotag></tag>
+<tag><jptag>マイクロビキニ</jptag><cntag>极小比基尼</cntag><cntwtag>極小比基尼</cntwtag><entag>micro bikini</entag><kotag></kotag></tag>
+<tag><jptag>メイド服</jptag><cntag>女仆装</cntag><cntwtag>女僕裝</cntwtag><entag>maid uniform</entag><kotag></kotag></tag>
+<tag><jptag>挟まれたい谷間</jptag><cntag>想被夹住的乳沟</cntag><cntwtag>想被夾住的乳溝</cntwtag><entag>plump cleavage</entag><kotag></kotag></tag>
+<tag><jptag>目がハート</jptag><cntag>眼睛爱心</cntag><cntwtag>眼睛愛心</cntwtag><entag>heart eyes</entag><kotag></kotag></tag>
+<tag><jptag>高品質パンツ</jptag><cntag>高品质内裤</cntag><cntwtag>高品質內褲</cntwtag><entag>high-quality panties</entag><kotag></kotag></tag>
+<tag><jptag>魅惑のふともも</jptag><cntag>魅惑的大腿</cntag><cntwtag>魅惑的大腿</cntwtag><entag>bewitching thighs</entag><kotag></kotag></tag>
+<tag><jptag>ワンピース</jptag><cntag>ONE PIECE</cntag><cntwtag>ONE PIECE</cntwtag><entag>One Piece</entag><kotag>원피스</kotag></tag>
+<tag><jptag>表紙</jptag><cntag>封面</cntag><cntwtag>封面</cntwtag><entag>front cover</entag><kotag></kotag></tag>
+<tag><jptag>他者変身</jptag><cntag>变身成别人</cntag><cntwtag>變身成別人</cntwtag><entag>transformation into someone else</entag><kotag></kotag></tag>
+<tag><jptag>壁纸</jptag><cntag></cntag><cntwtag>壁紙</cntwtag><entag>wallpaper</entag><kotag></kotag></tag>
+<tag><jptag>シルエット</jptag><cntag></cntag><cntwtag>剪影</cntwtag><entag>silhouette</entag><kotag></kotag></tag>
+<tag><jptag>仮面ライダービルド</jptag><cntag>假面骑士Build</cntag><cntwtag>假面騎士Build</cntwtag><entag>Kamen Rider Build</entag><kotag></kotag></tag>
+<tag><jptag>ガンダムビルドダイバーズ</jptag><cntag>高达创形者</cntag><cntwtag>鋼彈創鬥者 潛網大戰</cntwtag><entag>Gundam Build Divers</entag><kotag></kotag></tag>
+<tag><jptag>トランスフォーマー</jptag><cntag>变形金刚</cntag><cntwtag>變形金剛</cntwtag><entag>transformers</entag><kotag>트랜스포머</kotag></tag>
+<tag><jptag>七つの大罪</jptag><cntag>七大罪</cntag><cntwtag>七大罪</cntwtag><entag>The Seven Deadly Sins</entag><kotag></kotag></tag>
+<tag><jptag>武装神姫</jptag><cntag>武装神姬</cntag><cntwtag>武裝神姬</cntwtag><entag>busou shinki</entag><kotag>무장신희</kotag></tag>
+<tag><jptag>マイリトルポニー</jptag><cntag>彩虹小马</cntag><cntwtag>彩虹小馬</cntwtag><entag>my little pony</entag><kotag></kotag></tag>
+<tag><jptag>HUGっと!プリキュア</jptag><cntag>拥抱!光之美少女</cntag><cntwtag>擁抱！光之美少女</cntwtag><entag>Hugtto! PreCure</entag><kotag></kotag></tag>
+<tag><jptag>ゲゲゲの鬼太郎</jptag><cntag>鬼太郎</cntag><cntwtag>鬼太郎</cntwtag><entag>GeGeGe no Kitarō</entag><kotag></kotag></tag>
+<tag><jptag>パッションリップ</jptag><cntag>热情迷唇</cntag><cntwtag>熱情迷唇</cntwtag><entag>Passionlip</entag><kotag></kotag></tag>
+<tag><jptag>ゴブリンスレイヤー</jptag><cntag>哥布林杀手</cntag><cntwtag>哥布林殺手</cntwtag><entag>Goblin Slayer</entag><kotag></kotag></tag>
+<tag><jptag>青の祓魔師</jptag><cntag>青之除魔师</cntag><cntwtag>青之驅魔師</cntwtag><entag>blue exorcist</entag><kotag>청의 엑소시스트</kotag></tag>
+<tag><jptag>ご注文はうさぎですか?</jptag><cntag>请问您今天要来点兔子吗？</cntag><cntwtag>請問您今天要來點兔子嗎？</cntwtag><entag>Is the Order a Rabbit?</entag><kotag></kotag></tag>
+<tag><jptag>ハイスクールD×D</jptag><cntag>恶魔高校D×D</cntag><cntwtag>惡魔高校D×D</cntwtag><entag>High School DxD</entag><kotag></kotag></tag>
+<tag><jptag>閃乱カグラ</jptag><cntag>闪乱神乐</cntag><cntwtag>閃亂神樂</cntwtag><entag>senran kagura</entag><kotag></kotag></tag>
+<tag><jptag>バットマン</jptag><cntag>蝙蝠侠</cntag><cntwtag>蝙蝠俠</cntwtag><entag>batman</entag><kotag>배트맨</kotag></tag>
+<tag><jptag>ロックマン</jptag><cntag>洛克人</cntag><cntwtag>洛克人</cntwtag><entag>Megaman</entag><kotag>록맨</kotag></tag>
+<tag><jptag>ポプテピピック</jptag><cntag>POP TEAM EPIC</cntag><cntwtag>POP TEAM EPIC</cntwtag><entag>Pop Team Epic</entag><kotag></kotag></tag>
+<tag><jptag>ゴールデンカムイ</jptag><cntag>黄金神威</cntag><cntwtag>黃金神威</cntwtag><entag>Golden Kamuy</entag><kotag></kotag></tag>
+<tag><jptag>ドラゴンボール</jptag><cntag>龙珠</cntag><cntwtag>七龍珠</cntwtag><entag>Dragon Ball</entag><kotag>드래곤볼</kotag></tag>
+<tag><jptag>聖闘士星矢</jptag><cntag>圣斗士星矢</cntag><cntwtag>聖鬥士星矢</cntwtag><entag>saint seiya</entag><kotag></kotag></tag>
+<tag><jptag>カードキャプターさくら</jptag><cntag>魔卡少女樱</cntag><cntwtag>庫洛魔法使</cntwtag><entag>Cardcaptor Sakura</entag><kotag></kotag></tag>
+<tag><jptag>ジョジョの奇妙な冒険</jptag><cntag>JoJo的奇妙冒险</cntag><cntwtag>JoJo的奇妙冒險</cntwtag><entag>JoJo's Bizarre Adventure</entag><kotag>죠죠의 기묘한 모험</kotag></tag>
+<tag><jptag>私がモテないのはどう考えてもお前らが悪い!</jptag><cntag>我不受欢迎，怎麽想都是你们的错！</cntag><cntwtag>我不受歡迎，怎麼想都是你們的錯！</cntwtag><entag>No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!</entag><kotag></kotag></tag>
+<tag><jptag>おそ松さん</jptag><cntag>阿松</cntag><cntwtag>小松先生</cntwtag><entag>Mr. Osomatsu</entag><kotag></kotag></tag>
+<tag><jptag>魔法少女サイト</jptag><cntag>魔法少女网站</cntag><cntwtag>魔法少女網站</cntwtag><entag>Magical Girl Site</entag><kotag></kotag></tag>
+<tag><jptag>轟百</jptag><cntag>轰百</cntag><cntwtag>蟲百</cntwtag><entag>Todoroki/Yaoyorozu</entag><kotag></kotag></tag>
+<tag><jptag>とある魔術の禁書目録</jptag><cntag>魔法的禁书目录</cntag><cntwtag>魔法禁書目錄</cntwtag><entag>a certain magical index</entag><kotag>어떤 마술의 금서목록</kotag></tag>
+<tag><jptag>鬼灯の冷徹</jptag><cntag>鬼灯的冷彻</cntag><cntwtag>鬼燈的冷徹</cntwtag><entag></entag><kotag>호오즈키의 냉철</kotag></tag>
+<tag><jptag>戦国BASARA</jptag><cntag>战国basara</cntag><cntwtag>戰國basara</cntwtag><entag>sengoku basara</entag><kotag></kotag></tag>
+<tag><jptag>ガンダムビルドダイバーズ</jptag><cntag>高达创形者</cntag><cntwtag>鋼彈創鬥者 潛網大戰</cntwtag><entag>Gundam Build Divers</entag><kotag></kotag></tag>
+<tag><jptag>小狼×さくら</jptag><cntag>小狼×小樱</cntag><cntwtag>小狼×小櫻</cntwtag><entag>Syaoran/Sakura</entag><kotag></kotag></tag>
+<tag><jptag>エヴァンゲリオン</jptag><cntag>新世纪福音战士</cntag><cntwtag>新世紀福音戰士</cntwtag><entag>evangelion</entag><kotag>에반게리온</kotag></tag>
+<tag><jptag>斉木楠雄のΨ難</jptag><cntag>齐木楠雄的灾难</cntag><cntwtag>齊木楠雄的災難</cntwtag><entag>The Disastrous Life of Saiki K.</entag><kotag></kotag></tag>
+<tag><jptag>サムライスピリッツ</jptag><cntag>侍魂</cntag><cntwtag>侍魂</cntwtag><entag>Samurai Shodown</entag><kotag></kotag></tag>
+<tag><jptag>黒子のバスケ</jptag><cntag>黑子的篮球</cntag><cntwtag>影子籃球員</cntwtag><entag>kuroko's basketball</entag><kotag>쿠로코의 농구</kotag></tag>
+<tag><jptag>ゾンビ</jptag><cntag>僵尸</cntag><cntwtag>殭屍</cntwtag><entag>zombie</entag><kotag>좀비</kotag></tag>
+<tag><jptag>イナズマイレブン</jptag><cntag>闪电十一人</cntag><cntwtag>閃電十一人</cntwtag><entag>inazuma eleven</entag><kotag>썬더 일레븐</kotag></tag>
+<tag><jptag>腐向け</jptag><cntag>腐向</cntag><cntwtag>腐向</cntwtag><entag>yaoi</entag><kotag>부녀자향</kotag></tag>
+<tag><jptag>エロマンガ先生</jptag><cntag>埃罗芒阿老师</cntag><cntwtag>情色漫畫老師</cntwtag><entag>Eromanga-sensei</entag><kotag></kotag></tag>
+<tag><jptag>ガンダム</jptag><cntag>高达</cntag><cntwtag>鋼彈</cntwtag><entag>gundam</entag><kotag>건담</kotag></tag>
+<tag><jptag>カドアナ</jptag><cntag>卡多安娜</cntag><cntwtag>卡多安娜</cntwtag><entag>Kadoc/Anastasia</entag><kotag></kotag></tag>
+<tag><jptag>ペルソナ5</jptag><cntag>女神异闻录5</cntag><cntwtag>女神異聞錄5</cntwtag><entag>Persona 5</entag><kotag></kotag></tag>
+<tag><jptag>クレヨンしんちゃん</jptag><cntag>蜡笔小新</cntag><cntwtag>蠟筆小新</cntwtag><entag>crayon shinchan</entag><kotag>짱구는 못말려</kotag></tag>
+<tag><jptag>クロエ・フォン・アインツベルン</jptag><cntag>克洛伊・冯・爱因兹贝伦</cntag><cntwtag>克洛伊・馮・愛因茲貝倫</cntwtag><entag>Chloe Von Einzbern</entag><kotag></kotag></tag>
+<tag><jptag>ペルソナ4</jptag><cntag>女神异闻录4</cntag><cntwtag>女神異聞錄4</cntwtag><entag>persona 4</entag><kotag>페르소나4</kotag></tag>
+<tag><jptag>猫娘</jptag><cntag></cntag><cntwtag>貓娘</cntwtag><entag>neko musume</entag><kotag></kotag></tag>
+<tag><jptag>ドラえもん</jptag><cntag>哆啦A梦</cntag><cntwtag>哆拉A夢</cntwtag><entag>doraemon</entag><kotag>도라에몽</kotag></tag>
+<tag><jptag>からかい上手の高木さん</jptag><cntag>擅长捉弄人的高木同学</cntag><cntwtag>擅長捉弄人的高木同學</cntwtag><entag>Karakai Jōzu no Takagi-san</entag><kotag></kotag></tag>
+<tag><jptag>ブレンド・S</jptag><cntag>调教咖啡厅</cntag><cntwtag>調教咖啡廳</cntwtag><entag>Blend S</entag><kotag></kotag></tag>
+<tag><jptag>進撃の巨人</jptag><cntag>进击的巨人</cntag><cntwtag>進擊的巨人</cntwtag><entag>Attack On Titan</entag><kotag>진격의 거인</kotag></tag>
+<tag><jptag>僕のヒーローアカデミア</jptag><cntag>我的英雄学院</cntag><cntwtag>我的英雄學院</cntwtag><entag>My Hero Academia</entag><kotag></kotag></tag>
+<tag><jptag>艦隊これくしょん</jptag><cntag>舰队collection</cntag><cntwtag>艦隊Collection</cntwtag><entag>Kantai Collection</entag><kotag>함대 콜렉션</kotag></tag>
+<tag><jptag>ハイキュー!!</jptag><cntag>排球少年！！</cntag><cntwtag>排球少年！！</cntwtag><entag>Haikyu!!</entag><kotag>하이큐!!</kotag></tag>
+<tag><jptag>うちはサスケ</jptag><cntag>宇智波佐助</cntag><cntwtag>宇智波佐助</cntwtag><entag>sasuke uchiha</entag><kotag></kotag></tag>
+<tag><jptag>トランスフォーマー</jptag><cntag>变形金刚</cntag><cntwtag>變形金剛</cntwtag><entag>transformers</entag><kotag>트랜스포머</kotag></tag>
+<tag><jptag>ポケスペ</jptag><cntag>精灵宝可梦特别篇</cntag><cntwtag>精靈寶可夢特別篇</cntwtag><entag>pokemon sp</entag><kotag>포케스페</kotag></tag>
+<tag><jptag>ゆるキャン△</jptag><cntag>摇曳露营△</cntag><cntwtag>搖曳露營△</cntwtag><entag>Yuru Camp △</entag><kotag></kotag></tag>
+<tag><jptag>越前リョーマ</jptag><cntag>越前龙马</cntag><cntwtag>越前龍馬</cntwtag><entag>ryoma echizen</entag><kotag></kotag></tag>
+<tag><jptag>遊戯王</jptag><cntag>游戏王</cntag><cntwtag>遊戲王</cntwtag><entag>Yu-Gi-Oh!</entag><kotag>유희왕</kotag></tag>
+<tag><jptag>D.Gray-man</jptag><cntag>驱魔少年</cntag><cntwtag>驅魔少年</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ヘタリア</jptag><cntag>义呆利</cntag><cntwtag>義呆利</cntwtag><entag>hetalia</entag><kotag>헤타리아</kotag></tag>
+<tag><jptag>こみっくがーるず</jptag><cntag>Comic Girls</cntag><cntwtag>漫畫女孩</cntwtag><entag>Comic Girls</entag><kotag></kotag></tag>
+<tag><jptag>名探偵コナン</jptag><cntag>名侦探柯南</cntag><cntwtag>名偵探柯南</cntwtag><entag>case closed</entag><kotag>명탐정 코난</kotag></tag>
+<tag><jptag>メイドインアビス</jptag><cntag>来自深渊</cntag><cntwtag>來自深淵</cntwtag><entag>Made in Abyss</entag><kotag></kotag></tag>
+<tag><jptag>鉄拳</jptag><cntag>铁拳</cntag><cntwtag>鐵拳</cntwtag><entag>tekken</entag><kotag>철권</kotag></tag>
+<tag><jptag>日向ヒナタ</jptag><cntag>日向雏田</cntag><cntwtag>日向雛田</cntwtag><entag>Hinata Hyūga</entag><kotag></kotag></tag>
+<tag><jptag>文豪ストレイドッグス</jptag><cntag>文豪Stray Dogs</cntag><cntwtag>文豪Stray Dogs</cntwtag><entag>Bungo Stray Dogs</entag><kotag></kotag></tag>
+<tag><jptag>八百万百</jptag><cntag></cntag><cntwtag>八百萬百</cntwtag><entag>Momo Yaoyorozu</entag><kotag></kotag></tag>
+<tag><jptag>麗日お茶子</jptag><cntag>丽日御茶子</cntag><cntwtag>麗日御茶子</cntwtag><entag>Ochaco Uraraka</entag><kotag></kotag></tag>
+<tag><jptag>18号</jptag><cntag></cntag><cntwtag>18號</cntwtag><entag>android18</entag><kotag>18호</kotag></tag>
+<tag><jptag>メルトリリス</jptag><cntag>溶解莉莉丝</cntag><cntwtag>溶解莉莉絲</cntwtag><entag>Meltlilith</entag><kotag></kotag></tag>
+<tag><jptag>ルパン三世</jptag><cntag>鲁邦三世</cntag><cntwtag>魯邦三世</cntwtag><entag>Lupin the Third</entag><kotag></kotag></tag>
+<tag><jptag>漫画</jptag><cntag></cntag><cntwtag>漫畫</cntwtag><entag>manga</entag><kotag>만화</kotag></tag>
+<tag><jptag>けものフレンズ</jptag><cntag>动物朋友</cntag><cntwtag>動物朋友</cntwtag><entag>Kemono Friends</entag><kotag></kotag></tag>
+<tag><jptag>プリズマ☆イリヤ</jptag><cntag>魔法少女☆伊莉雅</cntag><cntwtag>魔法少女☆伊莉雅</cntwtag><entag>prisma illya</entag><kotag>프리즈마 이리야</kotag></tag>
+<tag><jptag>はじめの一歩</jptag><cntag>第一神拳</cntag><cntwtag>第一神拳</cntwtag><entag>hajime no ippo</entag><kotag></kotag></tag>
+<tag><jptag>ぐだ男</jptag><cntag>男主</cntag><cntwtag>男主</cntwtag><entag>Gudao</entag><kotag></kotag></tag>
+<tag><jptag>ラブライブ!</jptag><cntag>Love Live!</cntag><cntwtag>Love Live!</cntwtag><entag>love live!</entag><kotag></kotag></tag>
+<tag><jptag>ロックマンX</jptag><cntag>洛克人x</cntag><cntwtag>洛克人x</cntwtag><entag>megaman x</entag><kotag></kotag></tag>
+<tag><jptag>結城友奈は勇者である</jptag><cntag>結城友奈是勇者</cntag><cntwtag>結城友奈是勇者</cntwtag><entag>Yuki Yuna is a Hero</entag><kotag></kotag></tag>
+<tag><jptag>りゅうおうのおしごと!</jptag><cntag>龙王的工作！</cntag><cntwtag>龍王的工作！</cntwtag><entag>The Ryuo's Work is Never Done!</entag><kotag></kotag></tag>
+<tag><jptag>勝デク</jptag><cntag>爆豪胜己×绿谷出久</cntag><cntwtag>爆豪勝己×綠谷出久</cntwtag><entag>Bakugo/Deku</entag><kotag></kotag></tag>
+<tag><jptag>魔法使いの嫁</jptag><cntag>魔法使的新娘</cntag><cntwtag>魔法使的新娘</cntwtag><entag>The Ancient Magus' Bride</entag><kotag></kotag></tag>
+<tag><jptag>遊戯王ARC-V</jptag><cntag>游戏王ARC-V</cntag><cntwtag>遊戲王ARC-V</cntwtag><entag>Yu-Gi-Oh! Arc-V</entag><kotag></kotag></tag>
+<tag><jptag>イナズマイレブンGO</jptag><cntag>闪电十一人go</cntag><cntwtag>閃電十一人go</cntwtag><entag>inazuma eleven go</entag><kotag></kotag></tag>
+<tag><jptag>ナミ</jptag><cntag>娜美</cntag><cntwtag>娜美</cntwtag><entag>nami</entag><kotag>나미</kotag></tag>
+<tag><jptag>やはり俺の青春ラブコメはまちがっている。</jptag><cntag>果然我的青春恋爱喜剧搞错了。</cntag><cntwtag>果然我的青春戀愛喜劇搞錯了。</cntwtag><entag>My Youth Romantic Comedy Is Wrong, As I Expected</entag><kotag></kotag></tag>
+<tag><jptag>咲-Saki-</jptag><cntag>天才麻将少女</cntag><cntwtag>天才麻將少女</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>リョナ</jptag><cntag>Ryona</cntag><cntwtag>Ryona</cntwtag><entag>Ryona</entag><kotag>료나</kotag></tag>
+<tag><jptag>男子高校生の日常</jptag><cntag>男子高校生的日常</cntag><cntwtag>男子高校生的日常</cntwtag><entag></entag><kotag>남자 고교생의 일상</kotag></tag>
+<tag><jptag>蔵馬</jptag><cntag>藏马</cntag><cntwtag>藏馬</cntwtag><entag>Kurama</entag><kotag>쿠라마</kotag></tag>
+<tag><jptag>ワンパンマン</jptag><cntag>一拳超人</cntag><cntwtag>一拳超人</cntwtag><entag>one-punch man</entag><kotag>원펀맨</kotag></tag>
+<tag><jptag>碇シンジ</jptag><cntag>碇真嗣</cntag><cntwtag>碇真嗣</cntwtag><entag>shinji ikari</entag><kotag></kotag></tag>
+<tag><jptag>ロビン</jptag><cntag>罗宾</cntag><cntwtag>羅賓</cntwtag><entag>robin</entag><kotag>로빈</kotag></tag>
+<tag><jptag>ノーゲーム・ノーライフ</jptag><cntag>NO GAME NO LIFE 游戏人生</cntag><cntwtag>NO GAME NO LIFE 遊戲人生</cntwtag><entag>No Game No Life</entag><kotag></kotag></tag>
+<tag><jptag>HUNTER×HUNTER</jptag><cntag>全职猎人</cntag><cntwtag>全職獵人</cntwtag><entag>hunter x hunter</entag><kotag></kotag></tag>
+<tag><jptag>渚カヲル</jptag><cntag>渚薰</cntag><cntwtag>渚薰</cntwtag><entag>kaworu nagisa</entag><kotag>나기사 카오루</kotag></tag>
+<tag><jptag>ネコ娘</jptag><cntag>猫娘</cntag><cntwtag>貓娘</cntwtag><entag>Catgirl</entag><kotag></kotag></tag>
+<tag><jptag>みなみけ</jptag><cntag>南家三姐妹</cntag><cntwtag>南家三姊妹</cntwtag><entag>minami-ke</entag><kotag>미나미가</kotag></tag>
+<tag><jptag>星のカービィ</jptag><cntag>星之卡比</cntag><cntwtag>星之卡比</cntwtag><entag>Kirby</entag><kotag>별의 커비</kotag></tag>
+<tag><jptag>アベンジャーズ</jptag><cntag>复仇者</cntag><cntwtag>復仇者聯盟</cntwtag><entag>the avengers</entag><kotag>어벤져스</kotag></tag>
+<tag><jptag>宝石の国</jptag><cntag>宝石之国</cntag><cntwtag>寶石之國</cntwtag><entag>Land of the Lustrous</entag><kotag></kotag></tag>
+<tag><jptag>小林さんちのメイドラゴン</jptag><cntag>小林家的龙女仆</cntag><cntwtag>小林家的龍女僕</cntwtag><entag>Miss Kobayashi's Dragon Maid</entag><kotag></kotag></tag>
+<tag><jptag>ゆるゆり</jptag><cntag>摇曳百合</cntag><cntwtag>輕鬆百合</cntwtag><entag>Yuru Yuri</entag><kotag>유루유리</kotag></tag>
+<tag><jptag>ToLOVEる</jptag><cntag>出包王女</cntag><cntwtag>出包王女</cntwtag><entag>to-love-ru</entag><kotag></kotag></tag>
+<tag><jptag>安コ</jptag><cntag>安柯</cntag><cntwtag>安柯</cntwtag><entag>Tooru/Conan</entag><kotag></kotag></tag>
+<tag><jptag>弱虫ペダル</jptag><cntag>飚速宅男</cntag><cntwtag>飙速宅男</cntwtag><entag>yowamushi pedal</entag><kotag>겁쟁이 페달</kotag></tag>
+<tag><jptag>アイアンマン</jptag><cntag>钢铁侠</cntag><cntwtag>鋼鐵人</cntwtag><entag>iron man</entag><kotag>아이언맨</kotag></tag>
+<tag><jptag>じょしらく</jptag><cntag></cntag><cntwtag>女子落</cntwtag><entag>joshiraku</entag><kotag></kotag></tag>
+<tag><jptag>木之本桜</jptag><cntag>木之本樱</cntag><cntwtag>木之本櫻</cntwtag><entag>Sakura Kinomoto</entag><kotag></kotag></tag>
+<tag><jptag>カードファイト!!ヴァンガード</jptag><cntag>卡片斗争!!先导者</cntag><cntwtag>卡片鬥爭!! 先導者</cntwtag><entag>cardfight!! vanguard</entag><kotag></kotag></tag>
+<tag><jptag>食戟のソーマ</jptag><cntag>食戟之灵</cntag><cntwtag>食戟之靈</cntwtag><entag>Food Wars!: Shokugeki no Soma</entag><kotag></kotag></tag>
+<tag><jptag>キルミーベイベー</jptag><cntag>爱杀宝贝</cntag><cntwtag>愛殺寶貝</cntwtag><entag>kill me baby</entag><kotag></kotag></tag>
+<tag><jptag>ハヤテのごとく!</jptag><cntag>旋风管家</cntag><cntwtag>旋風管家</cntwtag><entag>hayate the combat butler</entag><kotag>하야테처럼</kotag></tag>
+<tag><jptag>ポケットモンスター</jptag><cntag>口袋妖怪</cntag><cntwtag>神奇寶貝</cntwtag><entag>pocket monsters</entag><kotag>포켓몬스터</kotag></tag>
+<tag><jptag>セーラームーン</jptag><cntag>水手月亮</cntag><cntwtag>水手月亮</cntwtag><entag>sailormoon</entag><kotag>세일러 문</kotag></tag>
+<tag><jptag>犬山あおい</jptag><cntag>犬山葵</cntag><cntwtag>犬山葵</cntwtag><entag>Aoi Inuyama</entag><kotag></kotag></tag>
+<tag><jptag>リヴァエレ</jptag><cntag>兵艾</cntag><cntwtag>兵艾</cntwtag><entag>riren</entag><kotag>리바에레</kotag></tag>
+<tag><jptag>美少女戦士セーラームーン</jptag><cntag>美少女战士</cntag><cntwtag>美少女戰士</cntwtag><entag>sailor moon</entag><kotag></kotag></tag>
+<tag><jptag>マギ</jptag><cntag>魔奇少年</cntag><cntwtag>魔奇少年</cntwtag><entag>magi</entag><kotag>마기</kotag></tag>
+<tag><jptag>サスサク</jptag><cntag>佐樱</cntag><cntwtag>佐櫻</cntwtag><entag>Sasuke/Sakura</entag><kotag>사스사쿠</kotag></tag>
+<tag><jptag>斎藤一</jptag><cntag></cntag><cntwtag>齋藤一</cntwtag><entag>saitou hajime</entag><kotag></kotag></tag>
+<tag><jptag>Re:ゼロから始める異世界生活</jptag><cntag>Re:从零开始的异世界生活</cntag><cntwtag>Re:從零開始的異世界生活</cntwtag><entag>Re:Zero - Starting Life in Another World</entag><kotag></kotag></tag>
+<tag><jptag>らんま1/2</jptag><cntag>乱马1/2</cntag><cntwtag>亂馬1/2</cntwtag><entag>Ranma 1/2</entag><kotag></kotag></tag>
+<tag><jptag>空の境界</jptag><cntag>空之境界</cntag><cntwtag>空之境界</cntwtag><entag>kara no kyoukai</entag><kotag>공의 경계</kotag></tag>
+<tag><jptag>沢田綱吉</jptag><cntag>沢田纲吉</cntag><cntwtag>澤田綱吉</cntwtag><entag></entag><kotag>사와다 츠나요시</kotag></tag>
+<tag><jptag>春野サクラ</jptag><cntag>春野樱</cntag><cntwtag>春野櫻</cntwtag><entag>sakura haruno</entag><kotag>하루노 사쿠라</kotag></tag>
+<tag><jptag>エレリ</jptag><cntag>艾兵</cntag><cntwtag>艾兵</cntwtag><entag>Eren/Levi</entag><kotag>에레리</kotag></tag>
+<tag><jptag>ローゼンメイデン</jptag><cntag>蔷薇少女</cntag><cntwtag>薔薇少女</cntwtag><entag>rozen maiden</entag><kotag>로젠 메이든</kotag></tag>
+<tag><jptag>金色のコルダ</jptag><cntag>金色琴弦</cntag><cntwtag>金色琴弦</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>神のみぞ知るセカイ</jptag><cntag>只有神知道的世界</cntag><cntwtag>只有神知道的世界</cntwtag><entag>the world god only knows</entag><kotag>신만이 아는 세계</kotag></tag>
+<tag><jptag>黒執事</jptag><cntag>黑执事</cntag><cntwtag>黑執事</cntwtag><entag>black butler</entag><kotag>흑집사</kotag></tag>
+<tag><jptag>攻殻機動隊</jptag><cntag>攻壳机动队</cntag><cntwtag>攻殼機動隊</cntwtag><entag>ghost in the shell</entag><kotag>공각기동대</kotag></tag>
+<tag><jptag>BASARA</jptag><cntag>战国basara</cntag><cntwtag>戰國basara</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ストライクウィッチーズ</jptag><cntag>强袭魔女</cntag><cntwtag>強襲魔女</cntwtag><entag>strike witches</entag><kotag>스트라이크 위치스</kotag></tag>
+<tag><jptag>ダリフラ</jptag><cntag>Darling in the Franxx</cntag><cntwtag>Darling in the Franxx</cntwtag><entag>Darling in the Franxx</entag><kotag></kotag></tag>
+<tag><jptag>ぬらりひょんの孫</jptag><cntag>滑头鬼之孙</cntag><cntwtag>妖怪少爺</cntwtag><entag>Nura: Rise of the Yokai Clan</entag><kotag>누라리횬의 손자</kotag></tag>
+<tag><jptag>鋼の錬金術師</jptag><cntag>钢之炼金术师</cntag><cntwtag>鋼之鍊金術師</cntwtag><entag>Fullmetal Alchemist</entag><kotag>강철의 연금술사</kotag></tag>
+<tag><jptag>黒崎一護</jptag><cntag>黑崎一护</cntag><cntwtag>黑崎一護</cntwtag><entag>ichigo kurosaki</entag><kotag></kotag></tag>
+<tag><jptag>ブラックジャック</jptag><cntag>怪医黑杰克</cntag><cntwtag>怪醫黑傑克</cntwtag><entag>black jack</entag><kotag>블랙잭</kotag></tag>
+<tag><jptag>ようこそ実力至上主義の教室へ</jptag><cntag>欢迎来到实力至上主义的教室</cntag><cntwtag>歡迎來到實力至上主義的教室</cntwtag><entag>Classroom of the Elite</entag><kotag></kotag></tag>
+<tag><jptag>革命機ヴァルヴレイヴ</jptag><cntag>革命机valvrave</cntag><cntwtag>革命機valvrave</cntwtag><entag>valvrave the liberator</entag><kotag></kotag></tag>
+<tag><jptag>月野うさぎ</jptag><cntag>月野兔</cntag><cntwtag>月野兔</cntwtag><entag>usagi tsukino</entag><kotag>세라</kotag></tag>
+<tag><jptag>咎狗の血</jptag><cntag>咎狗之血</cntag><cntwtag>咎狗之血</cntwtag><entag>togainu no chi</entag><kotag>토가이누의 피</kotag></tag>
+<tag><jptag>べるぜバブ</jptag><cntag>魔王的父亲</cntag><cntwtag>惡魔奶爸</cntwtag><entag>Beelzebub</entag><kotag>벨제바브</kotag></tag>
+<tag><jptag>PandoraHearts</jptag><cntag>潘朵拉之心</cntag><cntwtag>潘朵拉之心</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>君に届け</jptag><cntag>好想告诉你</cntag><cntwtag>只想告訴你</cntwtag><entag>kimi ni todoke</entag><kotag>너에게 닿기를</kotag></tag>
+<tag><jptag>ナルヒナ</jptag><cntag>鸣雏</cntag><cntwtag>鳴雛</cntwtag><entag>Naruhina</entag><kotag>나루히나</kotag></tag>
+<tag><jptag>暁</jptag><cntag>晓</cntag><cntwtag>曉</cntwtag><entag>dawn</entag><kotag>새벽</kotag></tag>
+<tag><jptag>朽木ルキア</jptag><cntag>朽木露琪亚</cntag><cntwtag>朽木露琪亞</cntwtag><entag>rukia kuchiki</entag><kotag></kotag></tag>
+<tag><jptag>テニスの王子様</jptag><cntag>网球王子</cntag><cntwtag>網球王子</cntwtag><entag>prince of tennis</entag><kotag>테니스의 왕자님</kotag></tag>
+<tag><jptag>HELLSING</jptag><cntag>皇家国教骑士团</cntag><cntwtag>厄夜怪客</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>落書き</jptag><cntag>涂鸦</cntag><cntwtag>塗鴉</cntwtag><entag>doodle</entag><kotag>낙서</kotag></tag>
+<tag><jptag>狼と香辛料</jptag><cntag></cntag><cntwtag>狼與辛香料</cntwtag><entag>spice and wolf</entag><kotag>늑대와 향신료</kotag></tag>
+<tag><jptag>スティレオ</jptag><cntag>史雷</cntag><cntwtag>史雷</cntwtag><entag>Steven/Leonardo</entag><kotag></kotag></tag>
+<tag><jptag>ワンピース</jptag><cntag>ONE PIECE</cntag><cntwtag>ONE PIECE</cntwtag><entag>One Piece</entag><kotag>원피스</kotag></tag>
+<tag><jptag>灼眼のシャナ</jptag><cntag>灼眼的夏娜</cntag><cntwtag>灼眼的夏娜</cntwtag><entag>shakugan no shana</entag><kotag>작안의 샤나</kotag></tag>
+<tag><jptag>君と僕。</jptag><cntag>少年同盟</cntag><cntwtag>少年同盟</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>僕は友達が少ない</jptag><cntag>我的朋友很少</cntag><cntwtag>我的朋友很少</cntwtag><entag>boku wa tomodachi ga sukunai</entag><kotag>나는 친구가 적다</kotag></tag>
+<tag><jptag>クラステ</jptag><cntag>克劳斯史帝夫</cntag><cntwtag>克勞斯史帝夫</cntwtag><entag>Klaus/Steven</entag><kotag></kotag></tag>
+<tag><jptag>魔人探偵脳噛ネウロ</jptag><cntag></cntag><cntwtag>魔人偵探腦嚙涅羅</cntwtag><entag>majin tantei nougami neuro</entag><kotag></kotag></tag>
+<tag><jptag>反逆のルルーシュ</jptag><cntag></cntag><cntwtag>反叛的魯路修</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ゴブリンスレイヤー</jptag><cntag>哥布林杀手</cntag><cntwtag>哥布林殺手</cntwtag><entag>Goblin Slayer</entag><kotag></kotag></tag>
+<tag><jptag>青の祓魔師</jptag><cntag>青之除魔师</cntag><cntwtag>青之驅魔師</cntwtag><entag>blue exorcist</entag><kotag>청의 엑소시스트</kotag></tag>
+<tag><jptag>ハイスクールD×D</jptag><cntag>恶魔高校D×D</cntag><cntwtag>惡魔高校D×D</cntwtag><entag>High School DxD</entag><kotag></kotag></tag>
+<tag><jptag>雛鶴あい</jptag><cntag>雏鹤爱</cntag><cntwtag>雛鶴愛</cntwtag><entag>Ai Hinatsuru</entag><kotag></kotag></tag>
+<tag><jptag>デート・ア・ライブ</jptag><cntag>约会大作战</cntag><cntwtag>約會大作戰</cntwtag><entag>date a live</entag><kotag>데이트 어 라이브</kotag></tag>
+<tag><jptag>幼女戦記</jptag><cntag>幼女战纪</cntag><cntwtag>幼女戰紀</cntwtag><entag>The Saga of Tanya the Evil</entag><kotag></kotag></tag>
+<tag><jptag>この素晴らしい世界に祝福を!</jptag><cntag>为美好的世界献上祝福！</cntag><cntwtag>為美好的世界獻上祝福！</cntwtag><entag>KonoSuba</entag><kotag></kotag></tag>
+<tag><jptag>とある魔術の禁書目録</jptag><cntag>魔法的禁书目录</cntag><cntwtag>魔法禁書目錄</cntwtag><entag>a certain magical index</entag><kotag>어떤 마술의 금서목록</kotag></tag>
+<tag><jptag>ソードアート・オンライン</jptag><cntag>刀剑神域</cntag><cntwtag>刀劍神域</cntwtag><entag>sword art online</entag><kotag>소드 아트 온라인</kotag></tag>
+<tag><jptag>めぐみん</jptag><cntag>惠惠</cntag><cntwtag>惠惠</cntwtag><entag>Megumin</entag><kotag></kotag></tag>
+<tag><jptag>ツンデレ</jptag><cntag>傲娇</cntag><cntwtag>傲嬌</cntwtag><entag>tsundere</entag><kotag>츤데레</kotag></tag>
+<tag><jptag>エロマンガ先生</jptag><cntag>埃罗芒阿老师</cntag><cntwtag>情色漫畫老師</cntwtag><entag>Eromanga-sensei</entag><kotag></kotag></tag>
+<tag><jptag>ジャック・ザ・リッパー(Fate)</jptag><cntag>开膛手杰克(Fate)</cntag><cntwtag>開膛手傑克(Fate)</cntwtag><entag>Jack the Ripper (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>カゲロウプロジェクト</jptag><cntag>阳炎project</cntag><cntwtag>陽炎計劃</cntwtag><entag>kagerou project</entag><kotag>카게로우 프로젝트</kotag></tag>
+<tag><jptag>レム(リゼロ)</jptag><cntag>雷姆 (Re:Zero)</cntag><cntwtag>雷姆 (Re:Zero)</cntwtag><entag>Rem (Re:Zero)</entag><kotag></kotag></tag>
+<tag><jptag>アストルフォ(Fate)</jptag><cntag>阿斯托尔福(Fate)</cntag><cntwtag>阿斯托爾福(Fate)</cntwtag><entag>Astolfo (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>文豪ストレイドッグス</jptag><cntag>文豪Stray Dogs</cntag><cntwtag>文豪Stray Dogs</cntwtag><entag>Bungo Stray Dogs</entag><kotag></kotag></tag>
+<tag><jptag>りゅうおうのおしごと!</jptag><cntag>龙王的工作！</cntag><cntwtag>龍王的工作！</cntwtag><entag>The Ryuo's Work is Never Done!</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ・ダルク(Fate)</jptag><cntag>贞德(Fate)</cntag><cntwtag>貞德(Fate)</cntwtag><entag>Jeanne d'Arc (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>やはり俺の青春ラブコメはまちがっている。</jptag><cntag>果然我的青春恋爱喜剧搞错了。</cntag><cntwtag>果然我的青春戀愛喜劇搞錯了。</cntwtag><entag>My Youth Romantic Comedy Is Wrong, As I Expected</entag><kotag></kotag></tag>
+<tag><jptag>ノーゲーム・ノーライフ</jptag><cntag>NO GAME NO LIFE 游戏人生</cntag><cntwtag>NO GAME NO LIFE 遊戲人生</cntwtag><entag>No Game No Life</entag><kotag></kotag></tag>
+<tag><jptag>ジュナカル</jptag><cntag>周迦</cntag><cntwtag>周迦</cntwtag><entag>Arjuna/Karna</entag><kotag></kotag></tag>
+<tag><jptag>ヴァイオレット・エヴァーガーデン</jptag><cntag>紫罗兰永恒花园</cntag><cntwtag>紫羅蘭永恆花園</cntwtag><entag>Violet Evergarden</entag><kotag></kotag></tag>
+<tag><jptag>アタランテ(Fate)</jptag><cntag>阿塔兰塔(Fate)</cntag><cntwtag>阿塔蘭塔(Fate)</cntwtag><entag>Atalanta (Fate)</entag><kotag></kotag></tag>
+<tag><jptag>あんさんぶるスターズ!</jptag><cntag>偶像梦幻祭</cntag><cntwtag>偶像夢幻祭</cntwtag><entag>Ensemble Stars</entag><kotag></kotag></tag>
+<tag><jptag>ホロ</jptag><cntag>赫萝</cntag><cntwtag>赫蘿</cntwtag><entag>holo</entag><kotag>호로</kotag></tag>
+<tag><jptag>両儀式</jptag><cntag>两仪式</cntag><cntwtag>兩儀式</cntwtag><entag>ryougi shiki</entag><kotag></kotag></tag>
+<tag><jptag>Re:ゼロから始める異世界生活</jptag><cntag>Re:从零开始的异世界生活</cntag><cntwtag>Re:從零開始的異世界生活</cntwtag><entag>Re:Zero - Starting Life in Another World</entag><kotag></kotag></tag>
+<tag><jptag>冴えない彼女の育てかた</jptag><cntag>不起眼女主角培育法</cntag><cntwtag>不起眼女主角培育法</cntwtag><entag>Saekano: How to Raise a Boring Girlfriend</entag><kotag></kotag></tag>
+<tag><jptag>空の境界</jptag><cntag>空之境界</cntag><cntwtag>空之境界</cntwtag><entag>kara no kyoukai</entag><kotag>공의 경계</kotag></tag>
+<tag><jptag>境界線上のホライゾン</jptag><cntag>境界线上的地平线</cntag><cntwtag>境界線上的地平線</cntwtag><entag>horizon in the middle of nowhere</entag><kotag>경계선상의 호라이즌</kotag></tag>
+<tag><jptag>神のみぞ知るセカイ</jptag><cntag>只有神知道的世界</cntag><cntwtag>只有神知道的世界</cntwtag><entag>the world god only knows</entag><kotag>신만이 아는 세계</kotag></tag>
+<tag><jptag>デュラララ!!</jptag><cntag>无头骑士异闻录</cntag><cntwtag>無頭騎士異聞錄</cntwtag><entag>drrr!!</entag><kotag></kotag></tag>
+<tag><jptag>ストライクウィッチーズ</jptag><cntag>强袭魔女</cntag><cntwtag>強襲魔女</cntwtag><entag>strike witches</entag><kotag>스트라이크 위치스</kotag></tag>
+<tag><jptag>ガンゲイル・オンライン</jptag><cntag>Gun Gale Online</cntag><cntwtag>Gun Gale Online</cntwtag><entag>Gun Gale Online</entag><kotag></kotag></tag>
+<tag><jptag>ようこそ実力至上主義の教室へ</jptag><cntag>欢迎来到实力至上主义的教室</cntag><cntwtag>歡迎來到實力至上主義的教室</cntwtag><entag>Classroom of the Elite</entag><kotag></kotag></tag>
+<tag><jptag>革命機ヴァルヴレイヴ</jptag><cntag>革命机valvrave</cntag><cntwtag>革命機valvrave</cntwtag><entag>valvrave the liberator</entag><kotag></kotag></tag>
+<tag><jptag>PandoraHearts</jptag><cntag>潘朵拉之心</cntag><cntwtag>潘朵拉之心</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>絶望先生</jptag><cntag></cntag><cntwtag>絕望先生</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>雪ノ下雪乃</jptag><cntag>雪之下雪乃</cntag><cntwtag>雪之下雪乃</cntwtag><entag>Yukino Yukinoshita</entag><kotag></kotag></tag>
+<tag><jptag>狼と香辛料</jptag><cntag></cntag><cntwtag>狼與辛香料</cntwtag><entag>spice and wolf</entag><kotag>늑대와 향신료</kotag></tag>
+<tag><jptag>灼眼のシャナ</jptag><cntag>灼眼的夏娜</cntag><cntwtag>灼眼的夏娜</cntwtag><entag>shakugan no shana</entag><kotag>작안의 샤나</kotag></tag>
+<tag><jptag>僕は友達が少ない</jptag><cntag>我的朋友很少</cntag><cntwtag>我的朋友很少</cntwtag><entag>boku wa tomodachi ga sukunai</entag><kotag>나는 친구가 적다</kotag></tag>
+<tag><jptag>反逆のルルーシュ</jptag><cntag></cntag><cntwtag>反叛的魯路修</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>バーチャルYouTuber</jptag><cntag>虚拟YouTuber</cntag><cntwtag>虛擬Youtuber</cntwtag><entag>Virtual YouTuber</entag><kotag></kotag></tag>
+<tag><jptag>エドワード</jptag><cntag>爱德华</cntag><cntwtag>愛德華</cntwtag><entag>edward</entag><kotag></kotag></tag>
+<tag><jptag>奴隷</jptag><cntag>奴隶</cntag><cntwtag>奴隸</cntwtag><entag>slave</entag><kotag></kotag></tag>
+<tag><jptag>エレン</jptag><cntag></cntag><cntwtag>艾連</cntwtag><entag></entag><kotag>에렌</kotag></tag>
+<tag><jptag>キズナアイ</jptag><cntag>绊爱</cntag><cntwtag>絆愛</cntwtag><entag>Kizuna AI</entag><kotag></kotag></tag>
+<tag><jptag>ショタ</jptag><cntag>正太</cntag><cntwtag>正太</cntwtag><entag>shota</entag><kotag>쇼타</kotag></tag>
+<tag><jptag>アリス</jptag><cntag>爱丽丝</cntag><cntwtag>愛莉絲</cntwtag><entag>alice</entag><kotag>앨리스</kotag></tag>
+<tag><jptag>徳川家康</jptag><cntag>德川家康</cntag><cntwtag>德川家康</cntwtag><entag>tokugawa ieyasu</entag><kotag></kotag></tag>
+<tag><jptag>アーサー</jptag><cntag>亚瑟</cntag><cntwtag>亞瑟王</cntwtag><entag>arthur</entag><kotag></kotag></tag>
+<tag><jptag>アーサー・ペンドラゴン</jptag><cntag>亚瑟・潘德拉贡</cntag><cntwtag>亞瑟・潘德拉貢</cntwtag><entag>Arthur Pendragon</entag><kotag></kotag></tag>
+<tag><jptag>猫宮ひなた</jptag><cntag>猫宮Hinata</cntag><cntwtag>猫宮Hinata</cntwtag><entag>Nekomiya Hinata</entag><kotag></kotag></tag>
+<tag><jptag>ゲイ</jptag><cntag>Gay</cntag><cntwtag>Gay</cntwtag><entag>gay</entag><kotag>게이</kotag></tag>
+<tag><jptag>サリエリ</jptag><cntag>萨里耶利</cntag><cntwtag>薩里耶利</cntwtag><entag>Salieri</entag><kotag></kotag></tag>
+<tag><jptag>アストルフォ</jptag><cntag>阿斯托尔福</cntag><cntwtag>阿斯托爾福</cntwtag><entag>Astolfo</entag><kotag></kotag></tag>
+<tag><jptag>女王様</jptag><cntag>女王</cntag><cntwtag>女王</cntwtag><entag>queen</entag><kotag>여왕님</kotag></tag>
+<tag><jptag>女王様</jptag><cntag>女王</cntag><cntwtag>女王</cntwtag><entag>queen</entag><kotag>여왕님</kotag></tag>
+<tag><jptag>レナ</jptag><cntag>蕾娜</cntag><cntwtag>蕾娜</cntwtag><entag>rena</entag><kotag>레나</kotag></tag>
+<tag><jptag>セレナ</jptag><cntag>莎莉娜</cntag><cntwtag>莎莉娜</cntwtag><entag>selena</entag><kotag></kotag></tag>
+<tag><jptag>トリックスター</jptag><cntag></cntag><cntwtag>卡巴拉島</cntwtag><entag>trickster</entag><kotag>트릭스터</kotag></tag>
+<tag><jptag>リン</jptag><cntag>镜音铃</cntag><cntwtag>鏡音鈴</cntwtag><entag>Lynn</entag><kotag>린</kotag></tag>
+<tag><jptag>エミリア</jptag><cntag>爱蜜莉雅</cntag><cntwtag>愛蜜莉雅</cntwtag><entag>Emilia</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ・ダルク</jptag><cntag>贞德</cntag><cntwtag>黑貞德</cntwtag><entag>Jeanne d'Arc</entag><kotag></kotag></tag>
+<tag><jptag>大谷吉継</jptag><cntag>大谷吉继</cntag><cntwtag>大谷吉繼</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ルカ</jptag><cntag>露卡</cntag><cntwtag>流歌</cntwtag><entag>luka</entag><kotag>루카</kotag></tag>
+<tag><jptag>アマサリ</jptag><cntag>阿玛迪斯×萨里耶利</cntag><cntwtag>阿瑪迪斯×薩里耶利</cntwtag><entag>Amadeus/Salieri</entag><kotag></kotag></tag>
+<tag><jptag>プリンツ・オイゲン</jptag><cntag>欧根亲王</cntag><cntwtag>歐根親王</cntwtag><entag>Prinz Eugen</entag><kotag></kotag></tag>
+<tag><jptag>斎藤一</jptag><cntag></cntag><cntwtag>齋藤一</cntwtag><entag>saitou hajime</entag><kotag></kotag></tag>
+<tag><jptag>沖田総司</jptag><cntag>冲田总司</cntag><cntwtag>沖田總司</cntwtag><entag>souji okita</entag><kotag></kotag></tag>
+<tag><jptag>レン</jptag><cntag>连</cntag><cntwtag>連</cntwtag><entag>len</entag><kotag>렌</kotag></tag>
+<tag><jptag>極上の乳</jptag><cntag>极上乳房</cntag><cntwtag>極上乳房</cntwtag><entag>first-rate breasts</entag><kotag></kotag></tag>
+<tag><jptag>モードレッド</jptag><cntag>莫德雷德</cntag><cntwtag>莫德雷德</cntwtag><entag>Mordred</entag><kotag></kotag></tag>
+<tag><jptag>エリザベート・バートリー</jptag><cntag>伊莉莎白·巴托里</cntag><cntwtag>伊莉莎白·巴托里</cntwtag><entag>Elizabeth Bathory</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ</jptag><cntag>贞德</cntag><cntwtag>貞德</cntwtag><entag>jeanne</entag><kotag>잔느</kotag></tag>
+<tag><jptag>魔物娘図鑑</jptag><cntag>魔物娘图鑑</cntag><cntwtag>魔物娘圖鑑</cntwtag><entag>Monster Girl Encyclopedia</entag><kotag></kotag></tag>
+<tag><jptag>レティ</jptag><cntag>蕾迪</cntag><cntwtag>蕾迪</cntwtag><entag>Letty</entag><kotag></kotag></tag>
+<tag><jptag>抱き枕</jptag><cntag>抱枕</cntag><cntwtag>抱枕</cntwtag><entag>dakimakura</entag><kotag></kotag></tag>
+<tag><jptag>足</jptag><cntag>腿</cntag><cntwtag>腿</cntwtag><entag>legs</entag><kotag>발</kotag></tag>
+<tag><jptag>バーチャルYouTuber</jptag><cntag>虚拟YouTuber</cntag><cntwtag>虛擬Youtuber</cntwtag><entag>Virtual YouTuber</entag><kotag></kotag></tag>
+<tag><jptag>1000users入り</jptag><cntag>1000users加入书籤</cntag><cntwtag>1000users加入書籤</cntwtag><entag>1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>乗っ取り</jptag><cntag>夺取</cntag><cntwtag>奪取</cntwtag><entag>possessed</entag><kotag></kotag></tag>
+<tag><jptag>プリン</jptag><cntag>布丁</cntag><cntwtag>胖丁</cntwtag><entag>pudding</entag><kotag></kotag></tag>
+<tag><jptag>性転換</jptag><cntag>性转换</cntag><cntwtag>性轉換</cntwtag><entag>sex change</entag><kotag>성전환</kotag></tag>
+<tag><jptag>入れ替わり</jptag><cntag>互换</cntag><cntwtag>互換</cntwtag><entag>body swap</entag><kotag></kotag></tag>
+<tag><jptag>くノ一</jptag><cntag></cntag><cntwtag>女忍者</cntwtag><entag>kunoichi</entag><kotag></kotag></tag>
+<tag><jptag>女装</jptag><cntag></cntag><cntwtag>女裝</cntwtag><entag>female clothing</entag><kotag>여장</kotag></tag>
+<tag><jptag>コナン夢</jptag><cntag>柯南电影版(纯黑的恶梦)</cntag><cntwtag>柯南電影版(純黑的惡夢)</cntwtag><entag>ConanYume</entag><kotag></kotag></tag>
+<tag><jptag>エドワード</jptag><cntag>爱德华</cntag><cntwtag>愛德華</cntwtag><entag>edward</entag><kotag></kotag></tag>
+<tag><jptag>おねショタ</jptag><cntag>御姊正太</cntag><cntwtag>御姊正太</cntwtag><entag>oneshota</entag><kotag></kotag></tag>
+<tag><jptag>筋ショタ</jptag><cntag>肌肉正太</cntag><cntwtag>肌肉正太</cntwtag><entag>muscular shota</entag><kotag></kotag></tag>
+<tag><jptag>プロレス</jptag><cntag>职业摔角</cntag><cntwtag>職業摔角</cntwtag><entag>pro wrestling</entag><kotag>프로레슬링</kotag></tag>
+<tag><jptag>ビキニ</jptag><cntag>比基尼</cntag><cntwtag>比基尼</cntwtag><entag>bikini</entag><kotag>비키니</kotag></tag>
+<tag><jptag>おっぱい</jptag><cntag>欧派</cntag><cntwtag>歐派</cntwtag><entag>breasts</entag><kotag>가슴</kotag></tag>
+<tag><jptag>女の子</jptag><cntag>女孩子</cntag><cntwtag>女孩子</cntwtag><entag>girl</entag><kotag></kotag></tag>
+<tag><jptag>鬼灯の冷徹</jptag><cntag>鬼灯的冷彻</cntag><cntwtag>鬼燈的冷徹</cntwtag><entag></entag><kotag>호오즈키의 냉철</kotag></tag>
+<tag><jptag>ゆめにっき</jptag><cntag>梦日记</cntag><cntwtag>夢日記</cntwtag><entag>yume nikki</entag><kotag>유메닛키</kotag></tag>
+<tag><jptag>パンチラ</jptag><cntag>露内裤</cntag><cntwtag>露內褲</cntwtag><entag>panchira</entag><kotag></kotag></tag>
+<tag><jptag>男の娘</jptag><cntag>伪娘</cntag><cntwtag>偽娘</cntwtag><entag>trap</entag><kotag>낭자애</kotag></tag>
+<tag><jptag>エレン</jptag><cntag></cntag><cntwtag>艾連</cntwtag><entag></entag><kotag>에렌</kotag></tag>
+<tag><jptag>筋肉娘</jptag><cntag>肌肉娘</cntag><cntwtag>肌肉娘</cntwtag><entag>muscle girl</entag><kotag></kotag></tag>
+<tag><jptag>ドイツ</jptag><cntag>德国</cntag><cntwtag>德國</cntwtag><entag>germany</entag><kotag></kotag></tag>
+<tag><jptag>ハロウィン</jptag><cntag>万圣节</cntag><cntwtag>萬聖節</cntwtag><entag>halloween</entag><kotag></kotag></tag>
+<tag><jptag>ゾンビ</jptag><cntag>僵尸</cntag><cntwtag>殭屍</cntwtag><entag>zombie</entag><kotag>좀비</kotag></tag>
+<tag><jptag>パンツ</jptag><cntag>内裤</cntag><cntwtag>內褲</cntwtag><entag>panties</entag><kotag>팬티</kotag></tag>
+<tag><jptag>ショタ</jptag><cntag>正太</cntag><cntwtag>正太</cntwtag><entag>shota</entag><kotag>쇼타</kotag></tag>
+<tag><jptag>ツインテール</jptag><cntag>双马尾</cntag><cntwtag>雙馬尾</cntwtag><entag>twin ponytails</entag><kotag>트윈테일</kotag></tag>
+<tag><jptag>眼帯</jptag><cntag>眼罩</cntag><cntwtag>眼罩</cntwtag><entag>eyepatch</entag><kotag>안대</kotag></tag>
+<tag><jptag>アリス</jptag><cntag>爱丽丝</cntag><cntwtag>愛莉絲</cntwtag><entag>alice</entag><kotag>앨리스</kotag></tag>
+<tag><jptag>ピアス</jptag><cntag>穿洞</cntag><cntwtag>穿洞</cntwtag><entag>piercing</entag><kotag>피어스</kotag></tag>
+<tag><jptag>くすぐり</jptag><cntag>搔痒</cntag><cntwtag>搔癢</cntwtag><entag>tickling</entag><kotag>간지럼</kotag></tag>
+<tag><jptag>リンゴ</jptag><cntag>苹果</cntag><cntwtag>蘋果</cntwtag><entag>apple</entag><kotag>사과</kotag></tag>
+<tag><jptag>イギリス</jptag><cntag>英国</cntag><cntwtag>英國</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>アレン</jptag><cntag>艾伦</cntag><cntwtag>艾倫</cntwtag><entag>allen</entag><kotag>알렌</kotag></tag>
+<tag><jptag>黒タイツ</jptag><cntag>黑裤袜</cntag><cntwtag>黑褲襪</cntwtag><entag>black tights</entag><kotag></kotag></tag>
+<tag><jptag>猫娘</jptag><cntag></cntag><cntwtag>貓娘</cntwtag><entag>neko musume</entag><kotag></kotag></tag>
+<tag><jptag>ラグナロク</jptag><cntag>仙境传说</cntag><cntwtag>仙境傳說</cntwtag><entag>ragnarok</entag><kotag>라그나로크</kotag></tag>
+<tag><jptag>メカバレ</jptag><cntag>露出机损</cntag><cntwtag>露出機損</cntwtag><entag>mechabare</entag><kotag></kotag></tag>
+<tag><jptag>野球</jptag><cntag>棒球</cntag><cntwtag>棒球</cntwtag><entag>baseball</entag><kotag>야구</kotag></tag>
+<tag><jptag>仮面ライダー</jptag><cntag>假面骑士</cntag><cntwtag>假面騎士</cntwtag><entag>kamen rider</entag><kotag>가면라이더</kotag></tag>
+<tag><jptag>丸呑み</jptag><cntag>整个吞下</cntag><cntwtag>整個吞下</cntwtag><entag>vore</entag><kotag></kotag></tag>
+<tag><jptag>エレシュキガル</jptag><cntag>埃列什基伽勒</cntag><cntwtag>埃列什基伽勒</cntwtag><entag>Ereshkigal</entag><kotag></kotag></tag>
+<tag><jptag>腋毛</jptag><cntag>液毛</cntag><cntwtag>液毛</cntwtag><entag>underarm hair</entag><kotag></kotag></tag>
+<tag><jptag>レオタード</jptag><cntag>体操服</cntag><cntwtag>體操服</cntwtag><entag>leotard</entag><kotag></kotag></tag>
+<tag><jptag>ロリ巨乳</jptag><cntag>巨乳萝莉</cntag><cntwtag>巨乳蘿莉</cntwtag><entag>loli with huge breasts</entag><kotag>로리거유</kotag></tag>
+<tag><jptag>妖怪ウォッチ</jptag><cntag>妖怪手錶</cntag><cntwtag>妖怪手錶</cntwtag><entag>Yo-kai Watch</entag><kotag>요괴워치</kotag></tag>
+<tag><jptag>アーサー</jptag><cntag>亚瑟</cntag><cntwtag>亞瑟王</cntwtag><entag>arthur</entag><kotag></kotag></tag>
+<tag><jptag>スク水</jptag><cntag>学生泳衣</cntag><cntwtag>學生泳衣</cntwtag><entag>school swimsuit</entag><kotag>스쿨미즈</kotag></tag>
+<tag><jptag>生首</jptag><cntag>人头</cntag><cntwtag>人頭</cntwtag><entag>freshly decapitated head</entag><kotag></kotag></tag>
+<tag><jptag>ギター</jptag><cntag>吉他</cntag><cntwtag>吉他</cntwtag><entag>guitar</entag><kotag>기타</kotag></tag>
+<tag><jptag>尻</jptag><cntag>屁股</cntag><cntwtag>屁股</cntwtag><entag>ass</entag><kotag>엉덩이</kotag></tag>
+<tag><jptag>イシュタル</jptag><cntag>伊丝塔</cntag><cntwtag>伊絲塔</cntwtag><entag>Ishtar</entag><kotag></kotag></tag>
+<tag><jptag>筋肉</jptag><cntag>肌肉</cntag><cntwtag>肌肉</cntwtag><entag>muscle</entag><kotag>근육</kotag></tag>
+<tag><jptag>廃墟</jptag><cntag>废墟</cntag><cntwtag>廢墟</cntwtag><entag>ruins</entag><kotag>폐허</kotag></tag>
+<tag><jptag>状態変化</jptag><cntag>状态变化</cntag><cntwtag>狀態變化</cntwtag><entag>change of status</entag><kotag>상태변화</kotag></tag>
+<tag><jptag>おなら</jptag><cntag>放屁</cntag><cntwtag>放屁</cntwtag><entag>farting</entag><kotag></kotag></tag>
+<tag><jptag>ゲイ</jptag><cntag>Gay</cntag><cntwtag>Gay</cntwtag><entag>gay</entag><kotag>게이</kotag></tag>
+<tag><jptag>金髪</jptag><cntag>金发</cntag><cntwtag>金髮</cntwtag><entag>blonde</entag><kotag>금발</kotag></tag>
+<tag><jptag>尻神様</jptag><cntag>尻神样</cntag><cntwtag>尻神樣</cntwtag><entag>heavenly ass</entag><kotag></kotag></tag>
+<tag><jptag>宮本武蔵</jptag><cntag>宫本武藏</cntag><cntwtag>宮本武藏</cntwtag><entag>Miyamoto Musashi</entag><kotag></kotag></tag>
+<tag><jptag>黒</jptag><cntag>黑</cntag><cntwtag>黑</cntwtag><entag>black</entag><kotag>흑</kotag></tag>
+<tag><jptag>サッカー</jptag><cntag>足球</cntag><cntwtag>足球</cntwtag><entag>soccer</entag><kotag>축구</kotag></tag>
+<tag><jptag>ソックス足裏</jptag><cntag>着袜足底</cntag><cntwtag>著襪足底</cntwtag><entag>The soles of feet in socks</entag><kotag></kotag></tag>
+<tag><jptag>憑依</jptag><cntag>附身</cntag><cntwtag>附身</cntwtag><entag>spirit possession</entag><kotag></kotag></tag>
+<tag><jptag>MikuMikuDance</jptag><cntag></cntag><cntwtag>mmd</cntwtag><entag>miku miku dance</entag><kotag></kotag></tag>
+<tag><jptag>クロスオーバー</jptag><cntag>跨界作品</cntag><cntwtag>跨界作品</cntwtag><entag>crossover</entag><kotag></kotag></tag>
+<tag><jptag>女子プロレス</jptag><cntag>女子摔角</cntag><cntwtag>女子摔角</cntwtag><entag>women's pro wrestling</entag><kotag></kotag></tag>
+<tag><jptag>誕生日</jptag><cntag>生日</cntag><cntwtag>生日</cntwtag><entag>birthday</entag><kotag>생일</kotag></tag>
+<tag><jptag>ぽっちゃり</jptag><cntag>丰满</cntag><cntwtag>豐滿</cntwtag><entag>bbw</entag><kotag></kotag></tag>
+<tag><jptag>レナ</jptag><cntag>蕾娜</cntag><cntwtag>蕾娜</cntwtag><entag>rena</entag><kotag>레나</kotag></tag>
+<tag><jptag>七つの大罪</jptag><cntag>七大罪</cntag><cntwtag>七大罪</cntwtag><entag>The Seven Deadly Sins</entag><kotag></kotag></tag>
+<tag><jptag>ナース</jptag><cntag>护士</cntag><cntwtag>護士</cntwtag><entag>nurse</entag><kotag></kotag></tag>
+<tag><jptag>女子高生</jptag><cntag>女高中生</cntag><cntwtag>女高中生</cntwtag><entag>high school girl</entag><kotag>여고생</kotag></tag>
+<tag><jptag>ロリ</jptag><cntag>萝莉</cntag><cntwtag>蘿莉</cntwtag><entag>loli</entag><kotag>로리</kotag></tag>
+<tag><jptag>エルフ</jptag><cntag>精灵</cntag><cntwtag>精靈</cntwtag><entag>elf</entag><kotag>엘프</kotag></tag>
+<tag><jptag>オリジナル1000users入り</jptag><cntag>原创1000users加入书籤</cntag><cntwtag>原創1000users加入書籤</cntwtag><entag>original 1000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>怪獣</jptag><cntag>怪兽</cntag><cntwtag>怪獸</cntwtag><entag>kaiju</entag><kotag>괴수</kotag></tag>
+<tag><jptag>イタリア</jptag><cntag>意大利</cntag><cntwtag>意大利</cntwtag><entag>italy</entag><kotag></kotag></tag>
+<tag><jptag>トリックスター</jptag><cntag></cntag><cntwtag>卡巴拉島</cntwtag><entag>trickster</entag><kotag>트릭스터</kotag></tag>
+<tag><jptag>女子ボクシング</jptag><cntag>女子拳击</cntag><cntwtag>女子拳擊</cntwtag><entag>women's boxing</entag><kotag></kotag></tag>
+<tag><jptag>ふつくしい</jptag><cntag>太美了</cntag><cntwtag>太美了</cntwtag><entag>beautiful</entag><kotag>하름답다</kotag></tag>
+<tag><jptag>オリジナル10000users入り</jptag><cntag>原创10000users加入书籤</cntag><cntwtag>原創10000users加入書籤</cntwtag><entag>original 10000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル5000users入り</jptag><cntag>原创5000users加入书籤</cntag><cntwtag>原創5000users加入書籤</cntwtag><entag>original 5000+ bookmarks</entag><kotag></kotag></tag>
+<tag><jptag>ファンタジー</jptag><cntag>奇幻</cntag><cntwtag>奇幻</cntwtag><entag>fantasy</entag><kotag>판타지</kotag></tag>
+<tag><jptag>おしっこ</jptag><cntag>撒尿</cntag><cntwtag>尿尿</cntwtag><entag>peeing</entag><kotag></kotag></tag>
+<tag><jptag>ぴっちりスーツ</jptag><cntag>紧身衣</cntag><cntwtag>緊身衣</cntwtag><entag>tight bodysuit</entag><kotag></kotag></tag>
+<tag><jptag>ラビ</jptag><cntag>拉比</cntag><cntwtag>拉比</cntwtag><entag>lavi</entag><kotag>라비</kotag></tag>
+<tag><jptag>白雪姫</jptag><cntag>白雪公主</cntag><cntwtag>白雪公主</cntwtag><entag>snow white</entag><kotag>백설공주</kotag></tag>
+<tag><jptag>腹パン</jptag><cntag>揍肚子</cntag><cntwtag>揍肚子</cntwtag><entag>belly punching</entag><kotag></kotag></tag>
+<tag><jptag>リン</jptag><cntag>镜音铃</cntag><cntwtag>鏡音鈴</cntwtag><entag>Lynn</entag><kotag>린</kotag></tag>
+<tag><jptag>アナログ</jptag><cntag>手绘</cntag><cntwtag>手繪</cntwtag><entag>traditional</entag><kotag></kotag></tag>
+<tag><jptag>ヒロピン</jptag><cntag>女主角陷入危机</cntag><cntwtag>女主角陷入危機</cntwtag><entag>heroine in trouble</entag><kotag></kotag></tag>
+<tag><jptag>体格差</jptag><cntag></cntag><cntwtag>體格差</cntwtag><entag>couple with huge physical difference</entag><kotag></kotag></tag>
+<tag><jptag>仕事絵</jptag><cntag>商业绘图</cntag><cntwtag>商業繪圖</cntwtag><entag>work illustration</entag><kotag></kotag></tag>
+<tag><jptag>ユニコーン</jptag><cntag>独角兽</cntag><cntwtag>獨角獸</cntwtag><entag>unicorn</entag><kotag></kotag></tag>
+<tag><jptag>メイド</jptag><cntag>女仆</cntag><cntwtag>女僕</cntwtag><entag>maid</entag><kotag>메이드</kotag></tag>
+<tag><jptag>洗脳</jptag><cntag>洗脑</cntag><cntwtag>洗腦</cntwtag><entag>brainwash</entag><kotag>세뇌</kotag></tag>
+<tag><jptag>バニーガール</jptag><cntag>兔女郎</cntag><cntwtag>兔女郎</cntwtag><entag>bunny girl</entag><kotag>바니걸</kotag></tag>
+<tag><jptag>競泳水着</jptag><cntag>竞技泳装</cntag><cntwtag>競技泳裝</cntwtag><entag>competition swimsuits</entag><kotag></kotag></tag>
+<tag><jptag>ボクシング</jptag><cntag>拳击</cntag><cntwtag>拳擊</cntwtag><entag>boxing</entag><kotag>복싱</kotag></tag>
+<tag><jptag>ペルソナ</jptag><cntag>女神异闻录</cntag><cntwtag>女神異聞錄</cntwtag><entag>persona</entag><kotag></kotag></tag>
+<tag><jptag>男の子</jptag><cntag>男孩子</cntag><cntwtag>男孩子</cntwtag><entag>boy</entag><kotag>남자애</kotag></tag>
+<tag><jptag>女戦闘員</jptag><cntag>女战斗员</cntag><cntwtag>女戰鬥員</cntwtag><entag>female combatant</entag><kotag></kotag></tag>
+<tag><jptag>少女前线</jptag><cntag></cntag><cntwtag>少女前線</cntwtag><entag>Girls' Frontline</entag><kotag></kotag></tag>
+<tag><jptag>貧乳</jptag><cntag>平胸</cntag><cntwtag>平胸</cntwtag><entag>flat chest</entag><kotag>빈유</kotag></tag>
+<tag><jptag>包帯</jptag><cntag>绷带</cntag><cntwtag>繃帶</cntwtag><entag>bandage</entag><kotag></kotag></tag>
+<tag><jptag>妊娠</jptag><cntag>怀孕</cntag><cntwtag>懷孕</cntwtag><entag>pregnancy</entag><kotag></kotag></tag>
+<tag><jptag>恐竜</jptag><cntag>恐龙</cntag><cntwtag>恐龍</cntwtag><entag>dinosaur</entag><kotag>공룡</kotag></tag>
+<tag><jptag>背後から胸揉み</jptag><cntag>从背后揉奶</cntag><cntwtag>從背後揉奶</cntwtag><entag>breast groping from behind</entag><kotag></kotag></tag>
+<tag><jptag>部屋</jptag><cntag>房间</cntag><cntwtag>房間</cntwtag><entag>room</entag><kotag>방</kotag></tag>
+<tag><jptag>オナニー</jptag><cntag>自慰</cntag><cntwtag>自慰</cntwtag><entag>masturbation</entag><kotag></kotag></tag>
+<tag><jptag>超次元ゲイムネプテューヌ</jptag><cntag>超次元战记 战机少女</cntag><cntwtag>超次元戰記 戰機少女</cntwtag><entag>hyperdimension neptunia</entag><kotag></kotag></tag>
+<tag><jptag>ウマ娘</jptag><cntag>马娘</cntag><cntwtag>馬娘</cntwtag><entag>horse girl</entag><kotag></kotag></tag>
+<tag><jptag>むちむち</jptag><cntag>丰满</cntag><cntwtag>豐滿</cntwtag><entag>plump</entag><kotag></kotag></tag>
+<tag><jptag>ホモ</jptag><cntag>男同志</cntag><cntwtag>男同志</cntwtag><entag>homo</entag><kotag>호모</kotag></tag>
+<tag><jptag>ゼロツー</jptag><cntag>02</cntag><cntwtag>02</cntwtag><entag>Zero Two</entag><kotag></kotag></tag>
+<tag><jptag>赤ずきん</jptag><cntag>小红帽</cntag><cntwtag>小紅帽</cntwtag><entag>akazukin</entag><kotag></kotag></tag>
+<tag><jptag>ルカ</jptag><cntag>露卡</cntag><cntwtag>流歌</cntwtag><entag>luka</entag><kotag>루카</kotag></tag>
+<tag><jptag>おジャ魔女どれみ</jptag><cntag>小魔女doremi</cntag><cntwtag>小魔女doremi</cntwtag><entag>Ojamajo Doremi</entag><kotag></kotag></tag>
+<tag><jptag>カニバリズム</jptag><cntag>食人</cntag><cntwtag>食人</cntwtag><entag>cannibalism</entag><kotag></kotag></tag>
+<tag><jptag>オリジナル</jptag><cntag>原创</cntag><cntwtag>原創</cntwtag><entag>original</entag><kotag>창작</kotag></tag>
+<tag><jptag>神楽</jptag><cntag>神乐</cntag><cntwtag>神樂</cntwtag><entag>kagura</entag><kotag>카구라</kotag></tag>
+<tag><jptag>ダンガンロンパ</jptag><cntag>枪弹辩驳</cntag><cntwtag>槍彈辯駁</cntwtag><entag>dangan ronpa</entag><kotag>단간론파</kotag></tag>
+<tag><jptag>固め</jptag><cntag>石化</cntag><cntwtag>石化</cntwtag><entag>petrification</entag><kotag></kotag></tag>
+<tag><jptag>スパンキング</jptag><cntag>打屁股</cntag><cntwtag>打屁股</cntwtag><entag>spanking</entag><kotag></kotag></tag>
+<tag><jptag>ペンギン</jptag><cntag>企鹅</cntag><cntwtag>企鵝</cntwtag><entag>penguin</entag><kotag>펭귄</kotag></tag>
+<tag><jptag>プリンツ・オイゲン</jptag><cntag>欧根亲王</cntag><cntwtag>歐根親王</cntwtag><entag>Prinz Eugen</entag><kotag></kotag></tag>
+<tag><jptag>玉藻の前</jptag><cntag>玉藻前</cntag><cntwtag>玉藻前</cntwtag><entag>Tamamo-no-Mae</entag><kotag></kotag></tag>
+<tag><jptag>バイク</jptag><cntag>自行车</cntag><cntwtag>腳踏車</cntwtag><entag>bike</entag><kotag>바이크</kotag></tag>
+<tag><jptag>沖田総司</jptag><cntag>冲田总司</cntag><cntwtag>沖田總司</cntwtag><entag>souji okita</entag><kotag></kotag></tag>
+<tag><jptag>マスコット</jptag><cntag>吉祥物</cntag><cntwtag>吉祥物</cntwtag><entag>mascot</entag><kotag></kotag></tag>
+<tag><jptag>レン</jptag><cntag>连</cntag><cntwtag>連</cntwtag><entag>len</entag><kotag>렌</kotag></tag>
+<tag><jptag>ドレス</jptag><cntag>裙子</cntag><cntwtag>裙子</cntwtag><entag>dress</entag><kotag></kotag></tag>
+<tag><jptag>すじ</jptag><cntag>骆驼趾</cntag><cntwtag>駱駝蹄</cntwtag><entag>camel toe</entag><kotag></kotag></tag>
+<tag><jptag>モリガン</jptag><cntag>莫莉卡</cntag><cntwtag>茉麗安</cntwtag><entag>morrigan</entag><kotag>모리건</kotag></tag>
+<tag><jptag>ヴァンガード</jptag><cntag>先导者</cntag><cntwtag>先導者</cntwtag><entag>vanguard</entag><kotag>뱅가드</kotag></tag>
+<tag><jptag>ニューダンガンロンパV3</jptag><cntag>新枪弹辩驳V3</cntag><cntwtag>新槍彈辯駁V3</cntwtag><entag>Danganronpa V3: Killing Harmony</entag><kotag></kotag></tag>
+<tag><jptag>レトロ</jptag><cntag>复古</cntag><cntwtag>復古</cntwtag><entag>retro</entag><kotag></kotag></tag>
+<tag><jptag>死体</jptag><cntag>尸体</cntag><cntwtag>屍體</cntwtag><entag>corpse</entag><kotag></kotag></tag>
+<tag><jptag>ケーキ</jptag><cntag>蛋糕</cntag><cntwtag>蛋糕</cntwtag><entag>cake</entag><kotag>케이크</kotag></tag>
+<tag><jptag>イチゴ</jptag><cntag>草莓</cntag><cntwtag>草莓</cntwtag><entag>ichigo</entag><kotag></kotag></tag>
+<tag><jptag>エロ蹲踞</jptag><cntag>H开腿</cntag><cntwtag>H開腿</cntwtag><entag>sexy squatting</entag><kotag></kotag></tag>
+<tag><jptag>源頼光</jptag><cntag>原赖光</cntag><cntwtag>原賴光</cntwtag><entag>Minamoto no Yorimitsu</entag><kotag></kotag></tag>
+<tag><jptag>ビッチ</jptag><cntag>婊子</cntag><cntwtag>婊子</cntwtag><entag>bitch</entag><kotag></kotag></tag>
+<tag><jptag>イラストリアス</jptag><cntag>光辉</cntag><cntwtag>光輝</cntwtag><entag>Illustrious</entag><kotag></kotag></tag>
+<tag><jptag>セバスチャン</jptag><cntag></cntag><cntwtag>賽巴斯欽</cntwtag><entag>sebastian</entag><kotag></kotag></tag>
+<tag><jptag>長手袋</jptag><cntag>长手套</cntag><cntwtag>長手套</cntwtag><entag>long gloves</entag><kotag></kotag></tag>
+<tag><jptag>顔</jptag><cntag>脸</cntag><cntwtag>臉</cntwtag><entag>face</entag><kotag>얼굴</kotag></tag>
+<tag><jptag>おへそ</jptag><cntag>肚脐</cntag><cntwtag>肚臍</cntwtag><entag>bellybutton</entag><kotag>배꼽</kotag></tag>
+<tag><jptag>へそ責め</jptag><cntag>玩弄肚脐</cntag><cntwtag>玩弄肚臍</cntwtag><entag>navel stimulation</entag><kotag></kotag></tag>
+<tag><jptag>スカサハ</jptag><cntag>斯卡塔赫</cntag><cntwtag>斯卡塔赫</cntwtag><entag>Scáthach</entag><kotag></kotag></tag>
+<tag><jptag>ギルガメッシュ</jptag><cntag>吉爾伽美什</cntag><cntwtag>吉爾伽美什</cntwtag><entag>gilgamesh</entag><kotag>길가메쉬</kotag></tag>
+<tag><jptag>子供</jptag><cntag>孩子</cntag><cntwtag>孩子</cntwtag><entag>child</entag><kotag>아이</kotag></tag>
+<tag><jptag>鉛筆</jptag><cntag>铅笔</cntag><cntwtag>铅笔</cntwtag><entag>pencil</entag><kotag>연필</kotag></tag>
+<tag><jptag>ロック</jptag><cntag></cntag><cntwtag>搖滾</cntwtag><entag>rock</entag><kotag></kotag></tag>
+<tag><jptag>黒ギャル</jptag><cntag>黑辣妹</cntag><cntwtag>黑辣妹</cntwtag><entag>kuro gyaru</entag><kotag></kotag></tag>
+<tag><jptag>エンタープライズ</jptag><cntag>企业</cntag><cntwtag>企業</cntwtag><entag>Enterprise</entag><kotag></kotag></tag>
+<tag><jptag>触手</jptag><cntag></cntag><cntwtag>觸手</cntwtag><entag>tentacle</entag><kotag>촉수</kotag></tag>
+<tag><jptag>羽</jptag><cntag>翅膀</cntag><cntwtag>翅膀</cntwtag><entag>feather</entag><kotag>날개</kotag></tag>
+<tag><jptag>北欧</jptag><cntag></cntag><cntwtag>北歐</cntwtag><entag></entag><kotag></kotag></tag>
+<tag><jptag>ミックスファイト</jptag><cntag>男女混合格斗</cntag><cntwtag>男女混合格鬥</cntwtag><entag>mixed-sex combat</entag><kotag></kotag></tag>
+<tag><jptag>首吊り</jptag><cntag>上吊</cntag><cntwtag>上吊</cntwtag><entag>hanging</entag><kotag></kotag></tag>
+<tag><jptag>デブ</jptag><cntag>胖子</cntag><cntwtag>胖子</cntwtag><entag>fat</entag><kotag></kotag></tag>
+<tag><jptag>下着</jptag><cntag>内衣</cntag><cntwtag>內衣</cntwtag><entag>lingerie</entag><kotag>속옷</kotag></tag>
+<tag><jptag>風船</jptag><cntag>气球</cntag><cntwtag>氣球</cntwtag><entag>balloon</entag><kotag></kotag></tag>
+<tag><jptag>トイレ</jptag><cntag>厕所</cntag><cntwtag>廁所</cntwtag><entag>toilet</entag><kotag>화장실</kotag></tag>
+<tag><jptag>エース</jptag><cntag>艾斯</cntag><cntwtag>艾斯</cntwtag><entag>ace</entag><kotag>에이스</kotag></tag>
+<tag><jptag>猫耳</jptag><cntag></cntag><cntwtag>貓耳</cntwtag><entag>cat ears</entag><kotag>고양이귀</kotag></tag>
+<tag><jptag>チャイナドレス</jptag><cntag>旗袍</cntag><cntwtag>旗袍</cntwtag><entag>China dress</entag><kotag>차이나드레스</kotag></tag>
+<tag><jptag>キャットファイト</jptag><cntag>Cat Fight</cntag><cntwtag>Cat Fight</cntwtag><entag>catfight</entag><kotag>캣파이트</kotag></tag>
+<tag><jptag>ベルファスト</jptag><cntag>贝尔法斯特</cntag><cntwtag>貝爾法斯特</cntwtag><entag>Belfast</entag><kotag></kotag></tag>
+<tag><jptag>戦車</jptag><cntag>战车</cntag><cntwtag>戰車</cntwtag><entag>tank</entag><kotag>탱크</kotag></tag>
+<tag><jptag>ガールズ</jptag><cntag>女孩子</cntag><cntwtag>女孩子</cntwtag><entag>girls</entag><kotag></kotag></tag>
+<tag><jptag>ロリータ</jptag><cntag>洛丽塔</cntag><cntwtag>羅莉塔</cntwtag><entag>lolita</entag><kotag>로리타</kotag></tag>
+<tag><jptag>白タイツ</jptag><cntag>白裤袜</cntag><cntwtag>白褲襪</cntwtag><entag>white tights</entag><kotag></kotag></tag>
+<tag><jptag>ラム</jptag><cntag>拉姆</cntag><cntwtag>拉姆</cntwtag><entag>lum</entag><kotag></kotag></tag>
+<tag><jptag>獣耳</jptag><cntag>兽耳</cntag><cntwtag>獸耳</cntwtag><entag>beast ears</entag><kotag>동물귀</kotag></tag>
+<tag><jptag>浜風</jptag><cntag>滨风</cntag><cntwtag>濱風</cntwtag><entag>sea breeze</entag><kotag></kotag></tag>
+<tag><jptag>クロコダイル</jptag><cntag>鳄鱼</cntag><cntwtag>鱷魚</cntwtag><entag>crocodile</entag><kotag>크로커다일</kotag></tag>
+<tag><jptag>マフラー</jptag><cntag>围巾</cntag><cntwtag>圍巾</cntwtag><entag>scarf</entag><kotag></kotag></tag>
+<tag><jptag>レズ</jptag><cntag>蕾丝边</cntag><cntwtag>蕾絲邊</cntwtag><entag>lesbians</entag><kotag>레즈</kotag></tag>
+<tag><jptag>顔面騎乗</jptag><cntag>颜面骑乘</cntag><cntwtag>顏面騎乘</cntwtag><entag>facesitting</entag><kotag></kotag></tag>
+<tag><jptag>足裏</jptag><cntag>脚底</cntag><cntwtag>腳底</cntwtag><entag>sole</entag><kotag>발바닥</kotag></tag>
+<tag><jptag>タイツ</jptag><cntag>裤袜</cntag><cntwtag>褲襪</cntwtag><entag>tight</entag><kotag></kotag></tag>
+<tag><jptag>写真</jptag><cntag></cntag><cntwtag>寫真</cntwtag><entag>photo</entag><kotag>사진</kotag></tag>
+<tag><jptag>学校</jptag><cntag></cntag><cntwtag>學校</cntwtag><entag>school</entag><kotag>학교</kotag></tag>
+<tag><jptag>剣</jptag><cntag>剑</cntag><cntwtag>劍</cntwtag><entag>sword</entag><kotag>검</kotag></tag>
+<tag><jptag>ブラックジャック</jptag><cntag>怪医黑杰克</cntag><cntwtag>怪醫黑傑克</cntwtag><entag>black jack</entag><kotag>블랙잭</kotag></tag>
+<tag><jptag>ダーク</jptag><cntag>黑色</cntag><cntwtag>黑色</cntwtag><entag>dark</entag><kotag></kotag></tag>
+<tag><jptag>企画</jptag><cntag>企划</cntag><cntwtag>企劃</cntwtag><entag>project</entag><kotag></kotag></tag>
+<tag><jptag>セイバー</jptag><cntag>Saber</cntag><cntwtag>Saber</cntwtag><entag>Saber</entag><kotag>세이버</kotag></tag>
+<tag><jptag>リンク</jptag><cntag>林克</cntag><cntwtag>林克</cntwtag><entag>Link</entag><kotag>링크</kotag></tag>
+<tag><jptag>マイクロビキニ</jptag><cntag>极小比基尼</cntag><cntwtag>極小比基尼</cntwtag><entag>micro bikini</entag><kotag></kotag></tag>
+<tag><jptag>メイド服</jptag><cntag>女仆装</cntag><cntwtag>女僕裝</cntwtag><entag>maid uniform</entag><kotag></kotag></tag>
+<tag><jptag>悪魔</jptag><cntag>恶魔</cntag><cntwtag>惡魔</cntwtag><entag>demon</entag><kotag>악마</kotag></tag>
+<tag><jptag>目がハート</jptag><cntag>眼睛爱心</cntag><cntwtag>眼睛愛心</cntwtag><entag>heart eyes</entag><kotag></kotag></tag>
+<tag><jptag>三國無双</jptag><cntag>三国无双</cntag><cntwtag>三國無雙</cntwtag><entag>dynasty warriors</entag><kotag>삼국무쌍</kotag></tag>
+<tag><jptag>着ぐるみ</jptag><cntag>玩偶装</cntag><cntwtag>玩偶裝</cntwtag><entag>kigurumi</entag><kotag></kotag></tag>
+<tag><jptag>パンスト越しのパンツ</jptag><cntag>隔着丝袜的内裤</cntag><cntwtag>隔著絲襪的內褲</cntwtag><entag>panties through stockings</entag><kotag></kotag></tag>
+<tag><jptag>ネロ・クラウディウス</jptag><cntag>尼禄·克劳狄乌斯</cntag><cntwtag>尼祿·克勞狄烏斯</cntwtag><entag>Nero Claudius</entag><kotag></kotag></tag>
+<tag><jptag>腋</jptag><cntag>腋下</cntag><cntwtag>腋下</cntwtag><entag>armpits</entag><kotag>겨드랑이</kotag></tag>
+<tag><jptag>レッド</jptag><cntag></cntag><cntwtag>小智</cntwtag><entag></entag><kotag>레드</kotag></tag>
+<tag><jptag>ぶっかけ</jptag><cntag>射满脸</cntag><cntwtag>射滿臉</cntwtag><entag>bukkake</entag><kotag></kotag></tag>
+<tag><jptag>肥満化</jptag><cntag>肥满化</cntag><cntwtag>肥滿化</cntwtag><entag>gaining weight</entag><kotag></kotag></tag>
+<tag><jptag>自転車</jptag><cntag>自行车</cntag><cntwtag>自行車</cntwtag><entag>bicycle</entag><kotag>자전거</kotag></tag>
+<tag><jptag>シンドバッド</jptag><cntag>辛巴达</cntag><cntwtag>辛巴德</cntwtag><entag></entag><kotag>신드바드</kotag></tag>
+<tag><jptag>ブルマ</jptag><cntag>灯笼裤</cntag><cntwtag>燈籠褲</cntwtag><entag>bloomers</entag><kotag>부르마</kotag></tag>
+<tag><jptag>不思議の国のアリス</jptag><cntag>爱丽丝梦游仙境</cntag><cntwtag>愛麗絲夢遊仙境</cntwtag><entag>alice in wonderland</entag><kotag></kotag></tag>
+<tag><jptag>高品質パンツ</jptag><cntag>高品质内裤</cntag><cntwtag>高品質內褲</cntwtag><entag>high-quality panties</entag><kotag></kotag></tag>
+<tag><jptag>パンスト</jptag><cntag>丝袜</cntag><cntwtag>絲襪</cntwtag><entag>pantyhose</entag><kotag>팬티스타킹</kotag></tag>
+<tag><jptag>おむつ</jptag><cntag>尿布</cntag><cntwtag>尿布</cntwtag><entag>diaper</entag><kotag>기저귀</kotag></tag>
+<tag><jptag>キリト</jptag><cntag>桐人</cntag><cntwtag>桐人</cntwtag><entag>kirito</entag><kotag>키리토</kotag></tag>
+<tag><jptag>暁</jptag><cntag>晓</cntag><cntwtag>曉</cntwtag><entag>dawn</entag><kotag>새벽</kotag></tag>
+<tag><jptag>涙</jptag><cntag>眼泪</cntag><cntwtag>淚</cntwtag><entag>tears</entag><kotag>눈물</kotag></tag>
+<tag><jptag>魅惑のふともも</jptag><cntag>魅惑的大腿</cntag><cntwtag>魅惑的大腿</cntwtag><entag>bewitching thighs</entag><kotag></kotag></tag>
+<tag><jptag>おしっこ我慢</jptag><cntag>憋尿</cntag><cntwtag>憋尿</cntwtag><entag>pee-holding</entag><kotag></kotag></tag>
+<tag><jptag>タルタロス</jptag><cntag></cntag><cntwtag>星空幻想</cntwtag><entag>tartaros</entag><kotag>타르타로스</kotag></tag>
+<tag><jptag>ペド</jptag><cntag>恋童癖</cntag><cntwtag>戀童癖</cntwtag><entag>pedo</entag><kotag></kotag></tag>
+<tag><jptag>黒スト</jptag><cntag>黑丝袜</cntag><cntwtag>黑絲襪</cntwtag><entag>black stockings</entag><kotag></kotag></tag>
+<tag><jptag>妊婦</jptag><cntag>孕妇</cntag><cntwtag>孕婦</cntwtag><entag>pregnant</entag><kotag></kotag></tag>
+<tag><jptag>女体美</jptag><cntag></cntag><cntwtag>女體美</cntwtag><entag>beautiful female bodies</entag><kotag></kotag></tag>
+<tag><jptag>リーリエ</jptag><cntag>莉莉艾</cntag><cntwtag>莉莉艾</cntwtag><entag>Lillie</entag><kotag></kotag></tag>
+<tag><jptag>おもらし</jptag><cntag>失禁</cntag><cntwtag>失禁</cntwtag><entag>pee</entag><kotag></kotag></tag>
+<tag><jptag>ポスター</jptag><cntag>海报</cntag><cntwtag>海報</cntwtag><entag>poster</entag><kotag></kotag></tag>
+<tag><jptag>航空機</jptag><cntag>飞机</cntag><cntwtag>飛機</cntwtag><entag>aircraft</entag><kotag></kotag></tag>
+<tag><jptag>腹パンチ</jptag><cntag>揍肚子</cntag><cntwtag>揍肚子</cntwtag><entag>hit in the stomach</entag><kotag></kotag></tag>
+<tag><jptag>楽器</jptag><cntag>乐器</cntag><cntwtag>樂器</cntwtag><entag>instrument</entag><kotag></kotag></tag>
+<tag><jptag>抱き枕</jptag><cntag>抱枕</cntag><cntwtag>抱枕</cntwtag><entag>dakimakura</entag><kotag></kotag></tag>
+<tag><jptag>カップル</jptag><cntag>情侣</cntag><cntwtag>情侶</cntwtag><entag>couple</entag><kotag>커플</kotag></tag>
+<tag><jptag>落書き</jptag><cntag>涂鸦</cntag><cntwtag>塗鴉</cntwtag><entag>doodle</entag><kotag>낙서</kotag></tag>
+<tag><jptag>テイルズウィーバー</jptag><cntag></cntag><cntwtag>天翼之鍊</cntwtag><entag>tales weaver</entag><kotag>테일즈위버</kotag></tag>
+<tag><jptag>足フェチ</jptag><cntag>恋足癖</cntag><cntwtag>戀足癖</cntwtag><entag>foot fetishism</entag><kotag></kotag></tag>
+<tag><jptag>断髪</jptag><cntag>断髮</cntag><cntwtag>斷髮</cntwtag><entag>bobbed hair</entag><kotag></kotag></tag>
+<tag><jptag>アラジン</jptag><cntag>阿拉丁</cntag><cntwtag>阿拉丁</cntwtag><entag>aladdin</entag><kotag>알라딘</kotag></tag>
+<tag><jptag>魅惑の谷間</jptag><cntag>魅惑的乳沟</cntag><cntwtag>魅惑的乳溝</cntwtag><entag>cleavage</entag><kotag></kotag></tag>
+<tag><jptag>黒猫</jptag><cntag>黑猫</cntag><cntwtag>黑貓</cntwtag><entag>kuroneko</entag><kotag>검은 고양이</kotag></tag>
+<tag><jptag>小学生</jptag><cntag></cntag><cntwtag>小學生</cntwtag><entag>elementary school student</entag><kotag>초등학생</kotag></tag>
+<tag><jptag>乳合わせ</jptag><cntag>乳房相接触</cntag><cntwtag>乳房相接觸</cntwtag><entag>breasts pressing</entag><kotag></kotag></tag>
+<tag><jptag>ニトクリス</jptag><cntag>尼托克丽丝</cntag><cntwtag>尼托克里斯</cntwtag><entag>Nitocris</entag><kotag></kotag></tag>
+<tag><jptag>アヘ顔</jptag><cntag>阿黑颜</cntag><cntwtag>阿嘿顏</cntwtag><entag>ahegao</entag><kotag></kotag></tag>
+<tag><jptag>首輪</jptag><cntag>项圈</cntag><cntwtag>項圈</cntwtag><entag>collar</entag><kotag>목줄</kotag></tag>
+<tag><jptag>ワンピース</jptag><cntag>ONE PIECE</cntag><cntwtag>ONE PIECE</cntwtag><entag>One Piece</entag><kotag>원피스</kotag></tag>
+<tag><jptag>オーバーロード</jptag><cntag>OVERLORD</cntag><cntwtag>OVERLORD</cntwtag><entag>overlord</entag><kotag></kotag></tag>
+<tag><jptag>表紙</jptag><cntag>封面</cntag><cntwtag>封面</cntwtag><entag>front cover</entag><kotag></kotag></tag>
+<tag><jptag>ボテ腹</jptag><cntag>腹部隆起</cntag><cntwtag>腹部隆起</cntwtag><entag>bloated belly</entag><kotag></kotag></tag>
+<tag><jptag>エリザベート・バートリー</jptag><cntag>伊莉莎白·巴托里</cntag><cntwtag>伊莉莎白·巴托里</cntwtag><entag>Elizabeth Bathory</entag><kotag></kotag></tag>
+<tag><jptag>ジャンヌ</jptag><cntag>贞德</cntag><cntwtag>貞德</cntwtag><entag>jeanne</entag><kotag>잔느</kotag></tag>
+<tag><jptag>スウツ</jptag><cntag>亮面紧身衣</cntag><cntwtag>亮面緊身衣</cntwtag><entag>beast body suit</entag><kotag></kotag></tag>
+<tag><jptag>マスキングテープ</jptag><cntag></cntag><cntwtag>和紙膠帶</cntwtag><entag>masking tape</entag><kotag></kotag></tag>
+<tag><jptag>シスター</jptag><cntag>姐妹</cntag><cntwtag>姐妹</cntwtag><entag>nun</entag><kotag>수녀</kotag></tag>
+<tag><jptag>他者変身</jptag><cntag>变身成别人</cntag><cntwtag>變身成別人</cntwtag><entag>transformation into someone else</entag><kotag></kotag></tag>
+<tag><jptag>アリババ</jptag><cntag>阿里巴巴</cntag><cntwtag>阿里巴巴</cntwtag><entag>Alibaba</entag><kotag>알리바바</kotag></tag>
+<tag><jptag>お尻</jptag><cntag>臀部</cntag><cntwtag>臀部</cntwtag><entag>ass</entag><kotag>엉덩이</kotag></tag>
+<tag><jptag>出産</jptag><cntag>生产</cntag><cntwtag>生產</cntwtag><entag>birth</entag><kotag></kotag></tag>
+<tag><jptag>壁纸</jptag><cntag></cntag><cntwtag>壁紙</cntwtag><entag>wallpaper</entag><kotag></kotag></tag>
+<tag><jptag>シルエット</jptag><cntag></cntag><cntwtag>剪影</cntwtag><entag>silhouette</entag><kotag></kotag></tag>
+<tag><jptag>原创</jptag><cntag></cntag><cntwtag>原創</cntwtag><entag>original works</entag><kotag></kotag></tag>
+<tag><jptag>まどか</jptag><cntag>小圆</cntag><cntwtag>小圓</cntwtag><entag>madoka</entag><kotag>마도카</kotag></tag>
+<tag><jptag>ラブライブ!サンシャイン!!</jptag><cntag>LoveLive! Sunshine!!</cntag><cntwtag>LoveLive! Sunshine!!</cntwtag><entag>Love Live! Sunshine!!</entag><kotag></kotag></tag>
+<tag><jptag>初音ミク</jptag><cntag>初音未来</cntag><cntwtag>初音未來</cntwtag><entag>hatsune miku</entag><kotag>하츠네 미쿠</kotag></tag>
+<tag><jptag>何でも言うことを聞いてくれるアカネチャン</jptag><cntag>不管谁说话都在听着的琴葉茜酱</cntag><cntwtag>不管誰說話都在聽著的琴葉茜醬</cntwtag><entag>Nan Demo Iu Koto o Kiite Kureru Akane-chan</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスターミリオンライブ!</jptag><cntag>偶像大师 百万人演唱会!</cntag><cntwtag>偶像大師 百萬人演唱會！</cntwtag><entag>The Idolmaster: Million Live!</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスター</jptag><cntag>偶像大师</cntag><cntwtag>偶像大師</cntwtag><entag>The Idolmaster</entag><kotag>아이돌 마스터</kotag></tag>
+<tag><jptag>ギター</jptag><cntag>吉他</cntag><cntwtag>吉他</cntwtag><entag>guitar</entag><kotag>기타</kotag></tag>
+<tag><jptag>カゲロウプロジェクト</jptag><cntag>阳炎project</cntag><cntwtag>陽炎計劃</cntwtag><entag>kagerou project</entag><kotag>카게로우 프로젝트</kotag></tag>
+<tag><jptag>サリエリ</jptag><cntag>萨里耶利</cntag><cntwtag>薩里耶利</cntwtag><entag>Salieri</entag><kotag></kotag></tag>
+<tag><jptag>アイドルマスターシャイニーカラーズ</jptag><cntag>偶像大师 闪耀色彩</cntag><cntwtag>偶像大師 閃耀色彩</cntwtag><entag>The Idolmaster: Shiny Colors</entag><kotag></kotag></tag>
+<tag><jptag>ラブライブ!</jptag><cntag>Love Live!</cntag><cntwtag>Love Live!</cntwtag><entag>love live!</entag><kotag></kotag></tag>
+<tag><jptag>渡辺曜</jptag><cntag>渡边曜</cntag><cntwtag>渡邊曜</cntwtag><entag>You Watanabe</entag><kotag></kotag></tag>
+<tag><jptag>ユニコーン</jptag><cntag>独角兽</cntag><cntwtag>獨角獸</cntwtag><entag>unicorn</entag><kotag></kotag></tag>
+<tag><jptag>鏡音レン</jptag><cntag>镜音连</cntag><cntwtag>鏡音連</cntwtag><entag>Kagamine Len</entag><kotag>카가미네 렌</kotag></tag>
+<tag><jptag>鏡音リン</jptag><cntag>鏡音鈴</cntag><cntwtag>鏡音鈴</cntwtag><entag>kagamine rin</entag><kotag>카가미네 린</kotag></tag>
+<tag><jptag>結月ゆかり</jptag><cntag>结月缘</cntag><cntwtag>結月緣</cntwtag><entag>Yuzuki Yukari</entag><kotag></kotag></tag>
+<tag><jptag>バンドリ</jptag><cntag>BanG Dream!</cntag><cntwtag>BanG Dream！少女樂團派對！</cntwtag><entag>BanG Dream! Girls Band Party!</entag><kotag></kotag></tag>
+<tag><jptag>西木野真姫</jptag><cntag>西木野真姬</cntag><cntwtag>西木野真姬</cntwtag><entag>nishikino maki</entag><kotag>니시키노 마키</kotag></tag>
+<tag><jptag>楽器</jptag><cntag>乐器</cntag><cntwtag>樂器</cntwtag><entag>instrument</entag><kotag></kotag></tag>
+<tag><jptag>音楽</jptag><cntag>音乐</cntag><cntwtag>音樂</cntwtag><entag>music</entag><kotag>음악</kotag></tag>

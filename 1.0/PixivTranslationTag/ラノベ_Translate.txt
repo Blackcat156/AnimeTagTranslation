@@ -1,0 +1,1224 @@
+﻿<item><jptag>ガールズ&amp;パンツァー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ゴブリンスレイヤー</jptag><cntag>哥布林杀手</cntag><cntwtag>哥布林殺手</cntwtag><entag>Goblin Slayer</entag><kotag></kotag></item>
+
+<item><jptag>ユージオ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>青の祓魔師</jptag><cntag>青之除魔师</cntag><cntwtag>青之驅魔師</cntwtag><entag>blue exorcist</entag><kotag>청의 엑소시스트</kotag></item>
+
+<item><jptag>ラストピリオド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Last Period</entag><kotag></kotag></item>
+
+<item><jptag>麦野沈利</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>九ノ瀬遥</jptag><cntag></cntag><cntwtag></cntwtag><entag>kokonose haruka</entag><kotag>코코노세 하루카</kotag></item>
+
+<item><jptag>ハイスクールD×D</jptag><cntag>恶魔高校D×D</cntag><cntwtag>惡魔高校D×D</cntwtag><entag>High School DxD</entag><kotag></kotag></item>
+
+<item><jptag>帝国</jptag><cntag></cntag><cntwtag></cntwtag><entag>empire</entag><kotag></kotag></item>
+
+<item><jptag>成沢稜歌</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ryoka Narusawa</entag><kotag></kotag></item>
+
+<item><jptag>遠坂時臣</jptag><cntag></cntag><cntwtag></cntwtag><entag>Tokiomi Tohsaka</entag><kotag></kotag></item>
+
+<item><jptag>小説表紙</jptag><cntag></cntag><cntwtag></cntwtag><entag>novel cover</entag><kotag></kotag></item>
+
+<item><jptag>シャルティア・ブラッドフォールン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Shalltear Bloodfallen</entag><kotag></kotag></item>
+
+<item><jptag>終末なにしてますか?忙しいですか?救ってもらっていいですか?</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>青春ブタ野郎はバニーガール先輩の夢を見ない</jptag><cntag></cntag><cntwtag></cntwtag><entag>Rascal Does Not Dream of Bunny Girl Senpai</entag><kotag></kotag></item>
+
+<item><jptag>さくら荘のペットな彼女</jptag><cntag></cntag><cntwtag></cntwtag><entag>The Pet Girl of Sakurasou</entag><kotag>사쿠라장의 애완 그녀</kotag></item>
+
+<item><jptag>森近霖之助</jptag><cntag></cntag><cntwtag></cntwtag><entag>rinnosuke morichika</entag><kotag>모리치카 린노스케</kotag></item>
+
+<item><jptag>涼宮ハルヒ</jptag><cntag></cntag><cntwtag></cntwtag><entag>haruhi suzumiya</entag><kotag>스즈미야 하루히</kotag></item>
+
+<item><jptag>雛鶴あい</jptag><cntag>雏鹤爱</cntag><cntwtag>雛鶴愛</cntwtag><entag>Ai Hinatsuru</entag><kotag></kotag></item>
+
+<item><jptag>西尾維新</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>小説家になろう</jptag><cntag></cntag><cntwtag></cntwtag><entag>Shōsetsuka ni Narō</entag><kotag></kotag></item>
+
+<item><jptag>朝比奈みくる</jptag><cntag></cntag><cntwtag></cntwtag><entag>asahina mikuru</entag><kotag></kotag></item>
+
+<item><jptag>デート・ア・ライブ</jptag><cntag>约会大作战</cntag><cntwtag>約會大作戰</cntwtag><entag>date a live</entag><kotag>데이트 어 라이브</kotag></item>
+
+<item><jptag>幼女戦記</jptag><cntag>幼女战纪</cntag><cntwtag>幼女戰紀</cntwtag><entag>The Saga of Tanya the Evil</entag><kotag></kotag></item>
+
+<item><jptag>甘城ブリリアントパーク</jptag><cntag>甘城辉煌乐园救世主</cntag><cntwtag></cntwtag><entag>Amagi Brilliant Park</entag><kotag></kotag></item>
+
+<item><jptag>転生したらスライムだった件</jptag><cntag></cntag><cntwtag></cntwtag><entag>That Time I Got Reincarnated as a Slime</entag><kotag></kotag></item>
+
+<item><jptag>アクセラレータ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>액셀러레이터</kotag></item>
+
+<item><jptag>蒼崎橙子</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ライトノベル</jptag><cntag></cntag><cntwtag></cntwtag><entag>light novel</entag><kotag></kotag></item>
+
+<item><jptag>桐嶋郁弥</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>とある1000users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>とある100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>夜刀神十香</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>レベル5</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>時崎狂三</jptag><cntag>时崎狂三</cntag><cntwtag></cntwtag><entag>tokisaki kurumi</entag><kotag>토키사키 쿠루미</kotag></item>
+
+<item><jptag>ユニコーンガンダム</jptag><cntag></cntag><cntwtag></cntwtag><entag>Unicorn Gundam</entag><kotag></kotag></item>
+
+<item><jptag>天草四郎(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Shirou Amakusa (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>モードレッド(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mordred (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>上条当麻</jptag><cntag></cntag><cntwtag></cntwtag><entag>Touma Kamijou</entag><kotag>카미조 토우마</kotag></item>
+
+<item><jptag>フレンダ=セイヴェルン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>オーバーロード(アニメ)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Overlord (Anime)</entag><kotag></kotag></item>
+
+<item><jptag>ダンジョンに出会いを求めるのは間違っているだろうか</jptag><cntag></cntag><cntwtag></cntwtag><entag>Is It Wrong to Try to Pick Up Girls in a Dungeon?</entag><kotag></kotag></item>
+
+<item><jptag>この素晴らしい世界に祝福を!</jptag><cntag>为美好的世界献上祝福！</cntag><cntwtag>為美好的世界獻上祝福！</cntwtag><entag>KonoSuba</entag><kotag></kotag></item>
+
+<item><jptag>言ギル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>とある魔術の禁書目録</jptag><cntag>魔法的禁书目录</cntag><cntwtag>魔法禁書目錄</cntwtag><entag>a certain magical index</entag><kotag>어떤 마술의 금서목록</kotag></item>
+
+<item><jptag>三ノ輪銀</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リナ=インバース</jptag><cntag></cntag><cntwtag></cntwtag><entag>Lina Inverse</entag><kotag></kotag></item>
+
+<item><jptag>島田美波</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>SAO</jptag><cntag></cntag><cntwtag></cntwtag><entag>Sword Art Online</entag><kotag></kotag></item>
+
+<item><jptag>朝倉涼子</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ryoko Asakura</entag><kotag></kotag></item>
+
+<item><jptag>涼宮ハルヒの憂鬱</jptag><cntag></cntag><cntwtag></cntwtag><entag>The Melancholy of Haruhi Suzumiya</entag><kotag></kotag></item>
+
+<item><jptag>結標淡希</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>機動戦士ガンダムUC</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mobile Suit Gundam Unicorn</entag><kotag></kotag></item>
+
+<item><jptag>ソードアート・オンライン</jptag><cntag>刀剑神域</cntag><cntwtag>刀劍神域</cntwtag><entag>sword art online</entag><kotag>소드 아트 온라인</kotag></item>
+
+<item><jptag>クロミ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kuromi</entag><kotag></kotag></item>
+
+<item><jptag>RDG</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>オーディナル・スケール</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バナージ・リンクス</jptag><cntag></cntag><cntwtag></cntwtag><entag>Banagher Links</entag><kotag></kotag></item>
+
+<item><jptag>めぐみん</jptag><cntag>惠惠</cntag><cntwtag>惠惠</cntwtag><entag>Megumin</entag><kotag></kotag></item>
+
+<item><jptag>リズベット</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>GGO</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ALO</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>フルメタル・パニック!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>乃木園子</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アーマード・コア</jptag><cntag></cntag><cntwtag></cntwtag><entag>Armored Code</entag><kotag></kotag></item>
+
+<item><jptag>ツンデレ</jptag><cntag>傲娇</cntag><cntwtag>傲嬌</cntwtag><entag>tsundere</entag><kotag>츤데레</kotag></item>
+
+<item><jptag>千石撫子</jptag><cntag></cntag><cntwtag></cntwtag><entag>nadeko sengoku</entag><kotag>센고쿠 나데코</kotag></item>
+
+<item><jptag>エロマンガ先生</jptag><cntag>埃罗芒阿老师</cntag><cntwtag>情色漫畫老師</cntwtag><entag>Eromanga-sensei</entag><kotag></kotag></item>
+
+<item><jptag>ミネバ・ラオ・ザビ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mineva Lao Zabi</entag><kotag></kotag></item>
+
+<item><jptag>アヴィケブロン(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>衛宮切嗣</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kiritsugu Emiya</entag><kotag></kotag></item>
+
+<item><jptag>令呪</jptag><cntag></cntag><cntwtag></cntwtag><entag>command seal</entag><kotag></kotag></item>
+
+<item><jptag>ジム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ターニャ・デグレチャフ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Tanya Degurechaff</entag><kotag></kotag></item>
+
+<item><jptag>高坂麗奈</jptag><cntag></cntag><cntwtag></cntwtag><entag>Reina Kousaka</entag><kotag></kotag></item>
+
+<item><jptag>萌えクトゥルフ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>這いよれ!ニャル子さん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>粟楠茜</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>Fate/Zero</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>オードリー・バーン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Audrey Burne</entag><kotag></kotag></item>
+
+<item><jptag>オオカミさんと七人の仲間たち</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヤクザ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リザードマン</jptag><cntag></cntag><cntwtag></cntwtag><entag>lizard man</entag><kotag></kotag></item>
+
+<item><jptag>魔法少女育成計画</jptag><cntag></cntag><cntwtag></cntwtag><entag>Magical Girl Raising Project</entag><kotag></kotag></item>
+
+<item><jptag>サーヴァント</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>旧セイバー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Arthur Pendragon (Prototype)</entag><kotag></kotag></item>
+
+<item><jptag>ロウきゅーぶ!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>千寿ムラマサ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Muramasa Senjuu</entag><kotag></kotag></item>
+
+<item><jptag>三日月夜空</jptag><cntag></cntag><cntwtag></cntwtag><entag>Yozora Mikazuki</entag><kotag></kotag></item>
+
+<item><jptag>御坂美琴</jptag><cntag></cntag><cntwtag></cntwtag><entag>mikoto misaka</entag><kotag>미사카 미코토</kotag></item>
+
+<item><jptag>織斑一夏</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>白井黒子</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kuroko Shirai</entag><kotag>시라이 쿠로코</kotag></item>
+
+<item><jptag>神裂火織</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キングハサン</jptag><cntag></cntag><cntwtag></cntwtag><entag>King Hassan</entag><kotag></kotag></item>
+
+<item><jptag>上琴</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kamijou/Mikoto</entag><kotag>카미코토</kotag></item>
+
+<item><jptag>マンガ図書館Z</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>インデックス</jptag><cntag></cntag><cntwtag></cntwtag><entag>index</entag><kotag>인덱스</kotag></item>
+
+<item><jptag>読み切り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ドラコ・マルフォイ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Draco Malfoy</entag><kotag></kotag></item>
+
+<item><jptag>黒魔女さんが通る!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ルチア</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ジャック・ザ・リッパー(Fate)</jptag><cntag>开膛手杰克(Fate)</cntag><cntwtag>開膛手傑克(Fate)</cntwtag><entag>Jack the Ripper (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>アスナ(SAO)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ノートルダムの鐘</jptag><cntag></cntag><cntwtag></cntwtag><entag>Hunchback of Notre Dame</entag><kotag></kotag></item>
+
+<item><jptag>リムル=テンペスト</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>コンラッド</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>乃木若葉は勇者である</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アリシゼーション</jptag><cntag></cntag><cntwtag></cntwtag><entag>Alicization</entag><kotag></kotag></item>
+
+<item><jptag>電撃文庫</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>まおゆう魔王勇者</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>機動戦士Vガンダム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>響け!ユーフォニアム</jptag><cntag></cntag><cntwtag></cntwtag><entag>Sound! Euphonium</entag><kotag></kotag></item>
+
+<item><jptag>提督(艦隊これくしょん)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Admiral (Kantai Collection)</entag><kotag></kotag></item>
+
+<item><jptag>秋庭里香</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>NG騎士ラムネ&amp;40</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ダビデ(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>David (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>ロクでなし魔術講師と禁忌教典</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>宗凛</jptag><cntag></cntag><cntwtag></cntwtag><entag>Sosuke/RIn</entag><kotag></kotag></item>
+
+<item><jptag>セミラミス(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Semiramis (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>松岡江</jptag><cntag></cntag><cntwtag></cntwtag><entag>matsuoka gou</entag><kotag>마츠오카 고우</kotag></item>
+
+<item><jptag>ミーナ・ディートリンデ・ヴィルケ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>カゲロウプロジェクト</jptag><cntag>阳炎project</cntag><cntwtag>陽炎計劃</cntwtag><entag>kagerou project</entag><kotag>카게로우 프로젝트</kotag></item>
+
+<item><jptag>ダブルクロス</jptag><cntag></cntag><cntwtag></cntwtag><entag>Double Cross</entag><kotag></kotag></item>
+
+<item><jptag>桐嶋夏也</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アインズ・ウール・ゴウン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>魔道祖师</jptag><cntag></cntag><cntwtag></cntwtag><entag>Grandmaster of Demonic Cultivation</entag><kotag></kotag></item>
+
+<item><jptag>アルベド(オーバーロード)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Albedo (Overlord)</entag><kotag></kotag></item>
+
+<item><jptag>戦場ヶ原ひたぎ</jptag><cntag></cntag><cntwtag></cntwtag><entag>hitagi senjougahara</entag><kotag>센죠가하라 히타기</kotag></item>
+
+<item><jptag>絹旗最愛</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>レム(リゼロ)</jptag><cntag>雷姆 (Re:Zero)</cntag><cntwtag>雷姆 (Re:Zero)</cntwtag><entag>Rem (Re:Zero)</entag><kotag></kotag></item>
+
+<item><jptag>傷物語</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>忍野メメ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>博多豚骨ラーメンズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Hakata Tonkotsu Ramens</entag><kotag></kotag></item>
+
+<item><jptag>アストルフォ(Fate)</jptag><cntag>阿斯托尔福(Fate)</cntag><cntwtag>阿斯托爾福(Fate)</cntwtag><entag>Astolfo (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>黄前久美子</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kumiko Oumae</entag><kotag></kotag></item>
+
+<item><jptag>オーフェン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>文豪ストレイドッグス</jptag><cntag>文豪Stray Dogs</cntag><cntwtag>文豪Stray Dogs</cntwtag><entag>Bungo Stray Dogs</entag><kotag></kotag></item>
+
+<item><jptag>ティーンズラブ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>インフィニット・ストラトス</jptag><cntag></cntag><cntwtag></cntwtag><entag>infinite stratos</entag><kotag>인피니트 스트라토스</kotag></item>
+
+<item><jptag>山崎宗介</jptag><cntag></cntag><cntwtag></cntwtag><entag>Sosuke Yamazaki</entag><kotag></kotag></item>
+
+<item><jptag>アナ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>안나</kotag></item>
+
+<item><jptag>黒雪姫</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>흑설공주</kotag></item>
+
+<item><jptag>雨生龍之介</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ryuunosuke Uryuu</entag><kotag></kotag></item>
+
+<item><jptag>あんさんぶるガールズ!</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ensemble Girls!</entag><kotag></kotag></item>
+
+<item><jptag>松岡凛</jptag><cntag></cntag><cntwtag></cntwtag><entag>rin matsuoka</entag><kotag>마츠오카 린</kotag></item>
+
+<item><jptag>ナツキ・スバル</jptag><cntag></cntag><cntwtag></cntwtag><entag>Natsuki Subaru</entag><kotag></kotag></item>
+
+<item><jptag>千斗いすず</jptag><cntag></cntag><cntwtag></cntwtag><entag>Isuzu Sento</entag><kotag></kotag></item>
+
+<item><jptag>俺の妹がこんなに可愛いわけがない</jptag><cntag></cntag><cntwtag></cntwtag><entag>My Little Sister Can't Be This Cute</entag><kotag></kotag></item>
+
+<item><jptag>東方先代録</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヘッドフォンアクター</jptag><cntag></cntag><cntwtag></cntwtag><entag>headphone actor</entag><kotag></kotag></item>
+
+<item><jptag>カゲロウデイズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>kagerou daze</entag><kotag>아지랑이 데이즈</kotag></item>
+
+<item><jptag>はたらく魔王さま!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ハウル</jptag><cntag></cntag><cntwtag></cntwtag><entag>howl</entag><kotag>하울</kotag></item>
+
+<item><jptag>学戦都市アスタリスク</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ブレイクブレイド</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>マーリン(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Merlin</entag><kotag></kotag></item>
+
+<item><jptag>GJ部</jptag><cntag></cntag><cntwtag></cntwtag><entag>gj-bu</entag><kotag>gj부</kotag></item>
+
+<item><jptag>間桐雁夜</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kariya Matou</entag><kotag></kotag></item>
+
+<item><jptag>遙凛</jptag><cntag></cntag><cntwtag></cntwtag><entag>Haruka/Rin</entag><kotag>하루린</kotag></item>
+
+<item><jptag>七瀬遙</jptag><cntag></cntag><cntwtag></cntwtag><entag>haruka nanase</entag><kotag>나나세 하루카</kotag></item>
+
+<item><jptag>アクア(このすば)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Aqua (KonoSuba)</entag><kotag></kotag></item>
+
+<item><jptag>本好きの下剋上</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ムヒョとロージーの魔法律相談事務所</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヒビヒヨ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>綿月依姫</jptag><cntag></cntag><cntwtag></cntwtag><entag>Yorihime Watatsuki</entag><kotag></kotag></item>
+
+<item><jptag>綿月豊姫</jptag><cntag></cntag><cntwtag></cntwtag><entag>Toyohime Watatsuki</entag><kotag></kotag></item>
+
+<item><jptag>ロード・エルメロイⅡ世</jptag><cntag></cntag><cntwtag></cntwtag><entag>Lord El-Melloi II</entag><kotag></kotag></item>
+
+<item><jptag>レイセン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Reisen</entag><kotag>레이센</kotag></item>
+
+<item><jptag>空銀子</jptag><cntag>空银子</cntag><cntwtag></cntwtag><entag>Ginko Sora</entag><kotag></kotag></item>
+
+<item><jptag>東方儚月抄</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>東方香霖堂</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>湊智花</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>りゅうおうのおしごと!</jptag><cntag>龙王的工作！</cntag><cntwtag>龍王的工作！</cntwtag><entag>The Ryuo's Work is Never Done!</entag><kotag></kotag></item>
+
+<item><jptag>「両儀式」</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ゼーガペイン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バカとテストと召喚獣</jptag><cntag></cntag><cntwtag></cntwtag><entag>baka and test</entag><kotag>바보와 시험과 소환수</kotag></item>
+
+<item><jptag>セシリア・オルコット</jptag><cntag></cntag><cntwtag></cntwtag><entag>Cecilia Alcott</entag><kotag>세실리아 올코트</kotag></item>
+
+<item><jptag>八九寺真宵</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>하치쿠지 마요이</kotag></item>
+
+<item><jptag>真壁一騎</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ジャンヌ・ダルク(Fate)</jptag><cntag>贞德(Fate)</cntag><cntwtag>貞德(Fate)</cntwtag><entag>Jeanne d'Arc (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>鑢七花</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>切言</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>魔術士オーフェン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ハイ☆スピード!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ジークフリート(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Siegfried (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>やはり俺の青春ラブコメはまちがっている。</jptag><cntag>果然我的青春恋爱喜剧搞错了。</cntag><cntwtag>果然我的青春戀愛喜劇搞錯了。</cntwtag><entag>My Youth Romantic Comedy Is Wrong, As I Expected</entag><kotag></kotag></item>
+
+<item><jptag>ペテルギウス・ロマネコンティ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ALICE</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キノの旅</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kino's Journey</entag><kotag></kotag></item>
+
+<item><jptag>蒼穹のファフナー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Fafner In The Azure</entag><kotag></kotag></item>
+
+<item><jptag>Fate/Prototype蒼銀のフラグメンツ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>竜ヶ崎怜</jptag><cntag></cntag><cntwtag></cntwtag><entag>Rei Ryugazaki</entag><kotag>류가자키 레이</kotag></item>
+
+<item><jptag>葉月渚</jptag><cntag></cntag><cntwtag></cntwtag><entag>Nagisa Hazuki</entag><kotag>하즈키 나기사</kotag></item>
+
+<item><jptag>橘真琴</jptag><cntag></cntag><cntwtag></cntwtag><entag>makoto tachibana</entag><kotag>타치바나 마코토</kotag></item>
+
+<item><jptag>鴫野貴澄</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>鎧塚みぞれ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mizore Yoroizuka</entag><kotag></kotag></item>
+
+<item><jptag>されど罪人は竜と踊る</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ハイスクール・フリート</jptag><cntag></cntag><cntwtag></cntwtag><entag>High School Fleet</entag><kotag></kotag></item>
+
+<item><jptag>ウェイバー・ベルベット</jptag><cntag></cntag><cntwtag></cntwtag><entag>Waver Velvet</entag><kotag></kotag></item>
+
+<item><jptag>ノーゲーム・ノーライフ</jptag><cntag>NO GAME NO LIFE 游戏人生</cntag><cntwtag>NO GAME NO LIFE 遊戲人生</cntwtag><entag>No Game No Life</entag><kotag></kotag></item>
+
+<item><jptag>ヤン・ウェンリー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Yang Wen-li</entag><kotag></kotag></item>
+
+<item><jptag>ジュナカル</jptag><cntag>周迦</cntag><cntwtag>周迦</cntwtag><entag>Arjuna/Karna</entag><kotag></kotag></item>
+
+<item><jptag>ヴァイオレット・エヴァーガーデン</jptag><cntag>紫罗兰永恒花园</cntag><cntwtag>紫羅蘭永恆花園</cntwtag><entag>Violet Evergarden</entag><kotag></kotag></item>
+
+<item><jptag>世界一初恋100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アクセル・ワールド</jptag><cntag></cntag><cntwtag></cntwtag><entag>accel world</entag><kotag></kotag></item>
+
+<item><jptag>東京レイヴンズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>tokyo ravens</entag><kotag>도쿄 레이븐즈</kotag></item>
+
+<item><jptag>ユウキ(SAO)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>言切</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アタランテ(Fate)</jptag><cntag>阿塔兰塔(Fate)</cntag><cntwtag>阿塔蘭塔(Fate)</cntwtag><entag>Atalanta (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>一瀬グレン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>中二病でも恋がしたい!</jptag><cntag></cntag><cntwtag></cntwtag><entag>chuunibyou demo koi ga shitai!</entag><kotag></kotag></item>
+
+<item><jptag>このすば100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>NGNL100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ログホラ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>桐ヶ谷和人</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kazuto Kirigaya</entag><kotag></kotag></item>
+
+<item><jptag>まったく、小学生は最高だぜ!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>朱鷺子</jptag><cntag></cntag><cntwtag></cntwtag><entag>tokiko</entag><kotag></kotag></item>
+
+<item><jptag>俺ガイル100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>忍野扇</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>オリジナル小説</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>物語シリーズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>monogatari series</entag><kotag></kotag></item>
+
+<item><jptag>長門有希</jptag><cntag>长门有希</cntag><cntwtag></cntwtag><entag>yuki nagato</entag><kotag>나가토 유키</kotag></item>
+
+<item><jptag>番外個体</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヴァイオレット・エヴァーガーデン(キャラクター)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Violet Evergarden</entag><kotag></kotag></item>
+
+<item><jptag>真凛</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>마코린</kotag></item>
+
+<item><jptag>銀河英雄伝説</jptag><cntag></cntag><cntwtag></cntwtag><entag>legend of the galactic heroes</entag><kotag>은하영웅전설</kotag></item>
+
+<item><jptag>総一</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>灰と幻想のグリムガル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>四畳半神話大系</jptag><cntag></cntag><cntwtag></cntwtag><entag>tatami galaxy</entag><kotag></kotag></item>
+
+<item><jptag>大正野球娘。</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>境界の彼方</jptag><cntag></cntag><cntwtag></cntwtag><entag>beyond the boundary</entag><kotag>경계의 저편</kotag></item>
+
+<item><jptag>怪盗クイーン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>テイルズオブヴェスペリア</jptag><cntag></cntag><cntwtag></cntwtag><entag>tales of vesperia</entag><kotag></kotag></item>
+
+<item><jptag>芦屋四郎</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>聖魔の光石</jptag><cntag></cntag><cntwtag></cntwtag><entag>The Sacred Stones</entag><kotag></kotag></item>
+
+<item><jptag>ラウラ・ボーデヴィッヒ</jptag><cntag></cntag><cntwtag></cntwtag><entag>laura bodewig</entag><kotag></kotag></item>
+
+<item><jptag>山田エルフ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Elf Yamada</entag><kotag></kotag></item>
+
+<item><jptag>化物語</jptag><cntag></cntag><cntwtag></cntwtag><entag>bakemonogatari</entag><kotag>괴물이야기</kotag></item>
+
+<item><jptag>あんさんぶるスターズ!</jptag><cntag>偶像梦幻祭</cntag><cntwtag>偶像夢幻祭</cntwtag><entag>Ensemble Stars</entag><kotag></kotag></item>
+
+<item><jptag>ホロ</jptag><cntag>赫萝</cntag><cntwtag>赫蘿</cntwtag><entag>holo</entag><kotag>호로</kotag></item>
+
+<item><jptag>エルキドゥ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Enkidu</entag><kotag></kotag></item>
+
+<item><jptag>ネトゲの嫁は女の子じゃないと思った?</jptag><cntag></cntag><cntwtag></cntwtag><entag>And You Thought There Is Never a Girl Online?</entag><kotag></kotag></item>
+
+<item><jptag>鷲尾須美は勇者である</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ロゥリィ・マーキュリー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Rory Mercury</entag><kotag></kotag></item>
+
+<item><jptag>紋章の謎</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>暗黒竜と光の剣</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>高坂京介</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>如月シンタロー</jptag><cntag></cntag><cntwtag></cntwtag><entag>kisaragi shintarou</entag><kotag>키사라기 신타로</kotag></item>
+
+<item><jptag>オリジナルストーリー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>スバレム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>十二大戦</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>榎本貴音</jptag><cntag></cntag><cntwtag></cntwtag><entag>enomoto takane</entag><kotag>에노모토 타카네</kotag></item>
+
+<item><jptag>Fate/Apocrypha</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>両儀式</jptag><cntag>两仪式</cntag><cntwtag>兩儀式</cntwtag><entag>ryougi shiki</entag><kotag></kotag></item>
+
+<item><jptag>ハーメルン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ログ・ホライズン</jptag><cntag></cntag><cntwtag></cntwtag><entag>log horizon</entag><kotag>로그 호라이즌</kotag></item>
+
+<item><jptag>坂田金時(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kintoki Sakata (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>ヒビヤ</jptag><cntag></cntag><cntwtag></cntwtag><entag>hibiya</entag><kotag>히비야</kotag></item>
+
+<item><jptag>自衛隊彼の地にて、斯く戦えり</jptag><cntag></cntag><cntwtag></cntwtag><entag>GATE</entag><kotag></kotag></item>
+
+<item><jptag>比企谷八幡</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>テイルレッド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Tail Red</entag><kotag></kotag></item>
+
+<item><jptag>アサシン(フラグメンツ)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Assassin (Fate: Fragments)</entag><kotag></kotag></item>
+
+<item><jptag>氷菓</jptag><cntag></cntag><cntwtag></cntwtag><entag>hyouka</entag><kotag>빙과</kotag></item>
+
+<item><jptag>ハッカドール</jptag><cntag></cntag><cntwtag></cntwtag><entag>Hacka Doll</entag><kotag></kotag></item>
+
+<item><jptag>ゼロから始める異世界生活</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>SKETDANCE</jptag><cntag></cntag><cntwtag></cntwtag><entag>sket dance</entag><kotag></kotag></item>
+
+<item><jptag>トワイライト</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>けんぷファー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kämpfer</entag><kotag></kotag></item>
+
+<item><jptag>エロマンガ先生100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>エロマンガ先生1000users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヴラド三世(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Vlad III (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>ヘスティア(ダンまち)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Hestia (DanMachi)</entag><kotag></kotag></item>
+
+<item><jptag>Re:ゼロから始める異世界生活</jptag><cntag>Re:从零开始的异世界生活</cntag><cntwtag>Re:從零開始的異世界生活</cntwtag><entag>Re:Zero - Starting Life in Another World</entag><kotag></kotag></item>
+
+<item><jptag>K(アニメ)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シャルロット・デュノア</jptag><cntag></cntag><cntwtag></cntwtag><entag>charlotte dunois</entag><kotag></kotag></item>
+
+<item><jptag>アンジュ・ヴィエルジュ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>聖杯戦争</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>横澤隆史</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ソロモン(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Solomon (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>人類は衰退しました</jptag><cntag>人类衰退之后</cntag><cntwtag></cntwtag><entag></entag><kotag>인류는 쇠퇴했습니다</kotag></item>
+
+<item><jptag>狂乱家族日記</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>冴えない彼女の育てかた</jptag><cntag>不起眼女主角培育法</cntag><cntwtag>不起眼女主角培育法</cntwtag><entag>Saekano: How to Raise a Boring Girlfriend</entag><kotag></kotag></item>
+
+<item><jptag>3Z</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>土御門元春</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ラム(リゼロ)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ram (Re:Zero)</entag><kotag></kotag></item>
+
+<item><jptag>ジョーカー・ゲーム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ラノベ</jptag><cntag></cntag><cntwtag></cntwtag><entag>light novel</entag><kotag></kotag></item>
+
+<item><jptag>Occultic;Nine</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>Fate/strangefake</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>薔薇のマリア</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>無彩限のファントム・ワールド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Myriad Colors Phantom World</entag><kotag></kotag></item>
+
+<item><jptag>空の境界</jptag><cntag>空之境界</cntag><cntwtag>空之境界</cntwtag><entag>kara no kyoukai</entag><kotag>공의 경계</kotag></item>
+
+<item><jptag>終わりのセラフ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Seraph of the End</entag><kotag></kotag></item>
+
+<item><jptag>ゼロの使い魔</jptag><cntag></cntag><cntwtag></cntwtag><entag>the familiar of zero</entag><kotag>제로의 사역마</kotag></item>
+
+<item><jptag>篠ノ之箒</jptag><cntag></cntag><cntwtag></cntwtag><entag>shinonono houki</entag><kotag></kotag></item>
+
+<item><jptag>マーボーワイン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>わたし</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>나</kotag></item>
+
+<item><jptag>Fate/zero(腐)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アイリスフィール・フォン・アインツベルン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Irisviel von Einzbern</entag><kotag></kotag></item>
+
+<item><jptag>境界線上のホライゾン</jptag><cntag>境界线上的地平线</cntag><cntwtag>境界線上的地平線</cntwtag><entag>horizon in the middle of nowhere</entag><kotag>경계선상의 호라이즌</kotag></item>
+
+<item><jptag>五河琴里</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>四糸乃</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>D機関</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>結城明日奈</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>終物語</jptag><cntag></cntag><cntwtag></cntwtag><entag>Owarimonogatari</entag><kotag></kotag></item>
+
+<item><jptag>囮物語</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>機巧少女は傷つかない</jptag><cntag></cntag><cntwtag></cntwtag><entag>Unbreakable Machine-Doll</entag><kotag></kotag></item>
+
+<item><jptag>マリーダ・クルス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヘンリー・ジキル/ハイド(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Jekyll and Hyde (Fate)</entag><kotag></kotag></item>
+
+<item><jptag>新垣あやせ</jptag><cntag></cntag><cntwtag></cntwtag><entag>aragaki ayase</entag><kotag>아라가키 아야세</kotag></item>
+
+<item><jptag>折原臨也</jptag><cntag></cntag><cntwtag></cntwtag><entag>izaya orihara</entag><kotag>오리하라 이자야</kotag></item>
+
+<item><jptag>柊深夜</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>打ち止め</jptag><cntag></cntag><cntwtag></cntwtag><entag>last order</entag><kotag></kotag></item>
+
+<item><jptag>変態王子と笑わない猫。</jptag><cntag></cntag><cntwtag></cntwtag><entag>The "Hentai" Prince and the Stony Cat.</entag><kotag>변태왕자와 웃지않는 고양이</kotag></item>
+
+<item><jptag>DRRR-腐</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>正帝</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>商業BL</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>.hack//G.U.</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>十二国記</jptag><cntag></cntag><cntwtag></cntwtag><entag>the twelve kingdoms</entag><kotag>십이국기</kotag></item>
+
+<item><jptag>鈴科百合子</jptag><cntag></cntag><cntwtag></cntwtag><entag>suzushina yuriko</entag><kotag>스즈시나 유리코</kotag></item>
+
+<item><jptag>終焉ノ栞プロジェクト</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>マクロスΔ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Macross Delta</entag><kotag></kotag></item>
+
+<item><jptag>ライオンキング</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>新都社</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>問題児たちが異世界から来るそうですよ?</jptag><cntag></cntag><cntwtag></cntwtag><entag>Problem Children Are Coming from Another World, Aren't They?</entag><kotag></kotag></item>
+
+<item><jptag>カノ</jptag><cntag>鹿野修哉</cntag><cntwtag></cntwtag><entag>kano</entag><kotag>카노</kotag></item>
+
+<item><jptag>紀田正臣</jptag><cntag></cntag><cntwtag></cntwtag><entag>masaomi kida</entag><kotag></kotag></item>
+
+<item><jptag>式神</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ギャラクシーエンジェル</jptag><cntag></cntag><cntwtag></cntwtag><entag>galaxy angel</entag><kotag></kotag></item>
+
+<item><jptag>ニンジャスレイヤー</jptag><cntag></cntag><cntwtag></cntwtag><entag>ninja slayer</entag><kotag></kotag></item>
+
+<item><jptag>涼宮ハルヒ100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>君の名は。</jptag><cntag></cntag><cntwtag></cntwtag><entag>Your Name.</entag><kotag></kotag></item>
+
+<item><jptag>神のみぞ知るセカイ</jptag><cntag>只有神知道的世界</cntag><cntwtag>只有神知道的世界</cntwtag><entag>the world god only knows</entag><kotag>신만이 아는 세계</kotag></item>
+
+<item><jptag>生徒会の一存</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シズイザ</jptag><cntag></cntag><cntwtag></cntwtag><entag>shizuiza</entag><kotag>시즈이자</kotag></item>
+
+<item><jptag>リトルマーメイド</jptag><cntag></cntag><cntwtag></cntwtag><entag>The Little Mermaid</entag><kotag></kotag></item>
+
+<item><jptag>フランケンシュタイン(Fate)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>古泉一樹</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>デュラララ!!</jptag><cntag>无头骑士异闻录</cntag><cntwtag>無頭騎士異聞錄</cntwtag><entag>drrr!!</entag><kotag></kotag></item>
+
+<item><jptag>トリニティ・ブラッド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Trinity Blood</entag><kotag></kotag></item>
+
+<item><jptag>ロックマンエグゼ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mega Man Battle Network</entag><kotag></kotag></item>
+
+<item><jptag>プリスト</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>クー子</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>쿠우코</kotag></item>
+
+<item><jptag>ストライクウィッチーズ</jptag><cntag>强袭魔女</cntag><cntwtag>強襲魔女</cntwtag><entag>strike witches</entag><kotag>스트라이크 위치스</kotag></item>
+
+<item><jptag>カノシン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>카노신</kotag></item>
+
+<item><jptag>ゲルトルート・バルクホルン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Gertrud Barkhorn</entag><kotag></kotag></item>
+
+<item><jptag>ネズ紫</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>네즈시온</kotag></item>
+
+<item><jptag>ゼロから始める魔法の書</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>エミリア(リゼロ)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Emilia (Re:Zero)</entag><kotag></kotag></item>
+
+<item><jptag>天地無用!</jptag><cntag></cntag><cntwtag></cntwtag><entag>Tenchi Muyo!</entag><kotag></kotag></item>
+
+<item><jptag>新セル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>成田良悟</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ダクネス</jptag><cntag></cntag><cntwtag></cntwtag><entag>Darkness</entag><kotag></kotag></item>
+
+<item><jptag>キノ</jptag><cntag></cntag><cntwtag></cntwtag><entag>kino</entag><kotag>키노</kotag></item>
+
+<item><jptag>ガンゲイル・オンライン</jptag><cntag>Gun Gale Online</cntag><cntwtag>Gun Gale Online</cntwtag><entag>Gun Gale Online</entag><kotag></kotag></item>
+
+<item><jptag>小鳥遊六花</jptag><cntag></cntag><cntwtag></cntwtag><entag>rikka takanashi</entag><kotag>타카나시 릿카</kotag></item>
+
+<item><jptag>凰鈴音</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>五更瑠璃</jptag><cntag></cntag><cntwtag></cntwtag><entag>ruri gokou</entag><kotag></kotag></item>
+
+<item><jptag>朝田詩乃</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アンジェロ・ザウパー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>嘘つきみーくんと壊れたまーちゃん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ストライク・ザ・ブラッド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Strike the Blood</entag><kotag></kotag></item>
+
+<item><jptag>川神舞</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mai Kawakami</entag><kotag></kotag></item>
+
+<item><jptag>メソポタミア最強夫婦</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mesopotamia's strongest couple</entag><kotag></kotag></item>
+
+<item><jptag>メソポタミア最強コンビ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>姫路瑞希</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>羽川翼</jptag><cntag></cntag><cntwtag></cntwtag><entag>hanekawa tsubasa</entag><kotag></kotag></item>
+
+<item><jptag>とらドラ!</jptag><cntag></cntag><cntwtag></cntwtag><entag>toradora!</entag><kotag></kotag></item>
+
+<item><jptag>羽瀬川小鳩</jptag><cntag></cntag><cntwtag></cntwtag><entag>hasegawa kobato</entag><kotag></kotag></item>
+
+<item><jptag>柏崎星奈</jptag><cntag></cntag><cntwtag></cntwtag><entag>kashiwazaki sena</entag><kotag>카시와자키 세나</kotag></item>
+
+<item><jptag>BACCANO!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>Fate</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>小説</jptag><cntag></cntag><cntwtag></cntwtag><entag>novel</entag><kotag></kotag></item>
+
+<item><jptag>バチカン奇跡調査官</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ようこそ実力至上主義の教室へ</jptag><cntag>欢迎来到实力至上主义的教室</cntag><cntwtag>歡迎來到實力至上主義的教室</cntwtag><entag>Classroom of the Elite</entag><kotag></kotag></item>
+
+<item><jptag>革命機ヴァルヴレイヴ</jptag><cntag>革命机valvrave</cntag><cntwtag>革命機valvrave</cntwtag><entag>valvrave the liberator</entag><kotag></kotag></item>
+
+<item><jptag>緋弾のアリア</jptag><cntag></cntag><cntwtag></cntwtag><entag>aria the scarlet ammo</entag><kotag>비탄의 아리아</kotag></item>
+
+<item><jptag>SAO100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>SAO500users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>SAO1000users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>奉える</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>和泉紗霧</jptag><cntag>和泉纱雾</cntag><cntwtag></cntwtag><entag>Sagiri Izumi</entag><kotag></kotag></item>
+
+<item><jptag>妖怪アパートの幽雅な日常</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>とある</jptag><cntag></cntag><cntwtag></cntwtag><entag>toaru</entag><kotag></kotag></item>
+
+<item><jptag>セブルス</jptag><cntag></cntag><cntwtag></cntwtag><entag>severus</entag><kotag></kotag></item>
+
+<item><jptag>電子書籍</jptag><cntag></cntag><cntwtag></cntwtag><entag>ebook</entag><kotag></kotag></item>
+
+<item><jptag>折原舞流</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>榎木津礼二郎</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>中禅寺秋彦</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>人間シリーズ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>さくみよ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>少年陰陽師</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>神様のメモ帳</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>装甲悪鬼村正</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>じん(自然の敵P)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ロベルト・ニコラス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>平賀・ヨゼフ・庚</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ツインシグナル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>神崎・H・アリア</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>Fate/Apocrypha100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バンドリ!</jptag><cntag></cntag><cntwtag></cntwtag><entag>BanG Dream!</entag><kotag></kotag></item>
+
+<item><jptag>戯言シリーズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Zaregoto Series</entag><kotag></kotag></item>
+
+<item><jptag>ダーティペア</jptag><cntag></cntag><cntwtag></cntwtag><entag>Dirty Pair</entag><kotag></kotag></item>
+
+<item><jptag>パンツじゃないから恥ずかしくないもん！</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>御坂妹</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>貝木泥舟</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>魔法科高校の劣等生</jptag><cntag></cntag><cntwtag></cntwtag><entag>The Irregular at Magic High School</entag><kotag></kotag></item>
+
+<item><jptag>斧乃木余接</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>神原駿河</jptag><cntag></cntag><cntwtag></cntwtag><entag>kanbaru suruga</entag><kotag>칸바루 스루가</kotag></item>
+
+<item><jptag>長編</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>戸塚彩加</jptag><cntag></cntag><cntwtag></cntwtag><entag>Saika Totsuka</entag><kotag></kotag></item>
+
+<item><jptag>オカルティック・ナイン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>純情ロマンチカ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>世界一初恋</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>세계 제일의 첫사랑</kotag></item>
+
+<item><jptag>キリアス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>路人女主的养成方法</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>加藤惠</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>終わりのセラ腐</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>PandoraHearts</jptag><cntag>潘朵拉之心</cntag><cntwtag>潘朵拉之心</cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>忍野忍</jptag><cntag></cntag><cntwtag></cntwtag><entag>oshino shinobu</entag><kotag>오시노 시노부</kotag></item>
+
+<item><jptag>阿良々木火憐</jptag><cntag></cntag><cntwtag></cntwtag><entag>araragi karen</entag><kotag>아라라기 카렌</kotag></item>
+
+<item><jptag>阿良々木月火</jptag><cntag></cntag><cntwtag></cntwtag><entag>araragi tsukihi</entag><kotag>아라라기 츠키히</kotag></item>
+
+<item><jptag>ダンゲロス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>俺、ツインテールになります。</jptag><cntag></cntag><cntwtag></cntwtag><entag>Gonna be the Twin-Tail!!</entag><kotag></kotag></item>
+
+<item><jptag>セトシン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>세토신</kotag></item>
+
+<item><jptag>司波深雪</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>俺の妹表紙風</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>デートアライブ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>夜々</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>セイバーマリオネットJ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Saber Marionette J</entag><kotag></kotag></item>
+
+<item><jptag>ヒーローバンク</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>藍原延珠</jptag><cntag></cntag><cntwtag></cntwtag><entag>Enju Aihara</entag><kotag></kotag></item>
+
+<item><jptag>彩雲国物語</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>くみれい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>コノエネ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>코노에네</kotag></item>
+
+<item><jptag>栗山未来</jptag><cntag></cntag><cntwtag></cntwtag><entag>kuriyama mirai</entag><kotag>쿠리야마 미라이</kotag></item>
+
+<item><jptag>&lt;腐録の地平線&gt;</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ニャル子</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>냐루코</kotag></item>
+
+<item><jptag>GOSICK</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>スクライド</jptag><cntag></cntag><cntwtag></cntwtag><entag>s-cry-ed</entag><kotag></kotag></item>
+
+<item><jptag>有田春雪</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>獣の奏者</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>壱ノ桜・桜花</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ベン・トー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>佐々木千穂</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キョン</jptag><cntag>阿虚</cntag><cntwtag></cntwtag><entag>kyon</entag><kotag></kotag></item>
+
+<item><jptag>プリンス・オブ・ストライド</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>朝日奈棗</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>朝日奈椿</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>DRRR!!100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>みーくん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>桐ヶ谷直葉</jptag><cntag></cntag><cntwtag></cntwtag><entag>Suguha Kirigaya</entag><kotag></kotag></item>
+
+<item><jptag>真奥貞夫</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>마오 사다오</kotag></item>
+
+<item><jptag>和泉纱雾</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>紗霧</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>埃罗芒阿老师</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バサ雁</jptag><cntag></cntag><cntwtag></cntwtag><entag>Berserker/Kariya</entag><kotag>버서카리</kotag></item>
+
+<item><jptag>よしのん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シュヴァルツェスマーケン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>空中ブランコ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>絶望先生</jptag><cntag></cntag><cntwtag>絕望先生</cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>Another</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>され竜</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ブラック・ブレット</jptag><cntag></cntag><cntwtag></cntwtag><entag>Black Bullet</entag><kotag></kotag></item>
+
+<item><jptag>丹生谷森夏</jptag><cntag></cntag><cntwtag></cntwtag><entag>nibutani shinka</entag><kotag>니부타니 신카</kotag></item>
+
+<item><jptag>NO.6</jptag><cntag>未来都市no.6</cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>セルティ・ストゥルルソン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Celty Sturluson</entag><kotag></kotag></item>
+
+<item><jptag>マリア様がみてる</jptag><cntag>圣母在上</cntag><cntwtag></cntwtag><entag>Maria-sama ga Miteru</entag><kotag>마리아님이 보고 계셔</kotag></item>
+
+<item><jptag>静謐のハサン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Hassan of Serenity</entag><kotag></kotag></item>
+
+<item><jptag>3悪</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>混合100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag>crossover 100+ bookmarks</entag><kotag></kotag></item>
+
+<item><jptag>幼女戦記100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>景麒</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>六太</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リゼロ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Re:Zero</entag><kotag></kotag></item>
+
+<item><jptag>Re:Zero</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アル戦【腐】</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シンエネ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>この素晴らしい世界に祝福を</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>このすば</jptag><cntag></cntag><cntwtag></cntwtag><entag>KonoSuba</entag><kotag></kotag></item>
+
+<item><jptag>久城一弥</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>比企谷小町</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>IS100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>化物語100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>木下秀吉</jptag><cntag></cntag><cntwtag></cntwtag><entag>kinoshita hideyoshi</entag><kotag>키노시타 히데요시</kotag></item>
+
+<item><jptag>松岡兄妹</jptag><cntag></cntag><cntwtag></cntwtag><entag>Matsuoka siblings</entag><kotag></kotag></item>
+
+<item><jptag>林トモアキ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バッカーノ!</jptag><cntag></cntag><cntwtag></cntwtag><entag>baccano!</entag><kotag>바카노</kotag></item>
+
+<item><jptag>これはゾンビですか?</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>이것은 좀비입니까?</kotag></item>
+
+<item><jptag>七瀬遥</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>新約とある魔術の禁書目録</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>真庭忍軍</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>三葉</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>一色いろは</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ささみさん@がんばらない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>魔動王グランゾート</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>とがめ</jptag><cntag></cntag><cntwtag></cntwtag><entag>togame</entag><kotag></kotag></item>
+
+<item><jptag>まほいく</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>由比ヶ浜結衣</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>雪ノ下雪乃</jptag><cntag>雪之下雪乃</cntag><cntwtag>雪之下雪乃</cntwtag><entag>Yukino Yukinoshita</entag><kotag></kotag></item>
+
+<item><jptag>憑物語</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>グループ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>平和島静雄</jptag><cntag></cntag><cntwtag></cntwtag><entag>shizuo heiwajima</entag><kotag></kotag></item>
+
+<item><jptag>狼と香辛料</jptag><cntag></cntag><cntwtag>狼與辛香料</cntwtag><entag>spice and wolf</entag><kotag>늑대와 향신료</kotag></item>
+
+<item><jptag>ムッツリーニ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>六花の勇者</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仰木高耶</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>転スラ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>玖渚友</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>椎名ましろ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Mashiro Shiina</entag><kotag></kotag></item>
+
+<item><jptag>朝日奈絵麻</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ema Asahina</entag><kotag></kotag></item>
+
+<item><jptag>如月モモ</jptag><cntag></cntag><cntwtag></cntwtag><entag>kisaragi momo</entag><kotag>키사라기 모모</kotag></item>
+
+<item><jptag>黒沼青葉</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>折原九瑠璃</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>オリジナル作品</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シャーロット・E・イェーガー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Charlotte E. Yeager</entag><kotag></kotag></item>
+
+<item><jptag>やはり俺の青春ラブコメはまちがっている</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ハス太</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>安斎千代美</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>いつか天魔の黒ウサギ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>蕾姆</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>灼眼のシャナ</jptag><cntag>灼眼的夏娜</cntag><cntwtag>灼眼的夏娜</cntwtag><entag>shakugan no shana</entag><kotag>작안의 샤나</kotag></item>
+
+<item><jptag>田村麻奈実</jptag><cntag></cntag><cntwtag></cntwtag><entag>Manami Tamura</entag><kotag></kotag></item>
+
+<item><jptag>家庭教師ヒットマンREBORN!</jptag><cntag></cntag><cntwtag></cntwtag><entag>katekyo hitman reborn!</entag><kotag></kotag></item>
+
+<item><jptag>ジョーカーゲーム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>スレイヤーズ</jptag><cntag>秀逗魔导士</cntag><cntwtag></cntwtag><entag>slayers</entag><kotag></kotag></item>
+
+<item><jptag>ﾃﾞｭﾗﾗﾗ!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>小豆梓</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>まるマ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>遊佐恵美</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シャナ</jptag><cntag>夏娜</cntag><cntwtag></cntwtag><entag>shana</entag><kotag>샤나</kotag></item>
+
+<item><jptag>魔導物語</jptag><cntag></cntag><cntwtag></cntwtag><entag>Madou Monogatari</entag><kotag>마도전기</kotag></item>
+
+<item><jptag>アイリスフィール</jptag><cntag></cntag><cntwtag></cntwtag><entag>irisviel</entag><kotag>아이리스필</kotag></item>
+
+<item><jptag>パパのいうことを聞きなさい!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>迷い猫オーバーラン!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ACfa</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>文学フリマ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アザミ(カゲロウプロジェクト)</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リゼロ1000users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リゼロ100users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リゼロ500users入り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>御石</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>長野まゆみ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>逢坂大河</jptag><cntag></cntag><cntwtag></cntwtag><entag>taiga aisaka</entag><kotag>아이사카 타이가</kotag></item>
+
+<item><jptag>土屋康太</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>篁唯依</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>藤和エリオ</jptag><cntag></cntag><cntwtag></cntwtag><entag>touwa erio</entag><kotag></kotag></item>
+
+<item><jptag>岸谷新羅</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>漆原半蔵</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>島津由乃</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>太芥</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>全职高手</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>笠原郁</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ファイヤーシスターズ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>炎の蜃気楼</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>川嶋亜美</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>とらドラ！</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>直高</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>櫛名アンナ</jptag><cntag></cntag><cntwtag></cntwtag><entag>kushina anna</entag><kotag></kotag></item>
+
+<item><jptag>臨波</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>僕は友達が少ない</jptag><cntag>我的朋友很少</cntag><cntwtag>我的朋友很少</cntwtag><entag>boku wa tomodachi ga sukunai</entag><kotag>나는 친구가 적다</kotag></item>
+
+<item><jptag>静雄</jptag><cntag></cntag><cntwtag></cntwtag><entag>shizuo</entag><kotag></kotag></item>
+
+<item><jptag>ドタチン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>藤堂志摩子</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ブレイブストーリー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>フルメタ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>鶴屋さん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>TL</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ダリュアル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>D音</jptag><cntag></cntag><cntwtag></cntwtag><entag>d-ne</entag><kotag></kotag></item>
+
+<item><jptag>のんけも</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>偽物語</jptag><cntag></cntag><cntwtag></cntwtag><entag>nisemonogatari</entag><kotag></kotag></item>
+
+<item><jptag>竜ヶ峰帝人</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>终结的炽天使</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>櫛枝実乃梨</jptag><cntag></cntag><cntwtag></cntwtag><entag>Minori Kushieda</entag><kotag></kotag></item>
+
+<item><jptag>B子</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>猫物語</jptag><cntag></cntag><cntwtag></cntwtag><entag>nekomonogatari</entag><kotag></kotag></item>
+
+<item><jptag>刀語</jptag><cntag>刀语</cntag><cntwtag></cntwtag><entag>katanagatari</entag><kotag></kotag></item>
+
+<item><jptag>加藤茉莉香</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>反逆のルルーシュ</jptag><cntag></cntag><cntwtag>反叛的魯路修</cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>サイケデリック静雄</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ダンまち</jptag><cntag></cntag><cntwtag></cntwtag><entag>Is It Wrong to Try to Pick Up Girls in a Dungeon?</entag><kotag></kotag></item>
+
+<item><jptag>パンツじゃないから恥ずかしくないもん!</jptag><cntag></cntag><cntwtag></cntwtag><entag>it's not embarrassing because they're not panties!</entag><kotag></kotag></item>
+
+<item><jptag>伝説の勇者の伝説</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>カゲプロ</jptag><cntag></cntag><cntwtag></cntwtag><entag>kagepro</entag><kotag>카게프로</kotag></item>
+
+<item><jptag>フランチェスカ・ルッキーニ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>心霊探偵八雲</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>九頭竜京摩</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>平和島幽</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>来良三人組</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>来神組</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>小説挿絵</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>エーリカ・ハルトマン</jptag><cntag></cntag><cntwtag></cntwtag><entag>erica hartmann</entag><kotag></kotag></item>
+
+<item><jptag>園原杏里</jptag><cntag></cntag><cntwtag></cntwtag><entag>anri sonohara</entag><kotag></kotag></item>
+
+<item><jptag>狩沢絵理華</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>うざや</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>矢霧波江</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>門田京平</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ネイト・ミトツダイラ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リプレイ</jptag><cntag></cntag><cntwtag></cntwtag><entag>replay</entag><kotag></kotag></item>
+
+<item><jptag>冴えない彼女の育て方</jptag><cntag></cntag><cntwtag></cntwtag><entag>Saekano: How to Raise a Boring Girlfriend</entag><kotag></kotag></item>
+
+<item><jptag>冴えカノ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>甘楽</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>臨正</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>トリチア</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>高坂桐乃</jptag><cntag></cntag><cntwtag></cntwtag><entag>kirino kousaka</entag><kotag>코우사카 키리노</kotag></item>
+
+<item><jptag>阳炎Project</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>美猿</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>棺姫のチャイカ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ディルケイ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>田中トム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ぼくらの</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+

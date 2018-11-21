@@ -1,0 +1,236 @@
+﻿<item><jptag>ウルトラ怪獣擬人化計画</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>スマブラ3DS/WiiU</jptag><cntag></cntag><cntwtag></cntwtag><entag>Super Smash Bros 3DS/WiiU</entag><kotag></kotag></item>
+
+<item><jptag>鉄道むすめ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Tetsudou Musume</entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダージオウ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kamen Rider Zi-O</entag><kotag></kotag></item>
+
+<item><jptag>神羅万象</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダービルド</jptag><cntag>假面骑士Build</cntag><cntwtag>假面騎士Build</cntwtag><entag>Kamen Rider Build</entag><kotag></kotag></item>
+
+<item><jptag>ウルトラマンギンガ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>電(艦隊これくしょん)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Inazuma (Kantai Collection)</entag><kotag></kotag></item>
+
+<item><jptag>ブラー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>コンボイ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バルタン星人</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>メガトロン</jptag><cntag></cntag><cntwtag></cntwtag><entag>megatron</entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーオーズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>kamen rider ooo</entag><kotag></kotag></item>
+
+<item><jptag>オプティマス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>オプティマスプライム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーゲンム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>フォーゼ</jptag><cntag></cntag><cntwtag></cntwtag><entag>fourze</entag><kotag></kotag></item>
+
+<item><jptag>響鬼</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーブレイド</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>トランスフォーマーアドベンチャー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>LBX</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>サウンドウェーブ</jptag><cntag></cntag><cntwtag></cntwtag><entag>soundwave</entag><kotag>사운드웨이브</kotag></item>
+
+<item><jptag>スタースクリーム</jptag><cntag></cntag><cntwtag></cntwtag><entag>starscream</entag><kotag>스타스크림</kotag></item>
+
+<item><jptag>ガンダムビルドダイバーズ</jptag><cntag>高达创形者</cntag><cntwtag>鋼彈創鬥者 潛網大戰</cntwtag><entag>Gundam Build Divers</entag><kotag></kotag></item>
+
+<item><jptag>ぬいぐるみ</jptag><cntag></cntag><cntwtag></cntwtag><entag>plushie</entag><kotag></kotag></item>
+
+<item><jptag>スマブラ</jptag><cntag></cntag><cntwtag></cntwtag><entag>smash bros.</entag><kotag></kotag></item>
+
+<item><jptag>リルリルフェアリル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ショックウェーブ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Shockwave</entag><kotag></kotag></item>
+
+<item><jptag>キンタロス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ウルトラマンメビウス</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ultraman Mebius</entag><kotag></kotag></item>
+
+<item><jptag>東離劍遊紀</jptag><cntag></cntag><cntwtag></cntwtag><entag>Thunderbolt Fantasy</entag><kotag></kotag></item>
+
+<item><jptag>ガンダムビルドファイターズトライ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Gundam Build Fighters Try</entag><kotag></kotag></item>
+
+<item><jptag>ガンダムビルドファイターズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>gundam build fighters</entag><kotag></kotag></item>
+
+<item><jptag>ドリフト</jptag><cntag></cntag><cntwtag></cntwtag><entag>Drift</entag><kotag></kotag></item>
+
+<item><jptag>フレームアームズ・ガール</jptag><cntag></cntag><cntwtag></cntwtag><entag>Frame Arms Girl</entag><kotag></kotag></item>
+
+<item><jptag>ジム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーマッハ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>戦隊ロボ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ベースステイツ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>トライアルフォーム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>トランスフォーマー</jptag><cntag>变形金刚</cntag><cntwtag>變形金剛</cntwtag><entag>transformers</entag><kotag>트랜스포머</kotag></item>
+
+<item><jptag>クウガ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーカイザ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ブレイヴ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ミズキ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>サイクロンジョーカー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>エレキング</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ウルトラマンネクサス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーエグゼイド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kamen Rider Ex-Aid</entag><kotag></kotag></item>
+
+<item><jptag>フブキ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Fubuki</entag><kotag></kotag></item>
+
+<item><jptag>ノーマルファイズ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ブリッツウィング</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ゾイド</jptag><cntag></cntag><cntwtag></cntwtag><entag>zoids</entag><kotag></kotag></item>
+
+<item><jptag>球体関節人形</jptag><cntag></cntag><cntwtag></cntwtag><entag>ball-jointed doll</entag><kotag></kotag></item>
+
+<item><jptag>実写TF</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>七つの大罪</jptag><cntag>七大罪</cntag><cntwtag>七大罪</cntwtag><entag>The Seven Deadly Sins</entag><kotag></kotag></item>
+
+<item><jptag>量産型</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アニメイテッド</jptag><cntag></cntag><cntwtag></cntwtag><entag>animated</entag><kotag></kotag></item>
+
+<item><jptag>クイーンズブレイド</jptag><cntag></cntag><cntwtag></cntwtag><entag>Queen's Blade</entag><kotag>퀸즈블레이드</kotag></item>
+
+<item><jptag>ホロスコープス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ウルトラマンX</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ultraman X</entag><kotag></kotag></item>
+
+<item><jptag>ツガル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ビオランテ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ビーストウォーズ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヒミツのここたま</jptag><cntag></cntag><cntwtag></cntwtag><entag>Himitsu no Cocotama</entag><kotag></kotag></item>
+
+<item><jptag>ホシノ・フミナ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Fumina Hoshino</entag><kotag></kotag></item>
+
+<item><jptag>ZOIDS</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>こけし</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>フックブックロー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>スマブラSP</jptag><cntag></cntag><cntwtag></cntwtag><entag>Super Smash Bros. Ultimate</entag><kotag></kotag></item>
+
+<item><jptag>武装少女</jptag><cntag></cntag><cntwtag></cntwtag><entag>armed young ladies</entag><kotag></kotag></item>
+
+<item><jptag>オーメダル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>初代ウルトラマン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>シンケンジャー</jptag><cntag></cntag><cntwtag></cntwtag><entag>shinkenger</entag><kotag></kotag></item>
+
+<item><jptag>レインボーダッシュ</jptag><cntag></cntag><cntwtag></cntwtag><entag>rainbow dash</entag><kotag></kotag></item>
+
+<item><jptag>アーデン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Ardyn</entag><kotag></kotag></item>
+
+<item><jptag>ねんどろいど</jptag><cntag>黏土人</cntag><cntwtag></cntwtag><entag>Nendoroid</entag><kotag></kotag></item>
+
+<item><jptag>サンダークラッカー</jptag><cntag></cntag><cntwtag></cntwtag><entag>Thundercracker</entag><kotag></kotag></item>
+
+<item><jptag>艦これかっこいい</jptag><cntag></cntag><cntwtag></cntwtag><entag>cool KanColle</entag><kotag></kotag></item>
+
+<item><jptag>クロスボーンガンダム</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>タトバコンボ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>幽々子</jptag><cntag></cntag><cntwtag></cntwtag><entag>yuyuko</entag><kotag>유유코</kotag></item>
+
+<item><jptag>BB戦士</jptag><cntag></cntag><cntwtag></cntwtag><entag>BB Senshi</entag><kotag></kotag></item>
+
+<item><jptag>ウルトラマンマックス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>てるてる坊主</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>特撮</jptag><cntag>特摄</cntag><cntwtag></cntwtag><entag>tokusatsu</entag><kotag>특촬</kotag></item>
+
+<item><jptag>ミヅキ(トレーナー)</jptag><cntag></cntag><cntwtag></cntwtag><entag>Selene (Trainer)</entag><kotag></kotag></item>
+
+<item><jptag>テンカイナイト</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>人形</jptag><cntag>人偶</cntag><cntwtag></cntwtag><entag>doll</entag><kotag>인형</kotag></item>
+
+<item><jptag>Z.O.E</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>鏑木一差</jptag><cntag></cntag><cntwtag></cntwtag><entag>Issa Kaburagi</entag><kotag></kotag></item>
+
+<item><jptag>figma</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ふなっしー</jptag><cntag></cntag><cntwtag></cntwtag><entag>funassyi</entag><kotag></kotag></item>
+
+<item><jptag>SRX</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>仮面ライダーギャレン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>武装神姫</jptag><cntag>武装神姬</cntag><cntwtag>武裝神姬</cntwtag><entag>busou shinki</entag><kotag>무장신희</kotag></item>
+
+<item><jptag>ダンボール戦機W</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>プロール</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>フィギュア</jptag><cntag></cntag><cntwtag></cntwtag><entag>figure</entag><kotag>피규어</kotag></item>
+
+<item><jptag>黒桜</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>球体関節</jptag><cntag></cntag><cntwtag></cntwtag><entag>ball joints</entag><kotag></kotag></item>
+
+<item><jptag>サフィー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アルトレーネ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>マイリトルポニー</jptag><cntag>彩虹小马</cntag><cntwtag>彩虹小馬</cntwtag><entag>my little pony</entag><kotag></kotag></item>
+
+<item><jptag>ジオラマ</jptag><cntag></cntag><cntwtag></cntwtag><entag>diorama</entag><kotag></kotag></item>
+
+<item><jptag>FA:G</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ラリティ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Rarity</entag><kotag></kotag></item>
+
+<item><jptag>金光布袋戲</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>SD</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>グラフィグ</jptag><cntag></cntag><cntwtag></cntwtag><entag>graphig</entag><kotag></kotag></item>
+
+<item><jptag>爆丸</jptag><cntag></cntag><cntwtag></cntwtag><entag>bakugan</entag><kotag>바쿠간</kotag></item>
+
+<item><jptag>ヴィネット</jptag><cntag></cntag><cntwtag></cntwtag><entag>vignette</entag><kotag></kotag></item>
+
+<item><jptag>ザ・キング・オブ・ファイターズ</jptag><cntag></cntag><cntwtag></cntwtag><entag>The King of Fighters</entag><kotag></kotag></item>
+
+<item><jptag>トワイライトスパークル</jptag><cntag></cntag><cntwtag></cntwtag><entag>Twilight Sparkle</entag><kotag></kotag></item>
+
+<item><jptag>ピンキーパイ</jptag><cntag></cntag><cntwtag></cntwtag><entag>pinkie pie</entag><kotag></kotag></item>
+
+<item><jptag>フラタシャイ</jptag><cntag></cntag><cntwtag></cntwtag><entag>Fluttershy</entag><kotag></kotag></item>
+
+<item><jptag>ねん燭</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>クイーンズゲイト</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+

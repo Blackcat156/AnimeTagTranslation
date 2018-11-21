@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--使用XMLPATH调用解析结果并替换还原-->
+<root>
+  <replaceinfo>
+    <replaceform>taginfo</replaceform>
+    <replaceto>{0}</replaceto>
+  </replaceinfo>
+  <replaceinfo>
+    <replaceform>tagname</replaceform>
+    <replaceto>{1}</replaceto>
+  </replaceinfo>
+  <replaceinfo>
+    <replaceform>tagcount</replaceform>
+    <replaceto>{2}</replaceto>
+  </replaceinfo>
+
+</root>

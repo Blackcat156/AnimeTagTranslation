@@ -1,0 +1,376 @@
+﻿<item><jptag>みんなのトラウマ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>胸がぱんぱかぱーん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ポプテピピック</jptag><cntag>POP TEAM EPIC</cntag><cntwtag>POP TEAM EPIC</cntwtag><entag>Pop Team Epic</entag><kotag></kotag></item>
+
+<item><jptag>提督LOVE</jptag><cntag></cntag><cntwtag></cntwtag><entag>admiral love</entag><kotag></kotag></item>
+
+<item><jptag>フォント</jptag><cntag></cntag><cntwtag></cntwtag><entag>font</entag><kotag></kotag></item>
+
+<item><jptag>最初からクライマックス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>フェネックやめるのだ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>おいやめろ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>リバ</jptag><cntag></cntag><cntwtag></cntwtag><entag>versatile couple</entag><kotag></kotag></item>
+
+<item><jptag>黄金の精神</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キャラ崩壊</jptag><cntag></cntag><cntwtag></cntwtag><entag>out of character</entag><kotag></kotag></item>
+
+<item><jptag>本田</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ぐでたま</jptag><cntag></cntag><cntwtag></cntwtag><entag>Gudetama</entag><kotag></kotag></item>
+
+<item><jptag>アッー!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>誰かがやると思った</jptag><cntag></cntag><cntwtag></cntwtag><entag>someone had to do it</entag><kotag></kotag></item>
+
+<item><jptag>どうしてこうなった</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>謎の白い液体</jptag><cntag></cntag><cntwtag></cntwtag><entag>mysterious white liquid</entag><kotag></kotag></item>
+
+<item><jptag>キャプションに激しく同意</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>タグ</jptag><cntag></cntag><cntwtag></o><entag></entag><kotag></kotag></item>
+
+<item><jptag>やめたげてよお!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>松井珠理奈</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>わかるわ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>名言</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>今日も一日がんばるぞい!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>黒は女性を美しく見せる</jptag><cntag></cntag><cntwtag></cntwtag><entag>black makes women look beautiful</entag><kotag></kotag></item>
+
+<item><jptag>叫び</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ナポレオン</jptag><cntag></cntag><cntwtag></cntwtag><entag>Napoleon</entag><kotag></kotag></item>
+
+<item><jptag>強いられているんだ!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なぜ女なんだ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>描けば出る</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>勝てる気がしない</jptag><cntag></cntag><cntwtag></cntwtag><entag>feels like we can't win</entag><kotag></kotag></item>
+
+<item><jptag>かわいい!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>大丈夫だ、問題ない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>お前が言うな</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>お前は何を言っているんだ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>まったく、小学生は最高だぜ!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>おっさんホイホイ</jptag><cntag></cntag><cntwtag></cntwtag><entag>old men please gather</entag><kotag></kotag></item>
+
+<item><jptag>特別な気分</jptag><cntag></cntag><cntwtag></cntwtag><entag>special feeling</entag><kotag></kotag></item>
+
+<item><jptag>東巻</jptag><cntag></cntag><cntwtag></cntwtag><entag>Toudou/Makishima</entag><kotag>토도마키</kotag></item>
+
+<item><jptag>養豚場の豚を見るような目</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>黒歴史</jptag><cntag></cntag><cntwtag></cntwtag><entag>a dark past</entag><kotag></kotag></item>
+
+<item><jptag>かしこまっ!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ｲｲﾊﾅｼﾀﾞﾅｰ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>だがそれがいい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>違う、そうじゃない</jptag><cntag></cntag><cntwtag></cntwtag><entag>you're doing it wrong</entag><kotag></kotag></item>
+
+<item><jptag>ボイン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>バルス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ヨーソロー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ガルパンはいいぞ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>プリキュア10周年おめでとうメッセージ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ﾅｽﾞｪﾐﾃﾙﾝﾃﾞｨｽ!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>今日も鎮守府は修羅場です</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>あらかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag>oh my, cute</entag><kotag></kotag></item>
+
+<item><jptag>アローラ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>デカァァァァァいッ説明不要!!</jptag><cntag></cntag><cntwtag></cntwtag><entag>no need to explain!</entag><kotag></kotag></item>
+
+<item><jptag>ア艦これ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ありがとうございます!</jptag><cntag></cntag><cntwtag></cntwtag><entag>thank you very much!</entag><kotag></kotag></item>
+
+<item><jptag>誰かやると思った</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>可愛すぎる</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ抱きしめたい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ピクボイス</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>サラダ食べて海賊王</jptag><cntag></cntag><cntwtag></cntwtag><entag>genderbend One Piece</entag><kotag></kotag></item>
+
+<item><jptag>末永く爆発しろ</jptag><cntag></cntag><cntwtag></cntwtag><entag>happy people can go blow</entag><kotag></kotag></item>
+
+<item><jptag>秘密</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>どこで買えますか</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>計画通り</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>燃える艦これ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれイケメン</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>トリック・オア・トリート</jptag><cntag></cntag><cntwtag></cntwtag><entag>trick or treat</entag><kotag></kotag></item>
+
+<item><jptag>ドラマ</jptag><cntag></cntag><cntwtag></cntwtag><entag>drama</entag><kotag></kotag></item>
+
+<item><jptag>志村後ろ!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ゆうべはおたのしみでしたね</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>だが男だ</jptag><cntag></cntag><cntwtag></cntwtag><entag>but he's a guy</entag><kotag></kotag></item>
+
+<item><jptag>待ってました!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>こんな可愛い子が女の子のはずがない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>続きを全裸待機!!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>萌えてみろ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>だが断る</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>いいぞもっとやれ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>いいですとも!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>さやかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ブロントさん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>まあ、そうなるな</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>もう何も怖くない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>この発想はなかった</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>このあと滅茶苦茶セックスした</jptag><cntag></cntag><cntwtag></cntwtag><entag>they had lots of sex afterwards</entag><kotag></kotag></item>
+
+<item><jptag>スクロールバー仕事しろ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>RJT</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>まさに外道</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ切ない</jptag><cntag></cntag><cntwtag></cntwtag><entag>what is this pain</entag><kotag></kotag></item>
+
+<item><jptag>スクロールバーが仕事しない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>待ってました</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>銀河美少年</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>荒ぶる凛ちゃん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>あててんのよ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ美しい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>＼(^o^)/</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>日本頑張って</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>勝とうとも思わない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>さわりたくなっちゃう</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>やらないか</jptag><cntag></cntag><cntwtag></cntwtag><entag>yaranaika</entag><kotag></kotag></item>
+
+<item><jptag>こんなの絶対おかしいよ</jptag><cntag></cntag><cntwtag></cntwtag><entag>this just can't be right</entag><kotag></kotag></item>
+
+<item><jptag>かっこかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag>cool and cute</entag><kotag></kotag></item>
+
+<item><jptag>ジャイロゼッター</jptag><cntag></cntag><cntwtag></cntwtag><entag>gyrozetter</entag><kotag>자이로제타</kotag></item>
+
+<item><jptag>地獄の仮面ライダー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>尊い</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>艦隊のアイドル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>守りたい、この笑顔</jptag><cntag></cntag><cntwtag></cntwtag><entag>I want to protect that smile</entag><kotag></kotag></item>
+
+<item><jptag>!?</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>やめたげてよぉ!</jptag><cntag></cntag><cntwtag></cntwtag><entag>give them a break!</entag><kotag></kotag></item>
+
+<item><jptag>なにこれえろい</jptag><cntag></cntag><cntwtag></cntwtag><entag>how erotic!</entag><kotag></kotag></item>
+
+<item><jptag>こっち見んな</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>愛がなければ描けない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>などと供述しており</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>何これ切ない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>違和感仕事しろ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>今日も深海は平和です</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれカッコいい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>もうお前ら結婚しろ</jptag><cntag></cntag><cntwtag></cntwtag><entag>get married already</entag><kotag></kotag></item>
+
+<item><jptag>落書きって何だっけ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>結婚しよ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>アリスはかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キモい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>守りたいこの笑顔</jptag><cntag></cntag><cntwtag></cntwtag><entag>I want to protect that smile</entag><kotag></kotag></item>
+
+<item><jptag>ぐうかわ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ながもんホイホイ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>真姫ちゃんかわいいかきくけこ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なんかエロい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>殴りたい、この笑顔</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>日めくりさちこ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>それ以上いけない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>今日も鎮守府は平和です</jptag><cntag></cntag><cntwtag></cntwtag><entag>The Naval Base is peaceful again today</entag><kotag></kotag></item>
+
+<item><jptag>商品化希望</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ホモォ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ここに教会を建てよう</jptag><cntag></cntag><cntwtag></cntwtag><entag>I'm gonna build a church here</entag><kotag></kotag></item>
+
+<item><jptag>たおやかじゃないわね</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれすごくかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ぬこ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>メリークリスマス</jptag><cntag></cntag><cntwtag></cntwtag><entag>merry christmas</entag><kotag></kotag></item>
+
+<item><jptag>たまらん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>激しく同意</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>これはこれで</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>夢に出る</jptag><cntag></cntag><cntwtag></cntwtag><entag>nightmare fuel</entag><kotag></kotag></item>
+
+<item><jptag>何これすごい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ凄い</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>那珂ちゃんのファンになります</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>艦これかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag>Kantai Collection kawaii</entag><kotag></kotag></item>
+
+<item><jptag>ちゃんみお</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>何これ可愛い</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag>뭐야 이거 귀여워</kotag></item>
+
+<item><jptag>しれぇ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれせつない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>つぶやき</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>あなたが神か</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>そーなのかー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>くぱぁ</jptag><cntag>掰穴</cntag><cntwtag>掰穴</cntwtag><entag>spread pussy</entag><kotag></kotag></item>
+
+<item><jptag>わけがわからないよ</jptag><cntag></cntag><cntwtag></cntwtag><entag>it makes no sense at all</entag><kotag></kotag></item>
+
+<item><jptag>萌え萌えキューン!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>おいしそう</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>現実は非情である</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>けしからんもっとやれ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ハラショー</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>どういうことなの・・・</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>秀逸なタイトル</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ感動</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれかわいい!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>船堀パロ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれすごい</jptag><cntag></cntag><cntwtag></cntwtag><entag>so cool</entag><kotag></kotag></item>
+
+<item><jptag>これはすごい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>目から水遁</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>これはいいふともも</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>けしからん、もっとやれ</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>吹いた</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キャプション落ち着け</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>ふつくしい…</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なんという俺得</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>だいたいあってない</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>キャプションに全力で同意</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>どこで売ってますか?</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>続きを全裸待機!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこいつらかわいい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ欲しい</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>この発想は無かった</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>あなた様でしたか!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>続き待ってます!</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれ綺麗</jptag><cntag></cntag><cntwtag></cntwtag><entag>wtf this is beautiful</entag><kotag></kotag></item>
+
+<item><jptag>あなた様でしたか</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>なにこれたまらん</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+
+<item><jptag>溢れ出る色気</jptag><cntag></cntag><cntwtag></cntwtag><entag></entag><kotag></kotag></item>
+

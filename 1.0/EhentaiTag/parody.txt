@@ -1,0 +1,1336 @@
+﻿<item><jptag></jptag><cntag>原创</cntag><cntwtag></cntwtag><romatag>original</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>东方Project⛩</cntag><cntwtag></cntwtag><romatag>touhou project</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>萌单✏️</cntag><cntwtag></cntwtag><romatag>moetan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Kanon❄</cntag><cntwtag></cntwtag><romatag>kanon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>AIR</cntag><cntwtag></cntwtag><romatag>air</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>CLANNAD</cntag><cntwtag></cntwtag><romatag>clannad</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Angel Beats!❤</cntag><cntwtag></cntwtag><romatag>angel beats</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Charlotte</cntag><cntwtag></cntwtag><romatag>charlotte</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Little Busters!⚾</cntag><cntwtag></cntwtag><romatag>little busters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Rewrite</cntag><cntwtag></cntwtag><romatag>rewrite</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的妹妹不可能那么可爱</cntag><cntwtag></cntwtag><romatag>ore no imouto ga konna ni kawaii wake ga nai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法禁书目录</cntag><cntwtag></cntwtag><romatag>toaru majutsu no index</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>科学超电磁炮⚡️</cntag><cntwtag></cntwtag><romatag>toaru kagaku no railgun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>舰队Collection</cntag><cntwtag></cntwtag><romatag>kantai collection</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>精灵宝可梦</cntag><cntwtag></cntwtag><romatag>pokemon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>寒蝉鸣泣之时</cntag><cntwtag></cntwtag><romatag>higurashi no naku koro ni</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天才麻将少女🀄️</cntag><cntwtag></cntwtag><romatag>saki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女小圆</cntag><cntwtag></cntwtag><romatag>puella magi madoka magica</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法纪录 魔法少女小圆外传</cntag><cntwtag></cntwtag><romatag>puella magi madoka magica side story magia record</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙与虎</cntag><cntwtag></cntwtag><romatag>toradora</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>露蒂的玩具</cntag><cntwtag></cntwtag><romatag>lotte no omocha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刀剑神域</cntag><cntwtag></cntwtag><romatag>sword art online</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刀剑神域外传Gun Gale Online</cntag><cntwtag></cntwtag><romatag>sword art online alternative gun gale online</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>出包王女</cntag><cntwtag></cntwtag><romatag>to love-ru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>萝球社</cntag><cntwtag></cntwtag><romatag>ro-kyu-bu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>侦探歌剧 少女福尔摩斯</cntag><cntwtag></cntwtag><romatag>tantei opera milky holmes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超次元游戏：海王星</cntag><cntwtag></cntwtag><romatag>hyperdimension neptunia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>LoveLive!</cntag><cntwtag></cntwtag><romatag>love live</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Love Live! Sunshine!!</cntag><cntwtag></cntwtag><romatag>love live sunshine</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天降之物</cntag><cntwtag></cntwtag><romatag>sora no otoshimono</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的朋友很少</cntag><cntwtag></cntwtag><romatag>boku wa tomodachi ga sukunai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>VOCALOID</cntag><cntwtag></cntwtag><romatag>vocaloid</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>VOICEROID</cntag><cntwtag></cntwtag><romatag>voiceroid</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>约会大作战</cntag><cntwtag></cntwtag><romatag>date a live</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>偶像大师</cntag><cntwtag></cntwtag><romatag>the idolmaster</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小马宝莉：友谊就是魔法</cntag><cntwtag></cntwtag><romatag>my little pony friendship is magic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>干物妹！小埋</cntag><cntwtag></cntwtag><romatag>himouto umaru-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>化物语</cntag><cntwtag></cntwtag><romatag>bakemonogatari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的青春恋爱物语果然有问题</cntag><cntwtag></cntwtag><romatag>yahari ore no seishun love come wa machigatteiru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天元突破</cntag><cntwtag></cntwtag><romatag>tengen toppa gurren lagann</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔卡少女樱</cntag><cntwtag></cntwtag><romatag>cardcaptor sakura</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迷途猫OverRun</cntag><cntwtag></cntwtag><romatag>mayoi neko overrun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>萌萌侵略者</cntag><cntwtag></cntwtag><romatag>outbreak company</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>境界的彼方</cntag><cntwtag></cntwtag><romatag>kyoukai no kanata</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>打工吧！魔王大人</cntag><cntwtag></cntwtag><romatag>hataraku maou-sama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>潜行吧！奈亚子</cntag><cntwtag></cntwtag><romatag>haiyore nyaruko-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>变态王子与不笑猫</cntag><cntwtag></cntwtag><romatag>hentai ouji to warawanai neko</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>来自风平浪静的明天</cntag><cntwtag></cntwtag><romatag>nagi no asukara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>世界征服～谋略之星～</cntag><cntwtag></cntwtag><romatag>sekai seifuku bouryaku no zvezda</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏人生</cntag><cntwtag></cntwtag><romatag>no game no life</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>元气囝仔</cntag><cntwtag></cntwtag><romatag>barakamon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神圣之门</cntag><cntwtag></cntwtag><romatag>divine gate</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>再见！绝望先生</cntag><cntwtag></cntwtag><romatag>sayonara zetsubou sensei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>学园默示录</cntag><cntwtag></cntwtag><romatag>highschool of the dead</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>学园孤岛</cntag><cntwtag></cntwtag><romatag>gakkou gurashi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>A频道</cntag><cntwtag></cntwtag><romatag>a channel</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>碧蓝幻想</cntag><cntwtag></cntwtag><romatag>granblue fantasy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高达</cntag><cntwtag></cntwtag><romatag>gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达AGE</cntag><cntwtag></cntwtag><romatag>gundam age</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达00</cntag><cntwtag></cntwtag><romatag>gundam 00</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达0080 口袋里的战争</cntag><cntwtag></cntwtag><romatag>gundam 0080</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达0083 星尘回忆录</cntag><cntwtag></cntwtag><romatag>gundam 0083</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达UC</cntag><cntwtag></cntwtag><romatag>gundam unicorn</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达F91</cntag><cntwtag></cntwtag><romatag>gundam f91</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达SEED</cntag><cntwtag></cntwtag><romatag>gundam seed</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达SEED DESTINY</cntag><cntwtag></cntwtag><romatag>gundam seed destiny</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达ZZ</cntag><cntwtag></cntwtag><romatag>gundam zz</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达</cntag><cntwtag></cntwtag><romatag>mobile suit gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达战记 Lost War Chronicles</cntag><cntwtag></cntwtag><romatag>mobile suit gundam lost war chronicles</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士高达 铁血的孤儿</cntag><cntwtag></cntwtag><romatag>mobile suit gundam tekketsu no orphans</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新机动战记高达W</cntag><cntwtag></cntwtag><romatag>gundam wing</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士海盗高达</cntag><cntwtag></cntwtag><romatag>crossbone gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高达创战者</cntag><cntwtag></cntwtag><romatag>gundam build fighters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高达创战者TRY</cntag><cntwtag></cntwtag><romatag>gundam build fighters try</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高达创形者</cntag><cntwtag></cntwtag><romatag>gundam build divers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高达G之复国运动</cntag><cntwtag></cntwtag><romatag>gundam g no reconguista</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动新世纪高达X</cntag><cntwtag></cntwtag><romatag>gundam x</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士V高达</cntag><cntwtag></cntwtag><romatag>victory gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战士Z高达</cntag><cntwtag></cntwtag><romatag>zeta gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动武斗传G高达</cntag><cntwtag></cntwtag><romatag>g gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>∀高达</cntag><cntwtag></cntwtag><romatag>turn a gundam</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黄金拼图</cntag><cntwtag></cntwtag><romatag>kiniro mosaic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>请问您今天要来点兔子吗？</cntag><cntwtag></cntwtag><romatag>gochuumon wa usagi desu ka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>悠哉日常大王</cntag><cntwtag></cntwtag><romatag>non non biyori</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>织田信奈的野望</cntag><cntwtag></cntwtag><romatag>oda nobuna no yabou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玉子市场</cntag><cntwtag></cntwtag><romatag>tamako market</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>向山进发</cntag><cntwtag></cntwtag><romatag>yama no susume</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美妙天堂</cntag><cntwtag></cntwtag><romatag>pripara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天体的秩序</cntag><cntwtag></cntwtag><romatag>sora no method</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>加速世界</cntag><cntwtag></cntwtag><romatag>accel world</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>在地下城寻求邂逅是否搞错了什么</cntag><cntwtag></cntwtag><romatag>dungeon ni deai o motomeru no wa machigatteiru darou ka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>C³-魔方少女-</cntag><cntwtag></cntwtag><romatag>c cube</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>进击的巨人</cntag><cntwtag></cntwtag><romatag>shingeki no kyojin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼骄</cntag><cntwtag></cntwtag><romatag>onidere</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无限斯特拉托斯</cntag><cntwtag></cntwtag><romatag>infinite stratos</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔界战记</cntag><cntwtag></cntwtag><romatag>disgaea</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>中二病也要谈恋爱！</cntag><cntwtag></cntwtag><romatag>chuunibyou demo koi ga shitai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我们仍未知道那天所看见的花的名字。</cntag><cntwtag></cntwtag><romatag>ano hi mita hana no namae wo bokutachi wa mada shiranai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>甘城光辉游乐园</cntag><cntwtag></cntwtag><romatag>amagi brilliant park</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绯弹的亚莉亚</cntag><cntwtag></cntwtag><romatag>hidan no aria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>命运石之门</cntag><cntwtag></cntwtag><romatag>steinsgate</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幸运☆星</cntag><cntwtag></cntwtag><romatag>lucky star</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>零之使魔</cntag><cntwtag></cntwtag><romatag>zero no tsukaima</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>灼眼的夏娜</cntag><cntwtag></cntwtag><romatag>shakugan no shana</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>凉宫春日的忧郁</cntag><cntwtag></cntwtag><romatag>the melancholy of haruhi suzumiya</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神薙</cntag><cntwtag></cntwtag><romatag>kannagi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女生爱女生</cntag><cntwtag></cntwtag><romatag>kashimashi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ToHeart</cntag><cntwtag></cntwtag><romatag>to heart</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ToHeart2</cntag><cntwtag></cntwtag><romatag>toheart2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>轻音少女</cntag><cntwtag></cntwtag><romatag>k-on</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的主人</cntag><cntwtag></cntwtag><romatag>he is my master</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>叛逆的鲁鲁修</cntag><cntwtag></cntwtag><romatag>code geass</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火影忍者</cntag><cntwtag></cntwtag><romatag>naruto</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>校园迷糊大王</cntag><cntwtag></cntwtag><romatag>school rumble</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法老师</cntag><cntwtag></cntwtag><romatag>mahou sensei negima</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>悠久持有者！</cntag><cntwtag></cntwtag><romatag>uq holder</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新世纪福音战士</cntag><cntwtag></cntwtag><romatag>neon genesis evangelion</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>向阳素描</cntag><cntwtag></cntwtag><romatag>hidamari sketch</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女奈叶</cntag><cntwtag></cntwtag><romatag>mahou shoujo lyrical nanoha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>十字架与吸血鬼</cntag><cntwtag></cntwtag><romatag>rosario vampire</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光之美少女</cntag><cntwtag></cntwtag><romatag>pretty cure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光之美少女Splash Star</cntag><cntwtag></cntwtag><romatag>pretty cure splash star</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Yes! 光之美少女5</cntag><cntwtag></cntwtag><romatag>yes precure 5</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fresh 光之美少女!</cntag><cntwtag></cntwtag><romatag>fresh precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Heartcatch 光之美少女!</cntag><cntwtag></cntwtag><romatag>heartcatch precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Suite 光之美少女♪</cntag><cntwtag></cntwtag><romatag>suite precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Smile 光之美少女!</cntag><cntwtag></cntwtag><romatag>smile precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>心跳！光之美少女</cntag><cntwtag></cntwtag><romatag>dokidoki precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Happiness Charge 光之美少女!</cntag><cntwtag></cntwtag><romatag>happinesscharge precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Go! Princess 光之美少女</cntag><cntwtag></cntwtag><romatag>go princess precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法使 光之美少女!</cntag><cntwtag></cntwtag><romatag>maho girls precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>KiraKira☆光之美少女A La Mode</cntag><cntwtag></cntwtag><romatag>kirakira precure a la mode</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>拥抱！光之美少女</cntag><cntwtag></cntwtag><romatag>hugtto precure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>JOJO的奇妙冒险</cntag><cntwtag></cntwtag><romatag>jojos bizarre adventure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法飞球</cntag><cntwtag></cntwtag><romatag>pangya</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>食戟之灵</cntag><cntwtag></cntwtag><romatag>shokugeki no soma</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迷糊餐厅</cntag><cntwtag></cntwtag><romatag>working</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>为美好的世界献上祝福！</cntag><cntwtag></cntwtag><romatag>kono subarashii sekai ni syukufuku o</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我女友与青梅竹马的惨烈修罗场</cntag><cntwtag></cntwtag><romatag>ore no kanojo to osananajimi ga shuraba sugiru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的脑内恋碍选项</cntag><cntwtag></cntwtag><romatag>ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>守望先锋</cntag><cntwtag></cntwtag><romatag>overwatch</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光环</cntag><cntwtag></cntwtag><romatag>halo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>质量效应</cntag><cntwtag></cntwtag><romatag>mass effect</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>半衰期</cntag><cntwtag></cntwtag><romatag>half-life</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传送门</cntag><cntwtag></cntwtag><romatag>portal</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>巫师</cntag><cntwtag></cntwtag><romatag>the witcher</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>上古卷轴</cntag><cntwtag></cntwtag><romatag>the elder scrolls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刀塔</cntag><cntwtag></cntwtag><romatag>defense of the ancients</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Re：从零开始的异世界生活</cntag><cntwtag></cntwtag><romatag>re zero kara hajimeru isekai seikatsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>路人女主的养成方法</cntag><cntwtag></cntwtag><romatag>saenai heroine no sodatekata</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恋姬†无双</cntag><cntwtag></cntwtag><romatag>koihime musou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>闪乱神乐</cntag><cntwtag></cntwtag><romatag>senran kagura</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小林家的龙女仆</cntag><cntwtag></cntwtag><romatag>kobayashi-san-chi no maid dragon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>NEW GAME!</cntag><cntwtag></cntwtag><romatag>new game</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>白箱</cntag><cntwtag></cntwtag><romatag>shirobako</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女编号</cntag><cntwtag></cntwtag><romatag>girlish number</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>珈百璃的堕落</cntag><cntwtag></cntwtag><romatag>gabriel dropout</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人形电脑天使心</cntag><cntwtag></cntwtag><romatag>chobits</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>死或生</cntag><cntwtag></cntwtag><romatag>dead or alive</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>埃罗芒阿老师</cntag><cntwtag></cntwtag><romatag>eromanga sensei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>与奴隶的生活 -Teaching Feeling-</cntag><cntwtag></cntwtag><romatag>dorei to no seikatsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女与战车</cntag><cntwtag></cntwtag><romatag>girls und panzer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>濑户的花嫁</cntag><cntwtag></cntwtag><romatag>seto no hanayome</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无畏魔女</cntag><cntwtag></cntwtag><romatag>brave witches</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>强袭魔女</cntag><cntwtag></cntwtag><romatag>strike witches</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>兽娘动物园</cntag><cntwtag></cntwtag><romatag>kemono friends</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>英雄联盟</cntag><cntwtag></cntwtag><romatag>league of legends</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>斩服少女</cntag><cntwtag></cntwtag><romatag>kill la kill</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>粗点心战争</cntag><cntwtag></cntwtag><romatag>dagashi kashi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>街头霸王</cntag><cntwtag></cntwtag><romatag>street fighter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/Grand Order</cntag><cntwtag></cntwtag><romatag>fate grand order</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/stay night</cntag><cntwtag></cntwtag><romatag>fate stay night</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/Apocrypha</cntag><cntwtag></cntwtag><romatag>fate apocrypha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/Zero</cntag><cntwtag></cntwtag><romatag>fate zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/hollow ataraxia</cntag><cntwtag></cntwtag><romatag>fate hollow ataraxia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/EXTRA</cntag><cntwtag></cntwtag><romatag>fate extra</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/EXTELLA</cntag><cntwtag></cntwtag><romatag>fate extella</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fate/kaleid liner 魔法少女☆伊莉雅</cntag><cntwtag></cntwtag><romatag>fate kaleid liner prisma illya</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法使之夜</cntag><cntwtag></cntwtag><romatag>mahou tsukai no yoru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>空之境界</cntag><cntwtag></cntwtag><romatag>kara no kyoukai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迦南</cntag><cntwtag></cntwtag><romatag>canaan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>月姬</cntag><cntwtag></cntwtag><romatag>tsukihime</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>你的名字。</cntag><cntwtag></cntwtag><romatag>kimi no na wa.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>纯白交响曲</cntag><cntwtag></cntwtag><romatag>mashiro iro symphony</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙</cntag><cntwtag></cntwtag><romatag>dragon quest</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙I</cntag><cntwtag></cntwtag><romatag>dragon quest i</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙II 恶灵的众神</cntag><cntwtag></cntwtag><romatag>dragon quest ii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙III 传说的开始</cntag><cntwtag></cntwtag><romatag>dragon quest iii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙IV 被引导的人们</cntag><cntwtag></cntwtag><romatag>dragon quest iv</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙V 天空的新娘</cntag><cntwtag></cntwtag><romatag>dragon quest v</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙VI 幻之大地</cntag><cntwtag></cntwtag><romatag>dragon quest vi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙VII 伊甸的战士们</cntag><cntwtag></cntwtag><romatag>dragon quest vii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主</cntag><cntwtag></cntwtag><romatag>dragon quest viii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙IX 星空的守护者</cntag><cntwtag></cntwtag><romatag>dragon quest ix</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙X 觉醒的五种族 Online</cntag><cntwtag></cntwtag><romatag>dragon quest x</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙XI 追寻逝去的时光</cntag><cntwtag></cntwtag><romatag>dragon quest xi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙 达尔大冒险</cntag><cntwtag></cntwtag><romatag>dragon quest dai no daibouken</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙怪兽篇</cntag><cntwtag></cntwtag><romatag>dragon quest monsters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙 勇者阿贝尔传说</cntag><cntwtag></cntwtag><romatag>dragon quest yuusha abel densetsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者斗恶龙 英雄</cntag><cntwtag></cntwtag><romatag>dragon quest heroes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>求生之路</cntag><cntwtag></cntwtag><romatag>left 4 dead</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>吸血莱恩</cntag><cntwtag></cntwtag><romatag>bloodrayne</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星球大战</cntag><cntwtag></cntwtag><romatag>star wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真·女神转生</cntag><cntwtag></cntwtag><romatag>shin megami tensei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真·女神转生 恶魔之子</cntag><cntwtag></cntwtag><romatag>shin megami tensei devil children</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真·女神转生3 夜曲</cntag><cntwtag></cntwtag><romatag>shin megami tensei nocturne</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女神异闻录 恶魔幸存者</cntag><cntwtag></cntwtag><romatag>devil survivor</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女神异闻录</cntag><cntwtag></cntwtag><romatag>persona</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女神异闻录2</cntag><cntwtag></cntwtag><romatag>persona 2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女神异闻录3</cntag><cntwtag></cntwtag><romatag>persona 3</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女神异闻录4</cntag><cntwtag></cntwtag><romatag>persona 4</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女神异闻录5</cntag><cntwtag></cntwtag><romatag>persona 5</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪兽电力公司</cntag><cntwtag></cntwtag><romatag>monsters inc.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>灰与幻想的格林姆迦尔</cntag><cntwtag></cntwtag><romatag>hai to gensou no grimgar</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美妙旋律</cntag><cntwtag></cntwtag><romatag>pretty rhythm</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔物娘图鉴</cntag><cntwtag></cntwtag><romatag>mamono musume zukan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星期一的丰满</cntag><cntwtag></cntwtag><romatag>getsuyoubi no tawawa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星</cntag><cntwtag></cntwtag><romatag>phantasy star</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星II 不归的终点</cntag><cntwtag></cntwtag><romatag>phantasy star 2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星Online</cntag><cntwtag></cntwtag><romatag>phantasy star online</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星Online 2</cntag><cntwtag></cntwtag><romatag>phantasy star online 2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星：携带版2</cntag><cntwtag></cntwtag><romatag>phantasy star portable 2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星 宇宙</cntag><cntwtag></cntwtag><romatag>phantasy star universe</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻之星ZERO</cntag><cntwtag></cntwtag><romatag>phantasy star zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ARMS</cntag><cntwtag></cntwtag><romatag>arms</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>铁臂阿童木</cntag><cntwtag></cntwtag><romatag>astro boy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>名侦探柯南</cntag><cntwtag></cntwtag><romatag>detective conan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我，要成为双马尾</cntag><cntwtag></cntwtag><romatag>ore twintail ni narimasu.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亲吻姐姐</cntag><cntwtag></cntwtag><romatag>kiss x sis</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>君吻</cntag><cntwtag></cntwtag><romatag>kimikiss</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超级索尼子</cntag><cntwtag></cntwtag><romatag>super sonico</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想</cntag><cntwtag></cntwtag><romatag>final fantasy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想II</cntag><cntwtag></cntwtag><romatag>final fantasy ii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想III</cntag><cntwtag></cntwtag><romatag>final fantasy iii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想IV</cntag><cntwtag></cntwtag><romatag>final fantasy iv</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想V</cntag><cntwtag></cntwtag><romatag>final fantasy v</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想VI</cntag><cntwtag></cntwtag><romatag>final fantasy vi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想VII</cntag><cntwtag></cntwtag><romatag>final fantasy vii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想VIII</cntag><cntwtag></cntwtag><romatag>final fantasy viii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想IX</cntag><cntwtag></cntwtag><romatag>final fantasy ix</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想X</cntag><cntwtag></cntwtag><romatag>final fantasy x</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想X-2</cntag><cntwtag></cntwtag><romatag>final fantasy x-2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想XI</cntag><cntwtag></cntwtag><romatag>final fantasy xi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想XII</cntag><cntwtag></cntwtag><romatag>final fantasy xii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想XIII</cntag><cntwtag></cntwtag><romatag>final fantasy xiii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想XIV</cntag><cntwtag></cntwtag><romatag>final fantasy xiv</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想XV</cntag><cntwtag></cntwtag><romatag>final fantasy xv</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想水晶编年史</cntag><cntwtag></cntwtag><romatag>final fantasy crystal chronicles</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想战略版</cntag><cntwtag></cntwtag><romatag>final fantasy tactics</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想战略版Advance</cntag><cntwtag></cntwtag><romatag>final fantasy tactics advance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想大乱斗</cntag><cntwtag></cntwtag><romatag>dissidia final fantasy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想：无限</cntag><cntwtag></cntwtag><romatag>final fantasy unlimited</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终幻想 零式</cntag><cntwtag></cntwtag><romatag>final fantasy type-0</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱杀宝贝</cntag><cntwtag></cntwtag><romatag>kill me baby</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>侵略！乌贼娘</cntag><cntwtag></cntwtag><romatag>shinryaku ika musume</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海贼王</cntag><cntwtag></cntwtag><romatag>one piece</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙珠</cntag><cntwtag></cntwtag><romatag>dragon ball</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙珠Z</cntag><cntwtag></cntwtag><romatag>dragon ball z</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙珠GT</cntag><cntwtag></cntwtag><romatag>dragon ball gt</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙珠超</cntag><cntwtag></cntwtag><romatag>dragon ball super</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱花庄的宠物女孩</cntag><cntwtag></cntwtag><romatag>sakurasou no pet na kanojo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无彩限的怪灵世界</cntag><cntwtag></cntwtag><romatag>myriad colors phantom world</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>噬魂师</cntag><cntwtag></cntwtag><romatag>soul eater</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Urara迷路帖</cntag><cntwtag></cntwtag><romatag>urara meirochou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>乱马½</cntag><cntwtag></cntwtag><romatag>ranma 12</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>缘之空</cntag><cntwtag></cntwtag><romatag>yosuga no sora</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 if</cntag><cntwtag></cntwtag><romatag>fire emblem if</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章</cntag><cntwtag></cntwtag><romatag>fire emblem</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 觉醒</cntag><cntwtag></cntwtag><romatag>fire emblem awakening</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章外传</cntag><cntwtag></cntwtag><romatag>fire emblem gaiden</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 圣战之系谱</cntag><cntwtag></cntwtag><romatag>fire emblem seisen no keifu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 多拉基亚776</cntag><cntwtag></cntwtag><romatag>fire emblem thracia 776</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 封印之剑</cntag><cntwtag></cntwtag><romatag>fire emblem fuuin no tsurugi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 烈火之剑</cntag><cntwtag></cntwtag><romatag>fire emblem rekka no ken</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 圣魔之光石</cntag><cntwtag></cntwtag><romatag>fire emblem the sacred stones</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 苍炎之轨迹</cntag><cntwtag></cntwtag><romatag>fire emblem path of radiance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 晓之女神</cntag><cntwtag></cntwtag><romatag>fire emblem radiant dawn</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 纹章之谜</cntag><cntwtag></cntwtag><romatag>fire emblem mystery of the emblem</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火焰之纹章 英雄</cntag><cntwtag></cntwtag><romatag>fire emblem heroes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银魂</cntag><cntwtag></cntwtag><romatag>gintama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>吊带袜天使</cntag><cntwtag></cntwtag><romatag>panty and stocking with garterbelt</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士</cntag><cntwtag></cntwtag><romatag>kamen rider</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士Decade</cntag><cntwtag></cntwtag><romatag>kamen rider decade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士亚马逊</cntag><cntwtag></cntwtag><romatag>kamen rider amazon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士Wizard</cntag><cntwtag></cntwtag><romatag>kamen rider wizard</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士W</cntag><cntwtag></cntwtag><romatag>kamen rider w</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士W</cntag><cntwtag></cntwtag><romatag>kamen rider double</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士响鬼</cntag><cntwtag></cntwtag><romatag>kamen rider hibiki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士Kabuto</cntag><cntwtag></cntwtag><romatag>kamen rider kabuto</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士电王</cntag><cntwtag></cntwtag><romatag>kamen rider den-o</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士Fourze</cntag><cntwtag></cntwtag><romatag>kamen rider fourze</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士OOO</cntag><cntwtag></cntwtag><romatag>kamen rider ooo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面骑士555</cntag><cntwtag></cntwtag><romatag>kamen rider 555</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真·假面骑士</cntag><cntwtag></cntwtag><romatag>kamen rider shin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>赌博默示录</cntag><cntwtag></cntwtag><romatag>kaiji</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的英雄学院</cntag><cntwtag></cntwtag><romatag>my hero academia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新妹魔王的契约者</cntag><cntwtag></cntwtag><romatag>shinmai maou no testament</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幼女战记</cntag><cntwtag></cntwtag><romatag>youjo senki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刀剑乱舞</cntag><cntwtag></cntwtag><romatag>touken ranbu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少年泰坦</cntag><cntwtag></cntwtag><romatag>teen titans</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传说之下</cntag><cntwtag></cntwtag><romatag>undertale</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>在弗雷迪的五个夜晚</cntag><cntwtag></cntwtag><romatag>five nights at freddys</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>一拳超人</cntag><cntwtag></cntwtag><romatag>one punch man</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑岩射手</cntag><cntwtag></cntwtag><romatag>black rock shooter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙之皇冠</cntag><cntwtag></cntwtag><romatag>dragons crown</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑街二人组</cntag><cntwtag></cntwtag><romatag>noir</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>罪恶王冠</cntag><cntwtag></cntwtag><romatag>guilty crown</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>娜娜</cntag><cntwtag></cntwtag><romatag>nana</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>尼尔</cntag><cntwtag></cntwtag><romatag>nier</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>尼尔：机械纪元</cntag><cntwtag></cntwtag><romatag>nier automata</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>心理测量者</cntag><cntwtag></cntwtag><romatag>psycho-pass</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少年骇客</cntag><cntwtag></cntwtag><romatag>ben 10</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>嘿，阿诺德！</cntag><cntwtag></cntwtag><romatag>hey arnold</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>文豪Stray Dogs</cntag><cntwtag></cntwtag><romatag>bungou stray dogs</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银仙</cntag><cntwtag></cntwtag><romatag>gugure kokkuri-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>疯狂动物城</cntag><cntwtag></cntwtag><romatag>zootopia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海猫鸣泣之时</cntag><cntwtag></cntwtag><romatag>umineko no naku koro ni</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的女神</cntag><cntwtag></cntwtag><romatag>ah my goddess</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>电波女与青春男</cntag><cntwtag></cntwtag><romatag>denpa onna to seishun otoko</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>未来日记</cntag><cntwtag></cntwtag><romatag>mirai nikki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>告诉我！辣妹子酱</cntag><cntwtag></cntwtag><romatag>oshiete galko-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>交响诗篇</cntag><cntwtag></cntwtag><romatag>eureka 7</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恶魔战士</cntag><cntwtag></cntwtag><romatag>darkstalkers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>X战警</cntag><cntwtag></cntwtag><romatag>x-men</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>X战警：进化</cntag><cntwtag></cntwtag><romatag>x-men evolution</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>草莓100%</cntag><cntwtag></cntwtag><romatag>ichigo 100</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>邻座的怪同学</cntag><cntwtag></cntwtag><romatag>tonari no kaibutsu-kun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>弹丸论破</cntag><cntwtag></cntwtag><romatag>danganronpa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>甲铁城的卡巴内利</cntag><cntwtag></cntwtag><romatag>koutetsujou no kabaneri</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏王</cntag><cntwtag></cntwtag><romatag>yu-gi-oh</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏王5D's</cntag><cntwtag></cntwtag><romatag>yu-gi-oh 5ds</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏王ZEXAL</cntag><cntwtag></cntwtag><romatag>yu-gi-oh zexal</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏王ARC-V</cntag><cntwtag></cntwtag><romatag>yu-gi-oh arc-v</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏王－怪兽之决斗GX</cntag><cntwtag></cntwtag><romatag>yu-gi-oh gx</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>游戏王VRAINS</cntag><cntwtag></cntwtag><romatag>yu-gi-oh vrains</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>好想告诉你</cntag><cntwtag></cntwtag><romatag>kimi ni todoke</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>晨曦公主</cntag><cntwtag></cntwtag><romatag>akatsuki no yona</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>就算是哥哥，有爱就没问题了，对吧</cntag><cntwtag></cntwtag><romatag>onii-chan dakedo ai sae areba kankeinai yo ne</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>腹黑妹妹控兄记!!</cntag><cntwtag></cntwtag><romatag>oniichan no koto nanka zenzen suki janain dakara ne</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>空之音</cntag><cntwtag></cntwtag><romatag>sora no woto</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>世纪末超自然学院</cntag><cntwtag></cntwtag><romatag>occult academy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>科学小飞侠Crowds</cntag><cntwtag></cntwtag><romatag>gatchaman crowds</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>沙耶之歌</cntag><cntwtag></cntwtag><romatag>saya no uta</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绯色战姬</cntag><cntwtag></cntwtag><romatag>vividred operation</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>萝莉的时间</cntag><cntwtag></cntwtag><romatag>kodomo no jikan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Shuffle!</cntag><cntwtag></cntwtag><romatag>shuffle</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超能战士</cntag><cntwtag></cntwtag><romatag>power rangers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法战士李维</cntag><cntwtag></cntwtag><romatag>rune soldier</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星之卡比</cntag><cntwtag></cntwtag><romatag>kirby</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱花任务</cntag><cntwtag></cntwtag><romatag>sakura quest</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ALDNOAH.ZERO</cntag><cntwtag></cntwtag><romatag>aldnoah.zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔王勇者</cntag><cntwtag></cntwtag><romatag>maoyuu maou yuusha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>喷射美少女</cntag><cntwtag></cntwtag><romatag>splatoon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱桃少女</cntag><cntwtag></cntwtag><romatag>prunus girl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>拳皇</cntag><cntwtag></cntwtag><romatag>king of fighters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱相随</cntag><cntwtag></cntwtag><romatag>love plus</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>纯情房东俏房客</cntag><cntwtag></cntwtag><romatag>love hina</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>赤发的白雪姬</cntag><cntwtag></cntwtag><romatag>akagami no shirayukihime</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>南家三姐妹</cntag><cntwtag></cntwtag><romatag>minami-ke</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女王之刃</cntag><cntwtag></cntwtag><romatag>queens blade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鹡鸰女神</cntag><cntwtag></cntwtag><romatag>sekirei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>结城友奈是勇者</cntag><cntwtag></cntwtag><romatag>yuuki yuuna wa yuusha de aru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>苍翼默示录</cntag><cntwtag></cntwtag><romatag>blazblue</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机甲少女</cntag><cntwtag></cntwtag><romatag>frame arms girl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>武装神姬</cntag><cntwtag></cntwtag><romatag>busou shinki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>猎天使魔女</cntag><cntwtag></cntwtag><romatag>bayonetta</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼泣</cntag><cntwtag></cntwtag><romatag>devil may cry</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>铁拳</cntag><cntwtag></cntwtag><romatag>tekken</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超级马里奥兄弟</cntag><cntwtag></cntwtag><romatag>super mario brothers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蜘蛛侠</cntag><cntwtag></cntwtag><romatag>spider-man</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>猫眼女枪手</cntag><cntwtag></cntwtag><romatag>gunsmith cats</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>智龙迷城</cntag><cntwtag></cntwtag><romatag>puzzle and dragons</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战姬绝唱Symphogear</cntag><cntwtag></cntwtag><romatag>senki zesshou symphogear</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>通灵王</cntag><cntwtag></cntwtag><romatag>shaman king</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪怪怪的鬼太郎</cntag><cntwtag></cntwtag><romatag>gegege no kitarou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>橘子酱男孩</cntag><cntwtag></cntwtag><romatag>marmalade boy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超能力魔美</cntag><cntwtag></cntwtag><romatag>esper mami</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蓝宝石之谜</cntag><cntwtag></cntwtag><romatag>fushigi no umi no nadia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机动战舰抚子</cntag><cntwtag></cntwtag><romatag>martian successor nadesico</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>奇诺之旅</cntag><cntwtag></cntwtag><romatag>kino no tabi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无限的未知</cntag><cntwtag></cntwtag><romatag>infinite ryvius</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天威勇士</cntag><cntwtag></cntwtag><romatag>machine robo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>巴哈姆特之怒</cntag><cntwtag></cntwtag><romatag>rage of bahamut</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>其中1个是妹妹</cntag><cntwtag></cntwtag><romatag>kono naka ni hitori imouto ga iru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美少女战士</cntag><cntwtag></cntwtag><romatag>sailor moon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>犬勇者物语</cntag><cntwtag></cntwtag><romatag>dog days</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>拜托了☆老师</cntag><cntwtag></cntwtag><romatag>onegai teacher</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>拜托了☆双子星</cntag><cntwtag></cntwtag><romatag>onegai twins</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>轮回的拉格朗日</cntag><cntwtag></cntwtag><romatag>rinne no lagrange</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔物娘的相伴日常</cntag><cntwtag></cntwtag><romatag>monster musume no iru nichijou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑礁</cntag><cntwtag></cntwtag><romatag>black lagoon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>史帝芬宇宙</cntag><cntwtag></cntwtag><romatag>steven universe</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>塞尔达传说</cntag><cntwtag></cntwtag><romatag>the legend of zelda</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女特工组</cntag><cntwtag></cntwtag><romatag>totally spies</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>科拉传奇</cntag><cntwtag></cntwtag><romatag>the legend of korra</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>监狱战舰</cntag><cntwtag></cntwtag><romatag>kangoku senkan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>监狱学园</cntag><cntwtag></cntwtag><romatag>prison school</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超时空要塞</cntag><cntwtag></cntwtag><romatag>macross</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超时空要塞Macross</cntag><cntwtag></cntwtag><romatag>the super dimension fortress macross</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超时空要塞F</cntag><cntwtag></cntwtag><romatag>macross frontier</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超时空要塞7</cntag><cntwtag></cntwtag><romatag>macross 7</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超时空要塞Δ</cntag><cntwtag></cntwtag><romatag>macross delta</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超时空要塞Zero</cntag><cntwtag></cntwtag><romatag>macross zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小红帽</cntag><cntwtag></cntwtag><romatag>little red riding hood</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>月刊少女野崎君</cntag><cntwtag></cntwtag><romatag>gekkan shoujo nozaki-kun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>临时女友</cntag><cntwtag></cntwtag><romatag>girl friend beta</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>食梦者</cntag><cntwtag></cntwtag><romatag>bakuman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>伪恋</cntag><cntwtag></cntwtag><romatag>nisekoi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>剑灵</cntag><cntwtag></cntwtag><romatag>blade and soul</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妖狐×仆SS</cntag><cntwtag></cntwtag><romatag>inu x boku ss</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>罪恶装备</cntag><cntwtag></cntwtag><romatag>guilty gear</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>七大罪</cntag><cntwtag></cntwtag><romatag>nanatsu no taizai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星际争霸</cntag><cntwtag></cntwtag><romatag>starcraft</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱丽丝梦游仙境</cntag><cntwtag></cntwtag><romatag>alice in wonderland</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>一骑当千</cntag><cntwtag></cntwtag><romatag>ikkitousen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>特种部队</cntag><cntwtag></cntwtag><romatag>g.i. joe</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银河战士</cntag><cntwtag></cntwtag><romatag>metroid</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>合金装备</cntag><cntwtag></cntwtag><romatag>metal gear solid</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>古墓丽影</cntag><cntwtag></cntwtag><romatag>tomb raider</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战士公主西娜</cntag><cntwtag></cntwtag><romatag>xena warrior princess</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>第五元素</cntag><cntwtag></cntwtag><romatag>the fifth element</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>终结者</cntag><cntwtag></cntwtag><romatag>terminator</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>百合熊风暴</cntag><cntwtag></cntwtag><romatag>yurikuma arashi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>探险时光</cntag><cntwtag></cntwtag><romatag>adventure time</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>噬血狂袭</cntag><cntwtag></cntwtag><romatag>strike the blood</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女武神驱动</cntag><cntwtag></cntwtag><romatag>valkyrie drive</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机械女神</cntag><cntwtag></cntwtag><romatag>saber marionette</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>与魔共舞</cntag><cntwtag></cntwtag><romatag>dance with devils</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>七武士</cntag><cntwtag></cntwtag><romatag>samurai 7</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>杰克武士</cntag><cntwtag></cntwtag><romatag>samurai jack</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼眼狂刀</cntag><cntwtag></cntwtag><romatag>samurai deeper kyo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>功夫猫党</cntag><cntwtag></cntwtag><romatag>samurai pizza cats</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>侍魂</cntag><cntwtag></cntwtag><romatag>samurai spirits</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>百花缭乱 武士少女</cntag><cntwtag></cntwtag><romatag>hyakka ryouran samurai girls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>混沌武士</cntag><cntwtag></cntwtag><romatag>samurai champloo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爆炸头武士</cntag><cntwtag></cntwtag><romatag>afro samurai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>侍战队真剑者</cntag><cntwtag></cntwtag><romatag>samurai sentai shinkenger</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>武士弗拉明戈</cntag><cntwtag></cntwtag><romatag>samurai flamenco</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>忌血的继承者</cntag><cntwtag></cntwtag><romatag>onechambara bikini samurai squad</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战国无双</cntag><cntwtag></cntwtag><romatag>samurai warriors</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真·三国无双</cntag><cntwtag></cntwtag><romatag>dynasty warriors</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恶魔之魂</cntag><cntwtag></cntwtag><romatag>demons souls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣剑传说</cntag><cntwtag></cntwtag><romatag>seiken densetsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣剑传说3</cntag><cntwtag></cntwtag><romatag>seiken densetsu 3</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>这个是僵尸吗？</cntag><cntwtag></cntwtag><romatag>kore wa zombie desu ka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小魔女DoReMi</cntag><cntwtag></cntwtag><romatag>ojamajo doremi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火星异种</cntag><cntwtag></cntwtag><romatag>terra formars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>千与千寻</cntag><cntwtag></cntwtag><romatag>spirited away</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神秘的世界</cntag><cntwtag></cntwtag><romatag>el hazard</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻模拟战</cntag><cntwtag></cntwtag><romatag>langrisser</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>秀逗魔导士</cntag><cntwtag></cntwtag><romatag>slayers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>UFO机器人 古连泰沙</cntag><cntwtag></cntwtag><romatag>grendizer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Keroro军曹</cntag><cntwtag></cntwtag><romatag>keroro gunsou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱花大战</cntag><cntwtag></cntwtag><romatag>sakura taisen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣斗士星矢</cntag><cntwtag></cntwtag><romatag>saint seiya</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海底娇娃蓝华</cntag><cntwtag></cntwtag><romatag>agent aika</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>城市猎人</cntag><cntwtag></cntwtag><romatag>city hunter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>罗德岛战记</cntag><cntwtag></cntwtag><romatag>record of lodoss war</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超级机器人大战</cntag><cntwtag></cntwtag><romatag>super robot wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超级机器人大战W</cntag><cntwtag></cntwtag><romatag>super robot wars w</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超级机器人大战K</cntag><cntwtag></cntwtag><romatag>super robot wars k</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>第2次超级机器人大战Z</cntag><cntwtag></cntwtag><romatag>super robot wars z 2nd</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无限边界：超级机器人大战OG传说</cntag><cntwtag></cntwtag><romatag>endless frontier</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>地狱之歌</cntag><cntwtag></cntwtag><romatag>hellsing</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>兔女郎的诱惑</cntag><cntwtag></cntwtag><romatag>super black jack</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>地狱老师</cntag><cntwtag></cntwtag><romatag>hell teacher nube</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>棺姬嘉依卡</cntag><cntwtag></cntwtag><romatag>hitsugi no chaika</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼神童子</cntag><cntwtag></cntwtag><romatag>kishin douji zenki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Muv-Luv</cntag><cntwtag></cntwtag><romatag>muv-luv</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Muv-Luv Alternative Total eclipse</cntag><cntwtag></cntwtag><romatag>muv-luv alternative total eclipse</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>破邪大星弹劾皇</cntag><cntwtag></cntwtag><romatag>dangaioh</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>三只眼</cntag><cntwtag></cntwtag><romatag>3x3 eyes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爆走猎人</cntag><cntwtag></cntwtag><romatag>bakuretsu hunters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>吸血姬美夕</cntag><cntwtag></cntwtag><romatag>vampire princess miyu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真爱记录</cntag><cntwtag></cntwtag><romatag>reco love</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>狼与香辛料</cntag><cntwtag></cntwtag><romatag>spice and wolf</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妖怪手表</cntag><cntwtag></cntwtag><romatag>youkai watch</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战争程序员白濑</cntag><cntwtag></cntwtag><romatag>battle programmer shirase</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>功夫熊猫</cntag><cntwtag></cntwtag><romatag>kung fu panda</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星蝶公主</cntag><cntwtag></cntwtag><romatag>star vs. the forces of evil</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阿甘妙世界</cntag><cntwtag></cntwtag><romatag>the amazing world of gumball</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>沃土</cntag><cntwtag></cntwtag><romatag>wakfu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宇宙小奇兵</cntag><cntwtag></cntwtag><romatag>wander over yonder</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蝙蝠侠</cntag><cntwtag></cntwtag><romatag>batman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>生化危机</cntag><cntwtag></cntwtag><romatag>resident evil</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>麻辣女孩</cntag><cntwtag></cntwtag><romatag>kim possible</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人类衰退之后</cntag><cntwtag></cntwtag><romatag>jinrui wa suitai shimashita</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>真知子老师</cntag><cntwtag></cntwtag><romatag>miss machiko</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者王</cntag><cntwtag></cntwtag><romatag>gaogaigar</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>吹响！悠风号</cntag><cntwtag></cntwtag><romatag>hibike euphonium</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>仙境传说</cntag><cntwtag></cntwtag><romatag>ragnarok online</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>英雄不再</cntag><cntwtag></cntwtag><romatag>no more heroes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恶魔之谜</cntag><cntwtag></cntwtag><romatag>akuma no riddle</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>不死者之王</cntag><cntwtag></cntwtag><romatag>overlord</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Fullani</cntag><cntwtag></cntwtag><romatag>full ani</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>全金属狂潮</cntag><cntwtag></cntwtag><romatag>full metal panic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>钢之炼金术师</cntag><cntwtag></cntwtag><romatag>fullmetal alchemist</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>寻找满月</cntag><cntwtag></cntwtag><romatag>full moon wo sagashite</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>装甲恶鬼村正</cntag><cntwtag></cntwtag><romatag>full metal daemon muramasa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>普通女高中生要做当地偶像</cntag><cntwtag></cntwtag><romatag>futsuu no joshikousei ga locodol yattemita.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>辐射</cntag><cntwtag></cntwtag><romatag>fallout</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻拉拉</cntag><cntwtag></cntwtag><romatag>fancy lala</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>快打旋风</cntag><cntwtag></cntwtag><romatag>final fight</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美女与野兽</cntag><cntwtag></cntwtag><romatag>beauty and the beast</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>笨蛋测验召唤兽</cntag><cntwtag></cntwtag><romatag>baka to test to shoukanjuu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣灵之心</cntag><cntwtag></cntwtag><romatag>arcana heart</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>HEROMAN</cntag><cntwtag></cntwtag><romatag>heroman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>动物侦探奇鲁米</cntag><cntwtag></cntwtag><romatag>anyamaru tantei kiruminzoo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>境界线上的地平线</cntag><cntwtag></cntwtag><romatag>kyoukai senjou no horizon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>RWBY</cntag><cntwtag></cntwtag><romatag>rwby</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鲁邦三世</cntag><cntwtag></cntwtag><romatag>lupin iii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>偶像梦幻祭</cntag><cntwtag></cntwtag><romatag>ensemble stars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亚人</cntag><cntwtag></cntwtag><romatag>ajin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>王国之心</cntag><cntwtag></cntwtag><romatag>kingdom hearts</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>赌博霸王传 零</cntag><cntwtag></cntwtag><romatag>tobaku haouden zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神无月的巫女</cntag><cntwtag></cntwtag><romatag>kannazuki no miko</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>排球少年!!</cntag><cntwtag></cntwtag><romatag>haikyuu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Free! 男子游泳部</cntag><cntwtag></cntwtag><romatag>free</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>曾几何时天魔的黑兔</cntag><cntwtag></cntwtag><romatag>itsuka tenma no kuro usagi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法骑士雷亚斯</cntag><cntwtag></cntwtag><romatag>magic knight rayearth</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>这里是葛饰区龟有公园前派出所</cntag><cntwtag></cntwtag><romatag>kochikame</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>四驱兄弟</cntag><cntwtag></cntwtag><romatag>bakusou kyoudai lets and go</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飞天小女警</cntag><cntwtag></cntwtag><romatag>the powerpuff girls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飞天小女警Z</cntag><cntwtag></cntwtag><romatag>powerpuff girls z</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>充满干劲十足的科学冒险—神秘智慧石</cntag><cntwtag></cntwtag><romatag>omoikkiri kagaku adventure sou nanda</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱天使传说 婚纱桃子</cntag><cntwtag></cntwtag><romatag>wedding peach</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>不可思议星球的☆双胞胎公主</cntag><cntwtag></cntwtag><romatag>fushigiboshi no futagohime</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>创圣的亚库艾里翁</cntag><cntwtag></cntwtag><romatag>aquarion</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>创圣的亚库艾里翁LOGOS</cntag><cntwtag></cntwtag><romatag>aquarion logos</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>创圣的亚库艾里翁EVOL</cntag><cntwtag></cntwtag><romatag>aquarion evol</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>欢迎加入NHK！</cntag><cntwtag></cntwtag><romatag>welcome to the n.h.k.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱子小姐的脚下埋着尸体</cntag><cntwtag></cntwtag><romatag>sakurako-san no ashimoto ni wa shitai ga umatteiru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>下流梗不存在的灰暗世界</cntag><cntwtag></cntwtag><romatag>shimoneta to iu gainen ga sonzai shinai taikutsu na sekai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>巨乳幻想</cntag><cntwtag></cntwtag><romatag>kyonyuu fantasy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>噗哟噗哟</cntag><cntwtag></cntwtag><romatag>puyo puyo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>扩散性百万亚瑟王</cntag><cntwtag></cntwtag><romatag>kaku-san-sei million arthur</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>电脑小奇侠</cntag><cntwtag></cntwtag><romatag>genji tsuushin agedama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>电脑线圈</cntag><cntwtag></cntwtag><romatag>dennou coil</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>噬神者</cntag><cntwtag></cntwtag><romatag>god eater</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亚人酱有话要说</cntag><cntwtag></cntwtag><romatag>demi-chan wa kataritai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小红帽恰恰</cntag><cntwtag></cntwtag><romatag>akazukin cha cha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美少女雀士</cntag><cntwtag></cntwtag><romatag>idol janshi suchie-pai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>淫兽圣战</cntag><cntwtag></cntwtag><romatag>twin angels</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>月光淑女</cntag><cntwtag></cntwtag><romatag>shadow lady</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>胧村正</cntag><cntwtag></cntwtag><romatag>oboro muramasa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绝对防卫利维坦</cntag><cntwtag></cntwtag><romatag>zettai bouei leviathan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>心跳回忆</cntag><cntwtag></cntwtag><romatag>tokimeki memorial</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>未来卡 搭档对战</cntag><cntwtag></cntwtag><romatag>future card buddyfight</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>不可思议魔法药店</cntag><cntwtag></cntwtag><romatag>fun fun pharmacy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>校园日记 AIURA</cntag><cntwtag></cntwtag><romatag>aiura</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>极上学生会</cntag><cntwtag></cntwtag><romatag>gokujou seitokai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Show By Rock!!</cntag><cntwtag></cntwtag><romatag>show by rock</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星际火狐</cntag><cntwtag></cntwtag><romatag>star fox</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>白色相簿❄</cntag><cntwtag></cntwtag><romatag>white album</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天地无用！</cntag><cntwtag></cntwtag><romatag>tenchi muyo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>格斗女神</cntag><cntwtag></cntwtag><romatag>variable geo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>明日的娜嘉</cntag><cntwtag></cntwtag><romatag>ashita no nadja</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔力小金鱼</cntag><cntwtag></cntwtag><romatag>goldfish warning</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>铁甲万能侠</cntag><cntwtag></cntwtag><romatag>mazinger z</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔笛MAGI</cntag><cntwtag></cntwtag><romatag>magi the labyrinth of magic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>奥特曼</cntag><cntwtag></cntwtag><romatag>ultraman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>咱们裸熊</cntag><cntwtag></cntwtag><romatag>we bare bears</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪诞小镇</cntag><cntwtag></cntwtag><romatag>gravity falls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>擅长捉弄人的高木同学</cntag><cntwtag></cntwtag><romatag>karakai jouzu no takagi-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战国魔神豪将军</cntag><cntwtag></cntwtag><romatag>goshogun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无敌三四郎</cntag><cntwtag></cntwtag><romatag>plawres sanshiro</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>缎带魔法少女</cntag><cntwtag></cntwtag><romatag>hime-chans ribbon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>对魔忍阿莎姬</cntag><cntwtag></cntwtag><romatag>taimanin asagi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔界骑士英格丽德</cntag><cntwtag></cntwtag><romatag>makai kishi ingrid</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>对魔忍雪风</cntag><cntwtag></cntwtag><romatag>taimanin yukikaze</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海扁王</cntag><cntwtag></cntwtag><romatag>kick-ass</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>钢铁守护者</cntag><cntwtag></cntwtag><romatag>gad guard</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>提亚拉之泪</cntag><cntwtag></cntwtag><romatag>tears to tiara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天使不在的12月</cntag><cntwtag></cntwtag><romatag>december when there is no angel</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>漫画同人会</cntag><cntwtag></cntwtag><romatag>comic party</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>痕</cntag><cntwtag></cntwtag><romatag>kizuato</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>青涩宝贝</cntag><cntwtag></cntwtag><romatag>sentimental graffiti</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>死神</cntag><cntwtag></cntwtag><romatag>bleach</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>旋风管家</cntag><cntwtag></cntwtag><romatag>hayate no gotoku</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>更胜黎明前的琉璃色</cntag><cntwtag></cntwtag><romatag>yoake mae yori ruriiro na</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>FORTUNE ARTERIAL</cntag><cntwtag></cntwtag><romatag>fortune arterial</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>公主假日 ~回转苹果亭的一千零一夜~</cntag><cntwtag></cntwtag><romatag>princess holiday</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>东月西阳</cntag><cntwtag></cntwtag><romatag>tsuki wa higashi ni hi wa nishi ni</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大图书馆的牧羊人</cntag><cntwtag></cntwtag><romatag>daitoshokan no hitsujikai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>秽翼的尤斯蒂娅</cntag><cntwtag></cntwtag><romatag>aiyoku no eustia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>六花的勇者</cntag><cntwtag></cntwtag><romatag>rokka no yuusha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>清恋</cntag><cntwtag></cntwtag><romatag>seiren</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亲亲天使心</cntag><cntwtag></cntwtag><romatag>oniisama e...</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>长骑美眉</cntag><cntwtag></cntwtag><romatag>long riders</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美少女花骑士</cntag><cntwtag></cntwtag><romatag>flower knight girl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超元气三姐妹</cntag><cntwtag></cntwtag><romatag>mitsudomoe</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>农林</cntag><cntwtag></cntwtag><romatag>no-rin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宇宙战舰大和号</cntag><cntwtag></cntwtag><romatag>space battleship yamato</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传颂之物</cntag><cntwtag></cntwtag><romatag>utawarerumono</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传颂之物 虚伪的假面</cntag><cntwtag></cntwtag><romatag>utawarerumono itsuwari no kamen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恶魔高校D×D</cntag><cntwtag></cntwtag><romatag>highschool dxd</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>只有神知道的世界</cntag><cntwtag></cntwtag><romatag>the world god only knows</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛奇</cntag><cntwtag></cntwtag><romatag>mabinogi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>MUGEN</cntag><cntwtag></cntwtag><romatag>m.u.g.e.n</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>召唤之夜</cntag><cntwtag></cntwtag><romatag>summon night</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>舞-HiME</cntag><cntwtag></cntwtag><romatag>mai-hime</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>舞-乙HiME</cntag><cntwtag></cntwtag><romatag>mai-otome</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>冰菓</cntag><cntwtag></cntwtag><romatag>hyouka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大神与七位伙伴</cntag><cntwtag></cntwtag><romatag>ookami-san to shichinin no nakama-tachi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机巧少女不会受伤</cntag><cntwtag></cntwtag><romatag>kikou shoujo wa kizutsukanai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我不受欢迎，怎么想都是你们的错！</cntag><cntwtag></cntwtag><romatag>its not my fault that im not popular</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迷你裙宇宙海贼</cntag><cntwtag></cntwtag><romatag>mouretsu pirates</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>杀戮都市</cntag><cntwtag></cntwtag><romatag>gantz</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>愤怒的小鸟</cntag><cntwtag></cntwtag><romatag>angry birds</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>从零开始的魔法书</cntag><cntwtag></cntwtag><romatag>zero kara hajimeru mahou no sho</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>希德尼娅的骑士</cntag><cntwtag></cntwtag><romatag>knights of sidonia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>学园救援团</cntag><cntwtag></cntwtag><romatag>sket dance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>夏日大作战</cntag><cntwtag></cntwtag><romatag>summer wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>特别的她</cntag><cntwtag></cntwtag><romatag>flcl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>穿越时空的少女</cntag><cntwtag></cntwtag><romatag>the girl who leapt through time</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>闪电十一人</cntag><cntwtag></cntwtag><romatag>inazuma eleven</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大逃杀</cntag><cntwtag></cntwtag><romatag>battle royale</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>远古封印之炎</cntag><cntwtag></cntwtag><romatag>archaic sealed heat</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>水果篮子</cntag><cntwtag></cntwtag><romatag>fruits basket</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>TARI TARI</cntag><cntwtag></cntwtag><romatag>tari tari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>英雄传说</cntag><cntwtag></cntwtag><romatag>the legend of heroes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传说中勇者的传说</cntag><cntwtag></cntwtag><romatag>the legend of the legendary heroes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最后生还者</cntag><cntwtag></cntwtag><romatag>the last of us</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机器人总动员</cntag><cntwtag></cntwtag><romatag>wall-e</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>A.T.O.M.</cntag><cntwtag></cntwtag><romatag>alpha teens on machines</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神谕之战</cntag><cntwtag></cntwtag><romatag>tera</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝</cntag><cntwtag></cntwtag><romatag>digimon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝大冒险</cntag><cntwtag></cntwtag><romatag>digimon adventure</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝03驯兽师之王</cntag><cntwtag></cntwtag><romatag>digimon tamers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝04无限地带</cntag><cntwtag></cntwtag><romatag>digimon frontier</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝05拯救者</cntag><cntwtag></cntwtag><romatag>digimon savers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝06合体战争</cntag><cntwtag></cntwtag><romatag>digimon xros wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>数码宝贝宇宙-应用怪兽</cntag><cntwtag></cntwtag><romatag>digimon universe appli monsters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>白雪公主和七个小矮人</cntag><cntwtag></cntwtag><romatag>snow white and the seven dwarfs</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>影之诗</cntag><cntwtag></cntwtag><romatag>shadowverse</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光速跑者21号</cntag><cntwtag></cntwtag><romatag>eyeshield 21</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>骷髅女孩</cntag><cntwtag></cntwtag><romatag>skullgirls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>午夜凶铃</cntag><cntwtag></cntwtag><romatag>the ring</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>指环王</cntag><cntwtag></cntwtag><romatag>the lord of the rings</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑客帝国</cntag><cntwtag></cntwtag><romatag>the matrix</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼玩人</cntag><cntwtag></cntwtag><romatag>evil dead</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>杀出个黎明</cntag><cntwtag></cntwtag><romatag>from dusk till dawn</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>模拟人生</cntag><cntwtag></cntwtag><romatag>the sims</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魅影巨神</cntag><cntwtag></cntwtag><romatag>the big o</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>狮子王</cntag><cntwtag></cntwtag><romatag>the lion king</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>冰雪奇缘</cntag><cntwtag></cntwtag><romatag>frozen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>格斗之王</cntag><cntwtag></cntwtag><romatag>mortal kombat</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阿拉丁</cntag><cntwtag></cntwtag><romatag>aladdin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小美人鱼</cntag><cntwtag></cntwtag><romatag>the little mermaid</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亚特兰蒂斯：失落的帝国</cntag><cntwtag></cntwtag><romatag>atlantis the lost empire</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战国少女～桃色异传～</cntag><cntwtag></cntwtag><romatag>sengoku otome</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪物猎人</cntag><cntwtag></cntwtag><romatag>monster hunter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>千年战争Aigis</cntag><cntwtag></cntwtag><romatag>sennen sensou aigis</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星之海洋3</cntag><cntwtag></cntwtag><romatag>star ocean 3</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>心灵链环</cntag><cntwtag></cntwtag><romatag>kokoro connect</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机甲宝贝</cntag><cntwtag></cntwtag><romatag>robopon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>枪械少女!!</cntag><cntwtag></cntwtag><romatag>upotte</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>东京喵喵</cntag><cntwtag></cntwtag><romatag>tokyo mew mew</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔力女管家</cntag><cntwtag></cntwtag><romatag>mahoromatic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妹妹公主</cntag><cntwtag></cntwtag><romatag>sister princess</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>逆转裁判</cntag><cntwtag></cntwtag><romatag>ace attorney</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>老虎和兔子</cntag><cntwtag></cntwtag><romatag>tiger and bunny</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>攻壳机动队</cntag><cntwtag></cntwtag><romatag>ghost in the shell</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>全职猎人</cntag><cntwtag></cntwtag><romatag>hunter x hunter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>哈尔的移动城堡</cntag><cntwtag></cntwtag><romatag>howls moving castle</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔女宅急便</cntag><cntwtag></cntwtag><romatag>kikis delivery service</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>皇牌空战</cntag><cntwtag></cntwtag><romatag>ace combat</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人鱼的旋律</cntag><cntwtag></cntwtag><romatag>mermaid melody pichi pichi pitch</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女排No.1</cntag><cntwtag></cntwtag><romatag>attack no. 1</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恶魔人</cntag><cntwtag></cntwtag><romatag>devilman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>月光女侠</cntag><cntwtag></cntwtag><romatag>la seine no hoshi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法俏佳人</cntag><cntwtag></cntwtag><romatag>winx club</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>猫眼三姐妹</cntag><cntwtag></cntwtag><romatag>cats eye</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>变形金刚</cntag><cntwtag></cntwtag><romatag>transformers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高校舰队</cntag><cntwtag></cntwtag><romatag>high school fleet</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新人女警斩子小姐</cntag><cntwtag></cntwtag><romatag>shinmai fukei kiruko-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>驯龙高手</cntag><cntwtag></cntwtag><romatag>how to train your dragon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>骇客娃娃</cntag><cntwtag></cntwtag><romatag>hacka doll</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪兽娘</cntag><cntwtag></cntwtag><romatag>kaiju girls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神罗万象</cntag><cntwtag></cntwtag><romatag>shinrabansho</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阿滋漫画大王</cntag><cntwtag></cntwtag><romatag>azumanga daioh</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银河快打</cntag><cntwtag></cntwtag><romatag>galaxy fight</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妖怪百姬谭</cntag><cntwtag></cntwtag><romatag>youkai hyakkitan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>要听爸爸的话！</cntag><cntwtag></cntwtag><romatag>papa no iu koto wo kikinasai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>搞姬日常</cntag><cntwtag></cntwtag><romatag>himegoto</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>乃木坂春香的秘密</cntag><cntwtag></cntwtag><romatag>nogizaka haruka no himitsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>南方公园</cntag><cntwtag></cntwtag><romatag>south park</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>装神少女小缠</cntag><cntwtag></cntwtag><romatag>soushin shoujo matoi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>金田一少年事件簿</cntag><cntwtag></cntwtag><romatag>kindaichi shounen no jikenbo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>血界战线</cntag><cntwtag></cntwtag><romatag>kekkai sensen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>东京放课后召唤师</cntag><cntwtag></cntwtag><romatag>tokyo afterschool summoners</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>沙加开拓者</cntag><cntwtag></cntwtag><romatag>saga frontier</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>十二国记</cntag><cntwtag></cntwtag><romatag>twelve kingdoms</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>炼金工作室</cntag><cntwtag></cntwtag><romatag>atelier series</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玛莉的工作室</cntag><cntwtag></cntwtag><romatag>atelier marie</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>艾莉的工作室</cntag><cntwtag></cntwtag><romatag>atelier elie</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>伊莉斯的工作室</cntag><cntwtag></cntwtag><romatag>atelier iris</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玛娜传奇</cntag><cntwtag></cntwtag><romatag>mana khemia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>罗罗娜的工作室</cntag><cntwtag></cntwtag><romatag>atelier rorona</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>托托莉的工作室</cntag><cntwtag></cntwtag><romatag>atelier totori</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梅露露的工作室</cntag><cntwtag></cntwtag><romatag>atelier meruru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>夏莉的工作室</cntag><cntwtag></cntwtag><romatag>atelier shallie</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙猫</cntag><cntwtag></cntwtag><romatag>my neighbor totoro</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>雷顿教授</cntag><cntwtag></cntwtag><romatag>professor layton</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>泡泡糖危机</cntag><cntwtag></cntwtag><romatag>bubblegum crisis</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神风怪盗贞德</cntag><cntwtag></cntwtag><romatag>kamikaze kaitou jeanne</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>博人传</cntag><cntwtag></cntwtag><romatag>boruto</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑骸</cntag><cntwtag></cntwtag><romatag>kuromukuro</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的世界</cntag><cntwtag></cntwtag><romatag>minecraft</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>世界名作剧场</cntag><cntwtag></cntwtag><romatag>world masterpiece theater</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>汤姆·索亚历险记</cntag><cntwtag></cntwtag><romatag>the adventures of tom sawyer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>悲惨世界 少女珂赛特</cntag><cntwtag></cntwtag><romatag>les miserables shoujo cosette</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>南方彩虹的露西</cntag><cntwtag></cntwtag><romatag>lucy of the southern rainbow</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>七海的堤可</cntag><cntwtag></cntwtag><romatag>tico of the seven seas</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>哥布拉传奇</cntag><cntwtag></cntwtag><romatag>space adventure cobra</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>甜心战士</cntag><cntwtag></cntwtag><romatag>cutey honey</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无限地带23</cntag><cntwtag></cntwtag><romatag>megazone 23</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>加油啊！！小露宝</cntag><cntwtag></cntwtag><romatag>ganbare robocon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>燃烧吧！！小露宝</cntag><cntwtag></cntwtag><romatag>moero robocon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>彩虹战队罗宾</cntag><cntwtag></cntwtag><romatag>rainbow sentai robin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无家可归的孩子蕾米</cntag><cntwtag></cntwtag><romatag>remi nobodys girl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女革命</cntag><cntwtag></cntwtag><romatag>revolutionary girl utena</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Cyber守护星</cntag><cntwtag></cntwtag><romatag>corrector yui</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>钢铁天使胡桃</cntag><cntwtag></cntwtag><romatag>steel angel kurumi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ZOIDS</cntag><cntwtag></cntwtag><romatag>zoids</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔兽世界</cntag><cntwtag></cntwtag><romatag>world of warcraft</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>暗黑破坏神</cntag><cntwtag></cntwtag><romatag>diablo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星际迷航</cntag><cntwtag></cntwtag><romatag>star trek</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美男高校地球防卫部LOVE!</cntag><cntwtag></cntwtag><romatag>binan koukou chikyuu bouei-bu love</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玩伴猫耳娘</cntag><cntwtag></cntwtag><romatag>asobi ni iku yo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刺客信条</cntag><cntwtag></cntwtag><romatag>assassins creed</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小飞侠</cntag><cntwtag></cntwtag><romatag>peter pan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>罗密欧的蓝天</cntag><cntwtag></cntwtag><romatag>romeos blue skies</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>三千里寻母记</cntag><cntwtag></cntwtag><romatag>3000 leagues in search of mother</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海蒂</cntag><cntwtag></cntwtag><romatag>heidi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阿尔卑斯山的少女</cntag><cntwtag></cntwtag><romatag>heidi girl of the alps</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绿山墙的安妮</cntag><cntwtag></cntwtag><romatag>anne of green gables</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我与我 两个绿蒂</cntag><cntwtag></cntwtag><romatag>futari no lotte</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>牧场上的少女卡特莉</cntag><cntwtag></cntwtag><romatag>katri girl of the meadows</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大草原上的小天使 灌丛婴猴</cntag><cntwtag></cntwtag><romatag>the bush baby</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>佩琳物语</cntag><cntwtag></cntwtag><romatag>the story of perrine</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阿拉蕾</cntag><cntwtag></cntwtag><romatag>dr. slump</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绝对无敌</cntag><cntwtag></cntwtag><romatag>zettai muteki raijin-oh</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>搞怪拍档</cntag><cntwtag></cntwtag><romatag>dirty pair</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱的小妇人物语</cntag><cntwtag></cntwtag><romatag>ai no wakakusa monogatari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱少女波丽安娜物语</cntag><cntwtag></cntwtag><romatag>the story of pollyanna</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小公主莎拉</cntag><cntwtag></cntwtag><romatag>princess sarah</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>伊沙米大冒险</cntag><cntwtag></cntwtag><romatag>tobe isami</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>哆啦A梦</cntag><cntwtag></cntwtag><romatag>doraemon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女砂沙美</cntag><cntwtag></cntwtag><romatag>pretty sammy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>汉妮与南妮</cntag><cntwtag></cntwtag><romatag>ochame na futago</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>奇迹少女理美</cntag><cntwtag></cntwtag><romatag>miracle girl limit-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法妖精贝露莎</cntag><cntwtag></cntwtag><romatag>mahou no yousei persia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法公主明琪桃子</cntag><cntwtag></cntwtag><romatag>minky momo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔女Megu</cntag><cntwtag></cntwtag><romatag>majokko megu-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我是小甜甜</cntag><cntwtag></cntwtag><romatag>creamy mami</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>欢欢仙子</cntag><cntwtag></cntwtag><romatag>magical angel sweet mint</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法使莎莉</cntag><cntwtag></cntwtag><romatag>sally the witch</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女拉拉贝尔</cntag><cntwtag></cntwtag><romatag>mahou shoujo lalabel</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>花仙子</cntag><cntwtag></cntwtag><romatag>hana no ko lunlun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法之星爱美</cntag><cntwtag></cntwtag><romatag>magical emi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>俏皮小花仙</cntag><cntwtag></cntwtag><romatag>floral magician mary bell</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法使恰比</cntag><cntwtag></cntwtag><romatag>mahou tsukai chappy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神奇糖</cntag><cntwtag></cntwtag><romatag>marvelous melmo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法偶像神笔由美</cntag><cntwtag></cntwtag><romatag>pastel yumi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天空之城</cntag><cntwtag></cntwtag><romatag>laputa castle in the sky</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>苹果核战记</cntag><cntwtag></cntwtag><romatag>appleseed</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亚子的秘密</cntag><cntwtag></cntwtag><romatag>himitsu no akko-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>以柔克刚</cntag><cntwtag></cntwtag><romatag>yawara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人造人009</cntag><cntwtag></cntwtag><romatag>cyborg 009</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>未来少年柯南</cntag><cntwtag></cntwtag><romatag>future boy conan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>为食龙少爷</cntag><cntwtag></cntwtag><romatag>muka muka paradise</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>下金蛋的鹅</cntag><cntwtag></cntwtag><romatag>the goose that laid the golden eggs</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>安徒生童话</cntag><cntwtag></cntwtag><romatag>andersen monogatari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>灰姑娘</cntag><cntwtag></cntwtag><romatag>cinderella</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>KO世纪三兽士</cntag><cntwtag></cntwtag><romatag>k.o. beast</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>崔普一家物语</cntag><cntwtag></cntwtag><romatag>trapp family story</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小妇人物语 南与乔老师</cntag><cntwtag></cntwtag><romatag>wakakusa monogatari nan to jou sensei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>长腿叔叔</cntag><cntwtag></cntwtag><romatag>my daddy long legs</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>守护天使莉莉佳</cntag><cntwtag></cntwtag><romatag>nurse angel ririka sos</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>逮捕令</cntag><cntwtag></cntwtag><romatag>youre under arrest</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幽幻怪社</cntag><cntwtag></cntwtag><romatag>phantom quest corp</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>福星小子</cntag><cntwtag></cntwtag><romatag>urusei yatsura</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>胜利女排</cntag><cntwtag></cntwtag><romatag>attacker you</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>巨神GORG</cntag><cntwtag></cntwtag><romatag>giant gorg</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神枪少女</cntag><cntwtag></cntwtag><romatag>gunslinger girl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幽游白书</cntag><cntwtag></cntwtag><romatag>yu yu hakusho</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>斯特拉的魔法</cntag><cntwtag></cntwtag><romatag>stella no mahou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>雏子的笔记</cntag><cntwtag></cntwtag><romatag>hinako note</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼灯的冷彻</cntag><cntwtag></cntwtag><romatag>hoozuki no reitetsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>钻石王牌</cntag><cntwtag></cntwtag><romatag>daiya no ace</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无头骑士异闻录 DuRaRaRa!!</cntag><cntwtag></cntwtag><romatag>durarara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>邪恶力量</cntag><cntwtag></cntwtag><romatag>supernatural</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恋爱与选举与巧克力</cntag><cntwtag></cntwtag><romatag>koi to senkyo to chocolate</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>哥布林杀手</cntag><cntwtag></cntwtag><romatag>goblin slayer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迷宫饭</cntag><cntwtag></cntwtag><romatag>dungeon meshi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的狐仙女友</cntag><cntwtag></cntwtag><romatag>kanokon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大小姐×执事！</cntag><cntwtag></cntwtag><romatag>ladies versus butlers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>苍蓝钢铁的琶音</cntag><cntwtag></cntwtag><romatag>arpeggio of blue steel</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔剑姬！</cntag><cntwtag></cntwtag><romatag>maken-ki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>乐园追放</cntag><cntwtag></cntwtag><romatag>expelled from paradise</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玻璃之唇</cntag><cntwtag></cntwtag><romatag>glasslip</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>花开伊吕波</cntag><cntwtag></cntwtag><romatag>hanasaku iroha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>茜色染红的街道</cntag><cntwtag></cntwtag><romatag>akaneiro ni somaru saka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>架向星空之桥</cntag><cntwtag></cntwtag><romatag>hoshizora e kakaru hashi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>GJ部</cntag><cntwtag></cntwtag><romatag>gj-bu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>旋风之用心棒</cntag><cntwtag></cntwtag><romatag>kaze no yojimbo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机神大战-巨型方程式</cntag><cntwtag></cntwtag><romatag>kishin taisen gigantic formula</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>.hack</cntag><cntwtag></cntwtag><romatag>.hack</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>.hack//SIGN</cntag><cntwtag></cntwtag><romatag>.hacksign</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>.hack//G.U.</cntag><cntwtag></cntwtag><romatag>.hackg.u.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>.hack//Roots</cntag><cntwtag></cntwtag><romatag>.hackroots</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>.hack//黄昏的腕轮传说</cntag><cntwtag></cntwtag><romatag>.hacklegend of the twilight</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>记录的地平线</cntag><cntwtag></cntwtag><romatag>log horizon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>见习神仙 秘密的心灵</cntag><cntwtag></cntwtag><romatag>kamisama minarai himitsu no cocotama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幻灵镇魂曲</cntag><cntwtag></cntwtag><romatag>phantom of inferno</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>戏剧性谋杀</cntag><cntwtag></cntwtag><romatag>dramatical murder</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机器人笔记</cntag><cntwtag></cntwtag><romatag>robotics notes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>乱步奇谭 拉普拉斯的游戏</cntag><cntwtag></cntwtag><romatag>rampo kitan game of laplace</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>重力眩晕</cntag><cntwtag></cntwtag><romatag>gravity rush</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星际牛仔</cntag><cntwtag></cntwtag><romatag>cowboy bebop</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Wii Fit</cntag><cntwtag></cntwtag><romatag>wii fit</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>歌之王子殿下</cntag><cntwtag></cntwtag><romatag>uta no prince-sama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>变身！公主偶像</cntag><cntwtag></cntwtag><romatag>hime chen otogi chikku idol lilpri</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Ib</cntag><cntwtag></cntwtag><romatag>ib</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>草莓棉花糖</cntag><cntwtag></cntwtag><romatag>ichigo mashimaro</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>当不成勇者的我，只好认真找工作了。</cntag><cntwtag></cntwtag><romatag>yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣枪修女</cntag><cntwtag></cntwtag><romatag>chrono crusade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宇宙刑警</cntag><cntwtag></cntwtag><romatag>lost universe</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蓝海少女！</cntag><cntwtag></cntwtag><romatag>amanchu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>漫画家与助手</cntag><cntwtag></cntwtag><romatag>mangaka-san to assistant-san to</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>SISTERS～夏最后之日～</cntag><cntwtag></cntwtag><romatag>sisters natsu no saigo no hi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>东京 7th Sisters</cntag><cntwtag></cntwtag><romatag>tokyo 7th sisters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>第七龙神</cntag><cntwtag></cntwtag><romatag>7th dragon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蓝色计划-地球SOS</cntag><cntwtag></cntwtag><romatag>project blue earth sos</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱姬华传</cntag><cntwtag></cntwtag><romatag>sakura hime</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>第三次生日</cntag><cntwtag></cntwtag><romatag>the 3rd birthday</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飞鸟120% 燃烧的学园祭</cntag><cntwtag></cntwtag><romatag>asuka 120</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小兔飞飞</cntag><cntwtag></cntwtag><romatag>jumping rabbit</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>反斗家族</cntag><cntwtag></cntwtag><romatag>the fairly oddparents</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣诞之吻</cntag><cntwtag></cntwtag><romatag>amagami</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亲亲麻吉</cntag><cntwtag></cntwtag><romatag>fosters home for imaginary friends</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飞出个未来</cntag><cntwtag></cntwtag><romatag>futurama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>你在米吉多之丘的呼唤</cntag><cntwtag></cntwtag><romatag>kimi ga yobu megiddo no oka de</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑子的篮球</cntag><cntwtag></cntwtag><romatag>kuroko no basuke</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔王与我</cntag><cntwtag></cntwtag><romatag>boku to maou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刻耳柏洛斯</cntag><cntwtag></cntwtag><romatag>cerberus</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>机器人少女Z</cntag><cntwtag></cntwtag><romatag>robot girls z</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>秋叶原之旅</cntag><cntwtag></cntwtag><romatag>akibas trip</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇气默示录</cntag><cntwtag></cntwtag><romatag>bravely default</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔弹之王与战姬</cntag><cntwtag></cntwtag><romatag>madan no ou to vanadis</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>STAR DRIVER 闪亮的塔科特</cntag><cntwtag></cntwtag><romatag>star driver</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传说</cntag><cntwtag></cntwtag><romatag>tales of</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幻想传说</cntag><cntwtag></cntwtag><romatag>tales of phantasia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宿命传说</cntag><cntwtag></cntwtag><romatag>tales of destiny</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>永恒传说</cntag><cntwtag></cntwtag><romatag>tales of eternia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>仙乐传说</cntag><cntwtag></cntwtag><romatag>tales of symphonia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>重生传说</cntag><cntwtag></cntwtag><romatag>tales of rebirth</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>遗迹传说</cntag><cntwtag></cntwtag><romatag>tales of legendia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>深渊传说</cntag><cntwtag></cntwtag><romatag>tales of the abyss</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣洁传说</cntag><cntwtag></cntwtag><romatag>tales of innocence</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>薄暮传说</cntag><cntwtag></cntwtag><romatag>tales of vesperia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>心灵传说</cntag><cntwtag></cntwtag><romatag>tales of hearts</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣恩传说</cntag><cntwtag></cntwtag><romatag>tales of graces</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无尽传说</cntag><cntwtag></cntwtag><romatag>tales of xillia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>情热传说</cntag><cntwtag></cntwtag><romatag>tales of zestiria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>狂战传说</cntag><cntwtag></cntwtag><romatag>tales of berseria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星彩传说</cntag><cntwtag></cntwtag><romatag>tales of asteria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小魔女学园</cntag><cntwtag></cntwtag><romatag>little witch academia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>不正经的魔术讲师与禁忌教典</cntag><cntwtag></cntwtag><romatag>rokudenashi majutsu koushi to akashic records</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>武术冠军</cntag><cntwtag></cntwtag><romatag>martial champion</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>VR战士</cntag><cntwtag></cntwtag><romatag>virtua fighter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>摔跤霸王</cntag><cntwtag></cntwtag><romatag>muscle bomber</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>水星领航员</cntag><cntwtag></cntwtag><romatag>aria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蔷薇少女</cntag><cntwtag></cntwtag><romatag>rozen maiden</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魂之系列</cntag><cntwtag></cntwtag><romatag>soulcalibur</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Empowered</cntag><cntwtag></cntwtag><romatag>empowered</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>寄生前夜</cntag><cntwtag></cntwtag><romatag>parasite eve</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>铁血战士</cntag><cntwtag></cntwtag><romatag>predator</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑夜传说</cntag><cntwtag></cntwtag><romatag>underworld</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幻影丹尼</cntag><cntwtag></cntwtag><romatag>danny phantom</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>喧闹一家亲</cntag><cntwtag></cntwtag><romatag>the loud house</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>交响情人梦</cntag><cntwtag></cntwtag><romatag>nodame cantabile</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Another</cntag><cntwtag></cntwtag><romatag>another</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战场女武神</cntag><cntwtag></cntwtag><romatag>valkyria chronicles</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>公主恋人</cntag><cntwtag></cntwtag><romatag>princess lover</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔女之刃</cntag><cntwtag></cntwtag><romatag>witchblade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战舰少女</cntag><cntwtag></cntwtag><romatag>warship girls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>SEXFRIEND</cntag><cntwtag></cntwtag><romatag>sexfriend</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>日在校园</cntag><cntwtag></cntwtag><romatag>school days</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Walkure Romanze 少女骑士物语</cntag><cntwtag></cntwtag><romatag>walkure romanze</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔神之骨</cntag><cntwtag></cntwtag><romatag>majin bone</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Starry☆Sky</cntag><cntwtag></cntwtag><romatag>starry sky</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天野惠浑身是破绽！</cntag><cntwtag></cntwtag><romatag>amano megumi ha sukidarake</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飚速宅男</cntag><cntwtag></cntwtag><romatag>yowamushi pedal</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑猫</cntag><cntwtag></cntwtag><romatag>black cat</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超级监狱</cntag><cntwtag></cntwtag><romatag>superjail</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超人</cntag><cntwtag></cntwtag><romatag>superman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>钢铁侠</cntag><cntwtag></cntwtag><romatag>iron man</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>钢铁侠：装甲冒险</cntag><cntwtag></cntwtag><romatag>iron man armored adventures</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>成龙历险记</cntag><cntwtag></cntwtag><romatag>jackie chan adventures</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>复仇者联盟</cntag><cntwtag></cntwtag><romatag>avengers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪物</cntag><cntwtag></cntwtag><romatag>monster</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>热带雨林的爆笑生活</cntag><cntwtag></cntwtag><romatag>jungle wa itsumo hare nochi guu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔力W.i.t.c.h.</cntag><cntwtag></cntwtag><romatag>w.i.t.c.h.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>忍者外传</cntag><cntwtag></cntwtag><romatag>ninja gaiden</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女爱上姐姐</cntag><cntwtag></cntwtag><romatag>otome wa boku ni koishiteru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妖精的尾巴</cntag><cntwtag></cntwtag><romatag>fairy tail</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>鬼父</cntag><cntwtag></cntwtag><romatag>oni chichi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>CLAMP学园侦探团</cntag><cntwtag></cntwtag><romatag>clamp gakuen tanteidan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女仆咖啡厅</cntag><cntwtag></cntwtag><romatag>soredemo machi wa mawatteiru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>欢乐树的朋友们</cntag><cntwtag></cntwtag><romatag>happy tree friends</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>他和她的事情</cntag><cntwtag></cntwtag><romatag>kare kano</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海绵宝宝</cntag><cntwtag></cntwtag><romatag>spongebob squarepants</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绿野仙踪</cntag><cntwtag></cntwtag><romatag>wizard of oz</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>乳霜柠檬</cntag><cntwtag></cntwtag><romatag>cream lemon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻俱乐部</cntag><cntwtag></cntwtag><romatag>dream c club</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>家庭教师HITMAN REBORN!</cntag><cntwtag></cntwtag><romatag>katekyo hitman reborn</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪怪守护神</cntag><cntwtag></cntwtag><romatag>tsugumomo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>辛普森一家</cntag><cntwtag></cntwtag><romatag>the simpsons</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>在盛夏等待</cntag><cntwtag></cntwtag><romatag>ano natsu de matteru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>网络精灵PIPOPA</cntag><cntwtag></cntwtag><romatag>net ghost pipopa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>特搜战车队</cntag><cntwtag></cntwtag><romatag>dominion tank police</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>秘境探险</cntag><cntwtag></cntwtag><romatag>ruin explorers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怒之铁拳</cntag><cntwtag></cntwtag><romatag>streets of rage</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦之蜡笔王国</cntag><cntwtag></cntwtag><romatag>yume no crayon oukoku</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛克人</cntag><cntwtag></cntwtag><romatag>megaman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛克人ZERO</cntag><cntwtag></cntwtag><romatag>megaman zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛克人ZX</cntag><cntwtag></cntwtag><romatag>megaman zx</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛克人X</cntag><cntwtag></cntwtag><romatag>mega man x</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛克人EXE</cntag><cntwtag></cntwtag><romatag>megaman battle network</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洛克人DASH</cntag><cntwtag></cntwtag><romatag>mega man legends</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>流星洛克人</cntag><cntwtag></cntwtag><romatag>mega man star force</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>金色的卡修</cntag><cntwtag></cntwtag><romatag>zatch bell</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>丽佳公主</cntag><cntwtag></cntwtag><romatag>super doll licca-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妙妙魔法屋</cntag><cntwtag></cntwtag><romatag>kasumin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>铃铛猫娘</cntag><cntwtag></cntwtag><romatag>di gi charat</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>挽歌</cntag><cntwtag></cntwtag><romatag>lamento</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>德克斯特的实验室</cntag><cntwtag></cntwtag><romatag>dexters laboratory</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>咕噜咕噜魔法阵</cntag><cntwtag></cntwtag><romatag>mahoujin guru guru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>六门天外</cntag><cntwtag></cntwtag><romatag>mon colle knights</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>I"s</cntag><cntwtag></cntwtag><romatag>is</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>百变金刚</cntag><cntwtag></cntwtag><romatag>beast wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>J计划2</cntag><cntwtag></cntwtag><romatag>wonder project j2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦精灵</cntag><cntwtag></cntwtag><romatag>nights into dreams...</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火热火热7</cntag><cntwtag></cntwtag><romatag>waku waku 7</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新手人妻</cntag><cntwtag></cntwtag><romatag>okusan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>学校怪谈</cntag><cntwtag></cntwtag><romatag>gakkou no kaidan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>GEAR战士电童</cntag><cntwtag></cntwtag><romatag>gear fighter dendoh</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>袖珍女侍小梅</cntag><cntwtag></cntwtag><romatag>hand maid may</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银河冒险战记</cntag><cntwtag></cntwtag><romatag>vandread</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女爱</cntag><cntwtag></cntwtag><romatag>mahou shoujo ai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>伊苏</cntag><cntwtag></cntwtag><romatag>ys</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦物语</cntag><cntwtag></cntwtag><romatag>yumeria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Re:CREATORS</cntag><cntwtag></cntwtag><romatag>re creators</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>饿沙罗鬼</cntag><cntwtag></cntwtag><romatag>gasaraki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>悠悠式</cntag><cntwtag></cntwtag><romatag>yuyushiki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刺猬索尼克</cntag><cntwtag></cntwtag><romatag>sonic the hedgehog</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超昂闪忍遥</cntag><cntwtag></cntwtag><romatag>beat blades haruka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>棋魂</cntag><cntwtag></cntwtag><romatag>hikaru no go</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蔷薇十字小剑</cntag><cntwtag></cntwtag><romatag>rosenkreuzstilette</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>久远之绊</cntag><cntwtag></cntwtag><romatag>kuon no kizuna</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蝰蛇GTS</cntag><cntwtag></cntwtag><romatag>viper gts</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙腾世纪</cntag><cntwtag></cntwtag><romatag>dragon age</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>猫愿三角恋</cntag><cntwtag></cntwtag><romatag>nyan koi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Front Innocent</cntag><cntwtag></cntwtag><romatag>another lady innocent</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>史上最强弟子兼一</cntag><cntwtag></cntwtag><romatag>historys strongest disciple kenichi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻骑士</cntag><cntwtag></cntwtag><romatag>growlanser</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>这个美术社大有问题！</cntag><cntwtag></cntwtag><romatag>kono bijutsubu ni wa mondai ga aru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣痕炼金士</cntag><cntwtag></cntwtag><romatag>seikon no qwaser</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>高校奇面组</cntag><cntwtag></cntwtag><romatag>high school kimengumi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阴阳大战记</cntag><cntwtag></cntwtag><romatag>onmyou taisenki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>苍之彼方的四重奏</cntag><cntwtag></cntwtag><romatag>ao no kanata no four rhythm</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>名将</cntag><cntwtag></cntwtag><romatag>captain commando</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超人学园钢帝王</cntag><cntwtag></cntwtag><romatag>voltage fighter gowcaizer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>极黑之翼</cntag><cntwtag></cntwtag><romatag>legend of lemnear</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>决斗大师</cntag><cntwtag></cntwtag><romatag>duel masters</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战斗之魂</cntag><cntwtag></cntwtag><romatag>battle spirits</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银河铁道999</cntag><cntwtag></cntwtag><romatag>galaxy express 999</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新大空魔龙</cntag><cntwtag></cntwtag><romatag>gaiking</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女前线</cntag><cntwtag></cntwtag><romatag>girls frontline</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绝对可怜CHILDREN</cntag><cntwtag></cntwtag><romatag>zettai karen children</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>选择感染者WIXOSS</cntag><cntwtag></cntwtag><romatag>selector infected wixoss</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>锁链战记</cntag><cntwtag></cntwtag><romatag>chain chronicle</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣天空战记</cntag><cntwtag></cntwtag><romatag>the vision of escaflowne</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玩偶游戏</cntag><cntwtag></cntwtag><romatag>kodomo no omocha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>七彩梦</cntag><cntwtag></cntwtag><romatag>quiz nanairo dreams</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>私立正义学园</cntag><cntwtag></cntwtag><romatag>rival schools</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>徽章战士</cntag><cntwtag></cntwtag><romatag>medabots</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绝对纯白魔法少女</cntag><cntwtag></cntwtag><romatag>zettai junpaku mahou shoujo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Honey Select</cntag><cntwtag></cntwtag><romatag>honey select</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人鱼又上钩</cntag><cntwtag></cntwtag><romatag>namiuchigiwa no muromi-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>紧扣的星星</cntag><cntwtag></cntwtag><romatag>kuttsukiboshi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣母在上</cntag><cntwtag></cntwtag><romatag>maria-sama ga miteru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>欢迎来到实力至上主义的教室</cntag><cntwtag></cntwtag><romatag>youkoso jitsuryoku shijou shugi no kyoushitsu e</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>狂赌之渊</cntag><cntwtag></cntwtag><romatag>kakegurui</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>传奇</cntag><cntwtag></cntwtag><romatag>legend</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>第一次的辣妹</cntag><cntwtag></cntwtag><romatag>hajimete no gal</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最强会长黑神</cntag><cntwtag></cntwtag><romatag>medaka box</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>翠星之加尔刚蒂亚</cntag><cntwtag></cntwtag><romatag>suisei no gargantia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迷茫管家与懦弱的我</cntag><cntwtag></cntwtag><romatag>mayo chiki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>兰斯</cntag><cntwtag></cntwtag><romatag>rance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者警察</cntag><cntwtag></cntwtag><romatag>brave police j-decker</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔女的使命</cntag><cntwtag></cntwtag><romatag>witch craft works</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>重装武器</cntag><cntwtag></cntwtag><romatag>heavy object</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宝贝公主</cntag><cntwtag></cntwtag><romatag>baby princess</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>生化奇兵</cntag><cntwtag></cntwtag><romatag>bioshock</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>生化奇兵：无限</cntag><cntwtag></cntwtag><romatag>bioshock infinite</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>斩·赤红之瞳！</cntag><cntwtag></cntwtag><romatag>akame ga kill</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>哈利波特</cntag><cntwtag></cntwtag><romatag>harry potter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>猫和老鼠</cntag><cntwtag></cntwtag><romatag>tom and jerry</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法科高中的劣等生</cntag><cntwtag></cntwtag><romatag>mahouka koukou no rettousei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>极度愉悦</cntag><cntwtag></cntwtag><romatag>euphoria</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>长发公主</cntag><cntwtag></cntwtag><romatag>tangled</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>头脑特工队</cntag><cntwtag></cntwtag><romatag>inside out</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>纸箱战机</cntag><cntwtag></cntwtag><romatag>danball senki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>猫狐警探</cntag><cntwtag></cntwtag><romatag>hyper police</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>彗星公主</cntag><cntwtag></cntwtag><romatag>cosmic baton girl comet-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>终极地带</cntag><cntwtag></cntwtag><romatag>zone of the enders</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>写真女友</cntag><cntwtag></cntwtag><romatag>photo kano</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>南瓜酒</cntag><cntwtag></cntwtag><romatag>the kabocha wine</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>今天开始当女子小学生</cntag><cntwtag></cntwtag><romatag>joshi shougakusei hajimemashita</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>卡片战斗先导者</cntag><cntwtag></cntwtag><romatag>cardfight vanguard</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>THE 御姐玫瑰</cntag><cntwtag></cntwtag><romatag>the onechanbara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>GOSICK</cntag><cntwtag></cntwtag><romatag>gosick</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战斗陀螺</cntag><cntwtag></cntwtag><romatag>beyblade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超能陆战队</cntag><cntwtag></cntwtag><romatag>big hero 6</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>汤摇庄的幽奈同学</cntag><cntwtag></cntwtag><romatag>yuragisou no yuuna-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女高网球部</cntag><cntwtag></cntwtag><romatag>teekyuu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人生</cntag><cntwtag></cntwtag><romatag>jinsei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>RAIL WARS! -日本国有铁道公安队-</cntag><cntwtag></cntwtag><romatag>rail wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>三坪房间的侵略者！？</cntag><cntwtag></cntwtag><romatag>rokujouma no shinryakusha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>生存游戏社</cntag><cntwtag></cntwtag><romatag>sabagebu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超自然9人组</cntag><cntwtag></cntwtag><romatag>occultic nine</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>北斗神拳</cntag><cntwtag></cntwtag><romatag>fist of the north star</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>勇者大战魔物娘</cntag><cntwtag></cntwtag><romatag>monster girl quest</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>GS美神 极乐大作战！！</cntag><cntwtag></cntwtag><romatag>ghost sweeper mikami</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大运动会</cntag><cntwtag></cntwtag><romatag>battle athletes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>柠檬汽水骑士</cntag><cntwtag></cntwtag><romatag>knights of ramune</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪盗圣少女</cntag><cntwtag></cntwtag><romatag>saint tail</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>狂乱家族日记</cntag><cntwtag></cntwtag><romatag>kyouran kazoku nikki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>酷伊忍者传</cntag><cntwtag></cntwtag><romatag>2x2 shinobuden</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>皇家新娘</cntag><cntwtag></cntwtag><romatag>marriage royale</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超昂天使 Escalayer</cntag><cntwtag></cntwtag><romatag>beat angel escalayer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法战士 Sweet Knights</cntag><cntwtag></cntwtag><romatag>mahou senshi sweet knights</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>R.O.D</cntag><cntwtag></cntwtag><romatag>read or die</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宇宙星路</cntag><cntwtag></cntwtag><romatag>uchuu no stellvia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>俺物语!!</cntag><cntwtag></cntwtag><romatag>ore monogatari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>摇曳百合</cntag><cntwtag></cntwtag><romatag>yuruyuri</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>死亡笔记</cntag><cntwtag></cntwtag><romatag>death note</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妙厨老爹</cntag><cntwtag></cntwtag><romatag>cooking papa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>火爆玫瑰</cntag><cntwtag></cntwtag><romatag>rumble roses</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>现视研</cntag><cntwtag></cntwtag><romatag>genshiken</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>欢迎来到Pia♥Carrot!!</cntag><cntwtag></cntwtag><romatag>pia carrot</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我们真的学不来</cntag><cntwtag></cntwtag><romatag>bokutachi wa benkyou ga dekinai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>线上游戏的老婆不可能是女生？</cntag><cntwtag></cntwtag><romatag>netoge no yome wa onnanoko ja nai to omotta</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>学园少女突袭者</cntag><cntwtag></cntwtag><romatag>schoolgirl strikers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>关于完全听不懂老公在说什么的事</cntag><cntwtag></cntwtag><romatag>danna ga nani o itteiru ka wakaranai ken</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黄金太阳</cntag><cntwtag></cntwtag><romatag>golden sun</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爱酷一族</cntag><cntwtag></cntwtag><romatag>the grim adventures of billy and mandy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神探加杰特</cntag><cntwtag></cntwtag><romatag>inspector gadget</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女Juniper Lee</cntag><cntwtag></cntwtag><romatag>the life and times of juniper lee</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>双星之阴阳师</cntag><cntwtag></cntwtag><romatag>sousei no onmyouji</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战国Collection</cntag><cntwtag></cntwtag><romatag>sengoku collection</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>奇异博士</cntag><cntwtag></cntwtag><romatag>doctor strange</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>骑士&魔法</cntag><cntwtag></cntwtag><romatag>knights and magic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法少女育成计划</cntag><cntwtag></cntwtag><romatag>mahou shoujo ikusei keikaku</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>亚尔斯兰战记</cntag><cntwtag></cntwtag><romatag>arslan senki</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超速变形螺旋杰特</cntag><cntwtag></cntwtag><romatag>chousoku henkei gyrozetter</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>拳愿阿修罗</cntag><cntwtag></cntwtag><romatag>kengan ashura</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>邻家的巫女在微笑</cntag><cntwtag></cntwtag><romatag>tonari no miko-san wa minna warau</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Aikatsu！偶像活动！</cntag><cntwtag></cntwtag><romatag>aikatsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>笨女孩</cntag><cntwtag></cntwtag><romatag>aho-girl</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>碧蓝航线</cntag><cntwtag></cntwtag><romatag>azur lane</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异世界食堂</cntag><cntwtag></cntwtag><romatag>isekai shokudou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>永生之酒</cntag><cntwtag></cntwtag><romatag>baccano</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>剑风传奇</cntag><cntwtag></cntwtag><romatag>berserk</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>带着智能手机闯荡异世界。</cntag><cntwtag></cntwtag><romatag>isekai wa smartphone to tomo ni.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>田中是年龄=没女朋友的魔法师</cntag><cntwtag></cntwtag><romatag>atelier tanaka</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>跟班×服务</cntag><cntwtag></cntwtag><romatag>servant x service</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爆音少女！！</cntag><cntwtag></cntwtag><romatag>bakuon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>日常系的异能战斗</cntag><cntwtag></cntwtag><romatag>inou-battle wa nichijou-kei no naka de</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>电器街的漫画店</cntag><cntwtag></cntwtag><romatag>denkigai no honya-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>精灵使的剑舞</cntag><cntwtag></cntwtag><romatag>bladedance of elementalers</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>初音岛</cntag><cntwtag></cntwtag><romatag>da capo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>初音岛II</cntag><cntwtag></cntwtag><romatag>da capo ii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>初音岛III</cntag><cntwtag></cntwtag><romatag>da capo iii</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔术前辈</cntag><cntwtag></cntwtag><romatag>tejina senpai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>女武士大冒险</cntag><cntwtag></cntwtag><romatag>valkyrie no bouken</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦幻战士</cntag><cntwtag></cntwtag><romatag>mugen senshi valis</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>梦猎人丽梦</cntag><cntwtag></cntwtag><romatag>dream hunter rem</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>来自深渊</cntag><cntwtag></cntwtag><romatag>made in abyss</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神奇桃子</cntag><cntwtag></cntwtag><romatag>wonder momo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>英雄银行</cntag><cntwtag></cntwtag><romatag>hero bank</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>兽旋战斗</cntag><cntwtag></cntwtag><romatag>monsuno</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天外魔境</cntag><cntwtag></cntwtag><romatag>tengai makyou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银翼超人</cntag><cntwtag></cntwtag><romatag>wingman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔力充电娘</cntag><cntwtag></cntwtag><romatag>fight ippatsu juuden-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超能力大战</cntag><cntwtag></cntwtag><romatag>needless</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣剑锻造师</cntag><cntwtag></cntwtag><romatag>the sacred blacksmith</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>肯普法</cntag><cntwtag></cntwtag><romatag>kampfer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阴阳师</cntag><cntwtag></cntwtag><romatag>onmyoji</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>极黑的布伦希尔特</cntag><cntwtag></cntwtag><romatag>brynhildr in the darkness</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超真实麻将</cntag><cntwtag></cntwtag><romatag>super real mahjong</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>西游记</cntag><cntwtag></cntwtag><romatag>journey to the west</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>武装炼金</cntag><cntwtag></cntwtag><romatag>busou renkin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>地狱少女</cntag><cntwtag></cntwtag><romatag>jigoku shoujo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美鸟的日记</cntag><cntwtag></cntwtag><romatag>midori no hibi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>精灵守护者</cntag><cntwtag></cntwtag><romatag>seirei no moribito</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飞轮少年</cntag><cntwtag></cntwtag><romatag>air gear</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>竹刀少女</cntag><cntwtag></cntwtag><romatag>bamboo blade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>吸血鬼同盟</cntag><cntwtag></cntwtag><romatag>dance in the vampire bund</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>结界女王</cntag><cntwtag></cntwtag><romatag>freezing</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>守护猫娘绯鞠</cntag><cntwtag></cntwtag><romatag>omamori himari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神曲奏界Polyphonica</cntag><cntwtag></cntwtag><romatag>shinkyoku soukai polyphonica</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天上天下</cntag><cntwtag></cntwtag><romatag>tenjou tenge</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>萌道鲜师</cntag><cntwtag></cntwtag><romatag>unbalance x unbalance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>圣洁天使</cntag><cntwtag></cntwtag><romatag>ange vierge</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>调教咖啡厅</cntag><cntwtag></cntwtag><romatag>blend s</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>命令与征服</cntag><cntwtag></cntwtag><romatag>command and conquer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星球流浪记</cntag><cntwtag></cntwtag><romatag>uninhabited planet survive</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>饿狼传说</cntag><cntwtag></cntwtag><romatag>fatal fury</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>公主王冠</cntag><cntwtag></cntwtag><romatag>princess crown</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爆裂天使</cntag><cntwtag></cntwtag><romatag>burst angel</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>K</cntag><cntwtag></cntwtag><romatag>k</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>网球王子</cntag><cntwtag></cntwtag><romatag>prince of tennis</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>霸王大系龙骑士</cntag><cntwtag></cntwtag><romatag>lord of lords ryu knight</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>飞天少女猪</cntag><cntwtag></cntwtag><romatag>tonde buurin</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>纳米核心</cntag><cntwtag></cntwtag><romatag>nano core</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>艾尔之光</cntag><cntwtag></cntwtag><romatag>elsword</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>进化战记</cntag><cntwtag></cntwtag><romatag>betterman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天使不设防！</cntag><cntwtag></cntwtag><romatag>tenshi ni narumon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>崩坏学园</cntag><cntwtag></cntwtag><romatag>collapse gakuen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔界天使吉普莉露</cntag><cntwtag></cntwtag><romatag>makai tenshi jibril</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>假面男仆</cntag><cntwtag></cntwtag><romatag>kamen no maid guy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>世界树的迷宫</cntag><cntwtag></cntwtag><romatag>etrian odyssey</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>寻找失去的未来</cntag><cntwtag></cntwtag><romatag>in search of the lost future</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙虎之拳</cntag><cntwtag></cntwtag><romatag>art of fighting</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>燃烧战队</cntag><cntwtag></cntwtag><romatag>burning force</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战斧</cntag><cntwtag></cntwtag><romatag>golden axe</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>啵咕物语</cntag><cntwtag></cntwtag><romatag>popful mail</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玛多拉之翼</cntag><cntwtag></cntwtag><romatag>the wing of madoola</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>学战都市Asterisk</cntag><cntwtag></cntwtag><romatag>gakusen toshi asterisk</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>东京食尸鬼</cntag><cntwtag></cntwtag><romatag>tokyo ghoul</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>心动文学俱乐部！</cntag><cntwtag></cntwtag><romatag>doki doki literature club</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>雷加利亚三圣星</cntag><cntwtag></cntwtag><romatag>regalia the three sacred stars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>风之传说XANADU</cntag><cntwtag></cntwtag><romatag>kaze no densetsu xanadu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>迷宫塔</cntag><cntwtag></cntwtag><romatag>tower of druaga</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>北欧女神</cntag><cntwtag></cntwtag><romatag>valkyrie profile</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玲音</cntag><cntwtag></cntwtag><romatag>serial experiments lain</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>暗杀教室</cntag><cntwtag></cntwtag><romatag>ansatsu kyoushitsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>镜之边缘</cntag><cntwtag></cntwtag><romatag>mirrors edge</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>伽利略少女</cntag><cntwtag></cntwtag><romatag>galilei donna</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>忍者神龟</cntag><cntwtag></cntwtag><romatag>teenage mutant ninja turtles</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>万能文化猫娘</cntag><cntwtag></cntwtag><romatag>all purpose cultural cat girl nuku nuku</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绝对双刃</cntag><cntwtag></cntwtag><romatag>absolute duo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>阿凡达</cntag><cntwtag></cntwtag><romatag>avatar</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>降世神通：最后的气宗</cntag><cntwtag></cntwtag><romatag>avatar the last airbender</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>核爆末世录</cntag><cntwtag></cntwtag><romatag>coppelion</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>相聚一刻</cntag><cntwtag></cntwtag><romatag>maison ikkoku</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>未确认进行式</cntag><cntwtag></cntwtag><romatag>mikakunin de shinkoukei</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黄昏少女×失忆</cntag><cntwtag></cntwtag><romatag>tasogare otome x amnesia</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>激战</cntag><cntwtag></cntwtag><romatag>guild wars</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战斗女子高校</cntag><cntwtag></cntwtag><romatag>battle girl high school</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>风之谷</cntag><cntwtag></cntwtag><romatag>nausicaa of the valley of the wind</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>红猪</cntag><cntwtag></cntwtag><romatag>porco rosso</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幽灵公主</cntag><cntwtag></cntwtag><romatag>princess mononoke</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>借东西的小人阿莉埃蒂</cntag><cntwtag></cntwtag><romatag>the secret world of arrietty</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>侧耳倾听</cntag><cntwtag></cntwtag><romatag>whisper of the heart</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宇宙巡警露露子</cntag><cntwtag></cntwtag><romatag>space patrol luluco</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>灼热的乒乓球娘</cntag><cntwtag></cntwtag><romatag>shakunetsu no takkyuu musume</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银之匙</cntag><cntwtag></cntwtag><romatag>silver spoon</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>如果有妹妹就好了。</cntag><cntwtag></cntwtag><romatag>imouto sae ireba ii.</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>BanG Dream!</cntag><cntwtag></cntwtag><romatag>bang dream</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>幻想大陆</cntag><cntwtag></cntwtag><romatag>fantasy earth zero</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神奇四侠</cntag><cntwtag></cntwtag><romatag>fantastic four</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>神奇女侠</cntag><cntwtag></cntwtag><romatag>wonder woman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>恶搞之家</cntag><cntwtag></cntwtag><romatag>family guy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银河天使</cntag><cntwtag></cntwtag><romatag>galaxy angel</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>魔法护士小麦</cntag><cntwtag></cntwtag><romatag>nurse witch komugi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蒲公英之恋</cntag><cntwtag></cntwtag><romatag>popotan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异度之刃</cntag><cntwtag></cntwtag><romatag>xenoblade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异度之刃X</cntag><cntwtag></cntwtag><romatag>xenoblade x</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异度之刃2</cntag><cntwtag></cntwtag><romatag>xenoblade chronicles 2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异度装甲</cntag><cntwtag></cntwtag><romatag>xenogears</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异度传说</cntag><cntwtag></cntwtag><romatag>xenosaga</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>剑芒罗曼史</cntag><cntwtag></cntwtag><romatag>shining sword romance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明</cntag><cntwtag></cntwtag><romatag>shining</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明与黑暗</cntag><cntwtag></cntwtag><romatag>shining in the darkness</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明力量</cntag><cntwtag></cntwtag><romatag>shining force</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明力量EXA</cntag><cntwtag></cntwtag><romatag>shining force exa</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明力量 羽翼</cntag><cntwtag></cntwtag><romatag>shining force feather</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明之泪</cntag><cntwtag></cntwtag><romatag>shining tears</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明之风</cntag><cntwtag></cntwtag><romatag>shining wind</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明之心</cntag><cntwtag></cntwtag><romatag>shining hearts</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明之刃</cntag><cntwtag></cntwtag><romatag>shining blade</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明之舟</cntag><cntwtag></cntwtag><romatag>shining ark</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光明之响</cntag><cntwtag></cntwtag><romatag>shining resonance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>露娜 银河之星物语</cntag><cntwtag></cntwtag><romatag>lunar silver star story</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>露娜 永恒之蓝</cntag><cntwtag></cntwtag><romatag>lunar eternal blue</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>玛莉亚†狂热</cntag><cntwtag></cntwtag><romatag>maria holic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我的Pico</cntag><cntwtag></cntwtag><romatag>boku no pico</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>苍蓝雷霆：刚巴尔特</cntag><cntwtag></cntwtag><romatag>azure striker gunvolt</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星星公主</cntag><cntwtag></cntwtag><romatag>narutaru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>扑杀天使朵库萝</cntag><cntwtag></cntwtag><romatag>bokusatsu tenshi dokuro-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>瑞克和莫蒂</cntag><cntwtag></cntwtag><romatag>rick and morty</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Slow Start</cntag><cntwtag></cntwtag><romatag>slow start</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Princess Principal</cntag><cntwtag></cntwtag><romatag>princess principal</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>三国志大战</cntag><cntwtag></cntwtag><romatag>sangokushi taisen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战国大战</cntag><cntwtag></cntwtag><romatag>sengoku taisen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大耳鼠</cntag><cntwtag></cntwtag><romatag>chinpui</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>不可思议的教室</cntag><cntwtag></cntwtag><romatag>pani poni dash</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>水月</cntag><cntwtag></cntwtag><romatag>suigetsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>水色</cntag><cntwtag></cntwtag><romatag>mizuiro</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙鸣</cntag><cntwtag></cntwtag><romatag>dragonaut</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>夜下降生</cntag><cntwtag></cntwtag><romatag>under night in-birth</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>境界触发者</cntag><cntwtag></cntwtag><romatag>world trigger</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>MØUSE</cntag><cntwtag></cntwtag><romatag>mouse</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我们这一家</cntag><cntwtag></cntwtag><romatag>atashinchi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蜡笔小新</cntag><cntwtag></cntwtag><romatag>crayon shin-chan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>乐一通</cntag><cntwtag></cntwtag><romatag>looney tunes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>摇曳露营△</cntag><cntwtag></cntwtag><romatag>yuru camp</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>齐木楠雄的灾难</cntag><cntwtag></cntwtag><romatag>saiki kusuo no psi nan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪物弹珠</cntag><cntwtag></cntwtag><romatag>monster strike</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>野良神</cntag><cntwtag></cntwtag><romatag>noragami</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Z/X</cntag><cntwtag></cntwtag><romatag>z slash x</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>新暗行御史</cntag><cntwtag></cntwtag><romatag>shin angyo onshi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>甲虫王者</cntag><cntwtag></cntwtag><romatag>kouchuu ouja mushiking</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>DARLING in the FRANXX</cntag><cntwtag></cntwtag><romatag>darling in the franxx</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妖精剑士f</cntag><cntwtag></cntwtag><romatag>fairy fencer f</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>崩坏学园</cntag><cntwtag></cntwtag><romatag>honkai gakuen</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>问答魔法学院</cntag><cntwtag></cntwtag><romatag>quiz magic academy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宝石之国</cntag><cntwtag></cntwtag><romatag>houseki no kuni</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ATLACH＝NACHA</cntag><cntwtag></cntwtag><romatag>atlach-nacha</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美少女梦工场</cntag><cntwtag></cntwtag><romatag>princess maker</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>灰色的果实</cntag><cntwtag></cntwtag><romatag>grisaia no kajitsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>樱Trick</cntag><cntwtag></cntwtag><romatag>sakura trick</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>pop子和pipi美的日常</cntag><cntwtag></cntwtag><romatag>pop team epic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>电锯甜心</cntag><cntwtag></cntwtag><romatag>lollipop chainsaw</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妃十三学园 Alternative Girls</cntag><cntwtag></cntwtag><romatag>alternative girls</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>死侍</cntag><cntwtag></cntwtag><romatag>deadpool</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>三颗星彩色冒险</cntag><cntwtag></cntwtag><romatag>mitsuboshi colors</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>巧克力与香子兰</cntag><cntwtag></cntwtag><romatag>nekopara</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>竞女!!!!!!!!</cntag><cntwtag></cntwtag><romatag>keijo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>表情奇幻冒险</cntag><cntwtag></cntwtag><romatag>the emoji movie</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>动物之森</cntag><cntwtag></cntwtag><romatag>animal crossing</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑色五叶草</cntag><cntwtag></cntwtag><romatag>black clover</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>蓝色斑点狗</cntag><cntwtag></cntwtag><romatag>blues clues</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>料理妈妈</cntag><cntwtag></cntwtag><romatag>cooking mama</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙穴历险记</cntag><cntwtag></cntwtag><romatag>dragons lair</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>三国演义</cntag><cntwtag></cntwtag><romatag>romance of the three kingdoms</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>爆肝工程师的异世界狂想曲</cntag><cntwtag></cntwtag><romatag>death march kara hajimaru isekai kyousoukyoku</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>白猫计划</cntag><cntwtag></cntwtag><romatag>shironeko project</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刀使之巫女</cntag><cntwtag></cntwtag><romatag>toji no miko</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>棒球大联盟</cntag><cntwtag></cntwtag><romatag>major</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>比宇宙更远的地方</cntag><cntwtag></cntwtag><romatag>sora yori mo tooi basho</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>边境保卫战</cntag><cntwtag></cntwtag><romatag>border break</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>最终休止符 -无止境的螺旋物语-</cntag><cntwtag></cntwtag><romatag>last period</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星光幻歌</cntag><cntwtag></cntwtag><romatag>stella glow</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙王的工作！</cntag><cntwtag></cntwtag><romatag>ryuuou no oshigoto</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>赛马娘Pretty Derby</cntag><cntwtag></cntwtag><romatag>uma musume pretty derby</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>OS娘</cntag><cntwtag></cntwtag><romatag>os-tan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>春原庄的管理员小姐</cntag><cntwtag></cntwtag><romatag>sunohara-sou no kanrinin-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>四叶妹妹！</cntag><cntwtag></cntwtag><romatag>yotsubato</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>兽耳王国国营放送</cntag><cntwtag></cntwtag><romatag>kemomimi oukoku kokuei housou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙之谷</cntag><cntwtag></cntwtag><romatag>dragon nest</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑兽～被白浊沾污的高傲圣女～</cntag><cntwtag></cntwtag><romatag>kuroinu kedakaki seijo wa hakudaku ni somaru</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>头文字D</cntag><cntwtag></cntwtag><romatag>initial d</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>对战偶像麻将Final Romance</cntag><cntwtag></cntwtag><romatag>final romance</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>紫罗兰永恒花园</cntag><cntwtag></cntwtag><romatag>violet evergarden</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>速攻学生会</cntag><cntwtag></cntwtag><romatag>sokkou seitokai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>桑塔</cntag><cntwtag></cntwtag><romatag>shantae</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>家有大猫</cntag><cntwtag></cntwtag><romatag>nekojishi</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小智是女孩子</cntag><cntwtag></cntwtag><romatag>tomo-chan wa onnanoko</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>惊爆草莓</cntag><cntwtag></cntwtag><romatag>strawberry panic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异世界居酒屋「阿信」</cntag><cntwtag></cntwtag><romatag>isekai izakaya nobu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ALIA's CARNIVAL!</cntag><cntwtag></cntwtag><romatag>alias carnival</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>摸索吧！部活剧</cntag><cntwtag></cntwtag><romatag>tesagure bukatsu-mono</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>DNA²</cntag><cntwtag></cntwtag><romatag>dna2</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>银河护卫队</cntag><cntwtag></cntwtag><romatag>guardians of the galaxy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙王传说</cntag><cntwtag></cntwtag><romatag>legendz</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>天使与龙的轮舞</cntag><cntwtag></cntwtag><romatag>cross ange</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>地下城与勇士</cntag><cntwtag></cntwtag><romatag>dungeon fighter online</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>战锤</cntag><cntwtag></cntwtag><romatag>warhammer</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>落第骑士英雄谭</cntag><cntwtag></cntwtag><romatag>rakudai kishi no cavalry</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>×××HOLiC</cntag><cntwtag></cntwtag><romatag>xxxholic</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>BEATLESS</cntag><cntwtag></cntwtag><romatag>beatless</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>青之驱魔师</cntag><cntwtag></cntwtag><romatag>ao no exorcist</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>GATE奇幻自卫队</cntag><cntwtag></cntwtag><romatag>gate - jieitai kano chi nite kaku tatakaeri</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>绝地求生</cntag><cntwtag></cntwtag><romatag>playerunknowns battlegrounds</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>政宗君的复仇</cntag><cntwtag></cntwtag><romatag>masamune-kun no revenge</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>工作细胞</cntag><cntwtag></cntwtag><romatag>hataraku saibou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>终结的炽天使</cntag><cntwtag></cntwtag><romatag>seraph of the end</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>穷神来了</cntag><cntwtag></cntwtag><romatag>binbougami ga</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>公主连结 Re:Dive</cntag><cntwtag></cntwtag><romatag>princess connect</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>龙息之焰</cntag><cntwtag></cntwtag><romatag>breath of fire</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>人渣的本愿</cntag><cntwtag></cntwtag><romatag>kuzu no honkai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>妖精的旋律</cntag><cntwtag></cntwtag><romatag>elfen lied</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>刀语</cntag><cntwtag></cntwtag><romatag>katanagatari</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>可塑性记忆</cntag><cntwtag></cntwtag><romatag>plastic memories</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>不要欺负我、长瀞同学</cntag><cntwtag></cntwtag><romatag>ijiranaide nagatoro-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>美女上司泷泽小姐</cntag><cntwtag></cntwtag><romatag>bijin onna joushi takizawa-san</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>黑暗圣经</cntag><cntwtag></cntwtag><romatag>bible black</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>宇崎酱想要玩耍！</cntag><cntwtag></cntwtag><romatag>uzaki-chan wa asobitai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>ONE～光辉的季节～</cntag><cntwtag></cntwtag><romatag>one kagayaku kisetsu e</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>守护英雄</cntag><cntwtag></cntwtag><romatag>guardian heroes</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>超人总动员</cntag><cntwtag></cntwtag><romatag>the incredibles</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>日式面包王</cntag><cntwtag></cntwtag><romatag>yakitate japan</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>星之梦</cntag><cntwtag></cntwtag><romatag>planetarian</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>洞窟物语</cntag><cntwtag></cntwtag><romatag>cave story</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>BTOOOM!惊爆游戏</cntag><cntwtag></cntwtag><romatag>btooom</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>日常</cntag><cntwtag></cntwtag><romatag>nichijou</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>异界少女召唤术</cntag><cntwtag></cntwtag><romatag>isekai maou to shoukan shoujo no dorei majutsu</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小熊维尼</cntag><cntwtag></cntwtag><romatag>winnie the pooh</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>无惧勇士</cntag><cntwtag></cntwtag><romatag>bravest warriors</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>小甜甜</cntag><cntwtag></cntwtag><romatag>candy candy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>海洋奇缘</cntag><cntwtag></cntwtag><romatag>moana</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>叔比狗</cntag><cntwtag></cntwtag><romatag>scooby-doo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>瓢虫少女</cntag><cntwtag></cntwtag><romatag>miraculous ladybug</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>闪电十一人GO</cntag><cntwtag></cntwtag><romatag>inazuma eleven go</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>虫奉行</cntag><cntwtag></cntwtag><romatag>mushibugyo</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>光神话 帕尔提娜之镜</cntag><cntwtag></cntwtag><romatag>kid icarus</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>奥帕拉女王传奇</cntag><cntwtag></cntwtag><romatag>legend of queen opala</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>少女☆歌剧Revue Starlight</cntag><cntwtag></cntwtag><romatag>shoujo kageki revue starlight</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>死亡微笑</cntag><cntwtag></cntwtag><romatag>deathsmiles</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>怪盗Joker</cntag><cntwtag></cntwtag><romatag>kaitou joker</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>Qualidea Code</cntag><cntwtag></cntwtag><romatag>qualidea code</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>终末的伊泽塔</cntag><cntwtag></cntwtag><romatag>shuumatsu no izetta</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>大金刚</cntag><cntwtag></cntwtag><romatag>donkey kong</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>哨声响起</cntag><cntwtag></cntwtag><romatag>whistle</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>我喜欢的是小说里的你</cntag><cntwtag></cntwtag><romatag>ore ga suki nano wa imouto dakedo imouto ja nai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>青春猪头少年不会梦到兔女郎学姐</cntag><cntwtag></cntwtag><romatag>seishun buta yarou wa bunny girl senpai no yume o minai</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>SSSS.GRIDMAN</cntag><cntwtag></cntwtag><romatag>ssss.gridman</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>芭比娃娃</cntag><cntwtag></cntwtag><romatag>barbie</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>地狱男爵</cntag><cntwtag></cntwtag><romatag>hellboy</romatag><krtag></krtag><entag></entag></item>
+<item><jptag></jptag><cntag>山姬之实</cntag><cntwtag></cntwtag><romatag>akebi no mi</romatag><krtag></krtag><entag></entag></item>
