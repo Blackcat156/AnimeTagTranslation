@@ -9,7 +9,8 @@ AnimeTagTranslation
 
 每个版本下的AllData文件夹即为所有数据合集。
 
-## 当前版本：1.0 [点击查看](https://gitee.com/acg12_gitee/AnimeTagTranslation/tree/master/AnimeTagTranslation/1.0/AllData)
+####  当前版本：1.0 [点击查看](https://github.com/Blackcat156/AnimeTagTranslation/tree/master/1.0/AllData)
+###### 实时更新在码云  [点击查看](https://gitee.com/acg12_gitee/AnimeTagTranslation)
 #### 使用说明
 文本以类XML格式保存，格式为：
 
